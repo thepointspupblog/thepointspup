@@ -14,6 +14,14 @@
         <guid>http://localhost:1313/categories/trip-reports/</guid>
         <description></description>
         </item>
+        <item>
+        <title>Guides</title>
+        <link>http://localhost:1313/categories/guides/</link>
+        <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/guides/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>
