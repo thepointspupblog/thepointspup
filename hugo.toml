@@ -8,15 +8,39 @@ theme = 'hugo-theme-stack'
   description = "Road trip free with your dog using credit card points"
   
 [params.sidebar]
-  emoji = "🐕"
   subtitle = "Road trip free with your dog"
 
-[menu]
+[params.sidebar.avatar]
+  enabled = true
+  local = false
+  src = "/avatar.jpeg"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [[menu.main]]
   name = "Home"
   url = "/"
   weight = 1
+
 [[menu.main]]
   name = "About"
   url = "/about"
   weight = 2
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact"
+  weight = 3
+
+[[menu.main]]
+  name = "Disclosure"
+  url = "/disclosure"
+  weight = 4
+
+[[menu.main]]
+  name = "Privacy"
+  url = "/privacy"
+  weight = 5
