@@ -1,7 +1,9 @@
 ---
 title: "Hilton Diamond Status: How to Get It and Why It's Worth It"
-date: 2024-12-01
+description: "How I got Diamond status, the perks that matter for pet travelers, and why it's easier than you think."
+date: 2025-12-01
 draft: false
+image: /images/pcb-ansel-bed.jpeg
 tags: ["hilton", "elite status", "guides", "points"]
 categories: ["Guides"]
 ---

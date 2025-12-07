@@ -6,14 +6,42 @@ theme = 'hugo-theme-stack'
 [params]
   mainSections = ['posts']
   description = "Road trip free with your dog using credit card points"
-  
+  favicon = "/favicon.ico"
+
 [params.sidebar]
+  emoji = "🐾"
   subtitle = "Road trip free with your dog"
 
 [params.sidebar.avatar]
   enabled = true
   local = false
   src = "/avatar.jpeg"
+
+[params.footer]
+  since = 2024
+  customText = "Made with ☕ and 🐾 in Jacksonville, FL"
+
+[params.colorScheme]
+  toggle = false
+  default = "light"
+
+[params.article]
+  math = false
+  toc = true
+  readingTime = true
+
+[[params.widgets.homepage]]
+  type = "search"
+
+[[params.widgets.homepage]]
+  type = "categories"
+
+[[params.widgets.homepage]]
+  type = "tag-cloud"
+  limit = 10
+
+[params.defaultImage.opengraph]
+  enabled = false
 
 [markup]
   [markup.goldmark]
