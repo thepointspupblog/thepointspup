@@ -102,6 +102,14 @@
         <guid>http://localhost:1313/tags/points/</guid>
         <description></description>
         </item>
+        <item>
+        <title>Elite Status</title>
+        <link>http://localhost:1313/tags/elite-status/</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/elite-status/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>
