@@ -1,15 +1,43 @@
 # ThePointsPup Launch Checklist
 
-## Phase 1: Required to Launch
-- [ ] About page
-- [ ] Affiliate disclosure page (FTC requirement)
-- [ ] Privacy policy page
-- [ ] Contact page
+## Completed ✅
 
-## Phase 2: Content (Goal: 8-10 posts before applying for affiliates)
+### Setup
+- [x] Domain registered (thepointspup.com on Porkbun)
+- [x] DNS configured for GitHub Pages
+- [x] Hugo installed on Mac
+- [x] Site created with Stack theme
+- [x] GitHub repo created and connected
+- [x] Email forwarding (woof@thepointspup.com → Gmail)
+- [x] Avatar added (Ansel on balcony)
+- [x] hugo.toml configured with menus
+
+### Phase 1: Required Pages
+- [x] About page (with styled image)
+- [x] Affiliate disclosure page
+- [x] Contact page
+- [x] Privacy policy page
+
+---
+
+## In Progress 🚧
+
+### PCB Post Issues to Fix
+- [ ] Add images to `static/images/`:
+  - pcb-balcony.jpg (hero - IMG_2832)
+  - pcb-diamond-status.jpg (IMG_2844)
+  - pcb-surfboard.jpg (IMG_2906)
+  - pcb-restaurant.jpg (IMG_2886)
+  - pcb-walking.jpg (IMG_2869)
+- [ ] Fix or remove internal links (point to posts that don't exist yet)
+- [ ] Remove AFFILIATE_LINK placeholders until approved
+
+---
+
+## Phase 2: Content (Goal: 8-10 posts before applying)
 
 ### Posts Ready
-1. [x] Panama City Beach Embassy Suites Review
+1. [x] Panama City Beach Embassy Suites Review (needs fixes above)
 
 ### Posts to Write
 2. [ ] Road Trip Essentials for Dogs (packing list)
@@ -23,19 +51,22 @@
 10. [ ] How to Earn Hilton Points Fast (For Dog Owners)
 
 ### Images Needed
-- [ ] Add Ansel balcony photo to `/static/images/pcb-ansel-balcony.jpg`
+- [ ] Add PCB trip photos (listed above)
 
-### Social
-- [ ] Create Instagram @thepointspup
+---
 
 ## Phase 3: Apply for Affiliates
 - [ ] Amazon Associates
 - [ ] Bankrate or Commission Soup (credit cards)
 - [ ] BringFido partner program
 
+---
+
 ## Phase 4: Monetize PCB Post
 - [ ] Replace AFFILIATE_LINK placeholders with real Amazon links
 - [ ] Add credit card affiliate links once approved
+
+---
 
 ## Internal Link Map
 Posts that need to link to each other:
