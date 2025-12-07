@@ -70,6 +70,38 @@
         <guid>http://localhost:1313/tags/road-trip/</guid>
         <description></description>
         </item>
+        <item>
+        <title>Credit Cards</title>
+        <link>http://localhost:1313/tags/credit-cards/</link>
+        <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/credit-cards/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Guides</title>
+        <link>http://localhost:1313/tags/guides/</link>
+        <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/guides/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Marriott</title>
+        <link>http://localhost:1313/tags/marriott/</link>
+        <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/marriott/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Points</title>
+        <link>http://localhost:1313/tags/points/</link>
+        <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/points/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>
