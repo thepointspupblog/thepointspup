@@ -9,7 +9,7 @@
 - [x] Site created with Stack theme
 - [x] GitHub repo created and connected
 - [x] Email forwarding (woof@thepointspup.com → Gmail)
-- [x] Avatar added (Ansel on balcony)
+- [x] Avatar added (new logo: paw pin with map background)
 - [x] hugo.toml configured with menus
 
 ### Phase 1: Required Pages
@@ -18,11 +18,12 @@
 - [x] Contact page
 - [x] Privacy policy page
 
-### Posts Complete (4/8-10)
+### Posts Complete (5/8-10)
 1. [x] Panama City Beach Embassy Suites Review (with images)
 2. [x] Road Trip Essentials for Dogs
 3. [x] Best Credit Cards for Pet Travelers (2025)
 4. [x] Hilton Diamond Status: How to Get It and Why It's Worth It
+5. [x] Best Pet-Friendly Beach Towns Near Jacksonville
 
 ### Internal Links Fixed ✅
 - [x] `/posts/best-credit-cards-pet-travelers`
@@ -39,24 +40,37 @@
 - [x] Post descriptions added to all 4 posts
 - [x] Mobile responsive media queries added
 - [x] Footer custom text added
+- [x] Card description text size fixed (.article-subtitle)
+- [x] Search functionality fixed (added JSON output, moved search page)
+- [x] Search label overlap fixed on search page
+- [x] Favicon created (paw + location pin icon)
+- [x] New logo/avatar created (paw pin with map background)
+- [x] Removed avatar double border
+- [x] Removed header images from posts (cleaner look)
+- [x] About page refreshed with better copy
+- [x] Contact page refreshed with better copy
 
 ---
 
-## Phase 1.5: Styling Polish (In Progress)
-- [ ] Fix card description text size (still too large)
+## Phase 1.5: Deployment & Final Polish (In Progress)
+
+### Deployment Setup
+- [ ] Configure GitHub Actions Hugo workflow (started but not committed)
+- [ ] Set up GitHub Pages to use the workflow
+- [ ] Connect custom domain in GitHub Pages settings
+
+### Testing on Live Site
+- [ ] Verify favicon displays correctly (didn't work locally in Safari - may work live)
+- [ ] Verify new logo/avatar displays correctly
+- [ ] Test search functionality on live site
 - [ ] Test mobile layout thoroughly
-- [ ] Fix search functionality
-- [ ] Add favicon file (paw print) to static/
-- [ ] Git commit and push styling changes
-- [ ] Test on live site
 
 ---
 
 ## Phase 2: Content (Goal: 8-10 posts before applying)
 
-### Posts to Write (need 4-6 more)
-5. [ ] Jacksonville to Panama City Beach: Pet-Friendly Road Trip
-6. [ ] Best Pet-Friendly Beach Towns Near Jacksonville
+### Posts to Write (need 3-5 more)
+6. [ ] Jacksonville to Panama City Beach: Pet-Friendly Road Trip
 7. [ ] Traveling with a Large Dog: Hotel Policies You Need to Know
 8. [ ] Pet-Friendly Marriott vs Hilton Comparison
 9. [ ] How to Use Free Night Certificates at Pet-Friendly Hotels

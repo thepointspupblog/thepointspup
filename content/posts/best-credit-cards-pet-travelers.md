@@ -3,7 +3,6 @@ title: "Best Credit Cards for Pet Travelers (2025)"
 description: "The cards I use to travel free with my dog — including sign-up bonuses and how the fees pay for themselves."
 date: 2025-12-02
 draft: false
-image: /images/margaritaville-pcb.jpeg
 tags: ["credit cards", "points", "hilton", "marriott", "guides"]
 categories: ["Guides"]
 ---

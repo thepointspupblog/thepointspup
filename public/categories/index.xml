@@ -6,20 +6,20 @@
         <description>Recent content in Categories on ThePointsPup</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Guides</title>
+        <link>http://localhost:1313/categories/guides/</link>
+        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/guides/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Trip Reports</title>
         <link>http://localhost:1313/categories/trip-reports/</link>
         <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/categories/trip-reports/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Guides</title>
-        <link>http://localhost:1313/categories/guides/</link>
-        <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/categories/guides/</guid>
         <description></description>
         </item>
         

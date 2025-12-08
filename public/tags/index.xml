@@ -6,10 +6,10 @@
         <description>Recent content in Tags on ThePointsPup</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Beach</title>
         <link>http://localhost:1313/tags/beach/</link>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/beach/</guid>
         <description></description>
@@ -17,9 +17,17 @@
         <item>
         <title>Florida</title>
         <link>http://localhost:1313/tags/florida/</link>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/florida/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Road Trip</title>
+        <link>http://localhost:1313/tags/road-trip/</link>
+        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/road-trip/</guid>
         <description></description>
         </item>
         <item>
@@ -60,14 +68,6 @@
         <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/packing-list/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Road Trip</title>
-        <link>http://localhost:1313/tags/road-trip/</link>
-        <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/road-trip/</guid>
         <description></description>
         </item>
         <item>

@@ -2,7 +2,6 @@
 title: "Panama City Beach with My 70-Pound Dog: Embassy Suites Review"
 date: 2025-12-04
 draft: false
-image: /images/balcony.jpeg
 tags: ["trip report", "florida", "hilton", "beach", "points redemption"]
 categories: ["Trip Reports"]
 ---
