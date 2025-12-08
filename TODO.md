@@ -18,12 +18,14 @@
 - [x] Contact page
 - [x] Privacy policy page
 
-### Posts Complete (5/8-10)
+### Posts Complete (7/8-10)
 1. [x] Panama City Beach Embassy Suites Review (with images)
 2. [x] Road Trip Essentials for Dogs
 3. [x] Best Credit Cards for Pet Travelers (2025)
 4. [x] Hilton Diamond Status: How to Get It and Why It's Worth It
 5. [x] Best Pet-Friendly Beach Towns Near Jacksonville
+6. [x] Jacksonville to Panama City Beach: Pet-Friendly Road Trip
+7. [x] Which Hilton Credit Card Is Best for Dog Travelers? (Quiz post)
 
 ### Internal Links Fixed ✅
 - [x] `/posts/best-credit-cards-pet-travelers`
@@ -50,6 +52,16 @@
 - [x] About page refreshed with better copy
 - [x] Contact page refreshed with better copy
 
+### Interactive Tools ✅
+- [x] Hilton Credit Card Quiz built (vanilla JS shortcode)
+- [x] 7 dog-travel focused questions
+- [x] Recommends: Hilton Honors, Surpass, Aspire, or Business card
+- [x] Styled to match site (forest green #2d5a47, cream)
+- [x] Placeholder affiliate links added
+- [x] BringFido link in disclaimer for pet policy lookups
+- [x] Weight limit warning added (50-75 lbs varies by property)
+- [x] Quiz post created: `/posts/hilton-credit-card-quiz`
+
 ---
 
 ## Phase 1.5: Deployment & Final Polish (In Progress)
@@ -64,17 +76,16 @@
 - [ ] Verify new logo/avatar displays correctly
 - [ ] Test search functionality on live site
 - [ ] Test mobile layout thoroughly
+- [ ] Test quiz on mobile
 
 ---
 
 ## Phase 2: Content (Goal: 8-10 posts before applying)
 
-### Posts to Write (need 3-5 more)
-6. [ ] Jacksonville to Panama City Beach: Pet-Friendly Road Trip
-7. [ ] Traveling with a Large Dog: Hotel Policies You Need to Know
-8. [ ] Pet-Friendly Marriott vs Hilton Comparison
-9. [ ] How to Use Free Night Certificates at Pet-Friendly Hotels
-10. [ ] How to Earn Hilton Points Fast (For Dog Owners)
+### Posts to Write (need 1-3 more)
+8. [ ] Traveling with a Large Dog: Hotel Policies You Need to Know
+9. [ ] Pet-Friendly Marriott vs Hilton Comparison
+10. [ ] How to Use Free Night Certificates at Pet-Friendly Hotels
 
 ---
 
@@ -86,6 +97,13 @@
 ---
 
 ## Phase 4: Add Affiliate Links
+
+### Quiz Post
+- [ ] Replace `YOUR_AFFILIATE_LINK_HONORS` with actual link
+- [ ] Replace `YOUR_AFFILIATE_LINK_SURPASS` with actual link
+- [ ] Replace `YOUR_AFFILIATE_LINK_ASPIRE` with actual link
+- [ ] Replace `YOUR_AFFILIATE_LINK_BUSINESS` with actual link
+- [ ] Replace BringFido `YOURAFFILIATEID` with actual ID
 
 ### PCB Post
 - [ ] Add credit card affiliate links once approved
@@ -114,8 +132,9 @@
 ---
 
 ## Post Ideas (Backlog)
-- Hotel review: [next trip]
+- Hotel review: Waldorf Astoria Cabo (January trip!)
 - Credit card showdown posts
 - Seasonal content (summer beach trips, fall road trips)
 - Dog-friendly restaurant guides by city
 - How to find pet-friendly hotels on points
+- Hotels with no weight limit for large dogs

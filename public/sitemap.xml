@@ -11,16 +11,25 @@
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/credit-cards/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/florida/</loc>
     <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/guides/</loc>
     <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/hilton/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/jacksonville-to-panama-city-beach-road-trip/</loc>
     <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/panama-city-beach/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/points/</loc>
     <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
@@ -35,8 +44,8 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hilton/</loc>
-    <lastmod>2025-12-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/hilton-credit-card-quiz/</loc>
+    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/pcb-embassy-suites-review/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
@@ -62,16 +71,10 @@
     <loc>http://localhost:1313/posts/best-credit-cards-pet-travelers/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/credit-cards/</loc>
-    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/guides/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/marriott/</loc>
-    <lastmod>2025-12-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/points/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/elite-status/</loc>
