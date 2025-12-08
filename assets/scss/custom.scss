@@ -330,6 +330,79 @@ footer *,
   text-decoration: underline;
 }
 
+.featured-section {
+  background: #f9f6f1;
+  border: 2px solid #2d5a47;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.featured-section h3 {
+  margin-top: 0;
+  color: #2d5a47;
+}
+
+.quiz-button {
+  display: inline-block;
+  background: #2d5a47;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 0.5rem;
+}
+
+.quiz-button:hover {
+  background: #234a39;
+  color: white;
+}
+
+.footer-nav {
+  margin-top: 0.5rem;
+}
+
+.footer-nav a {
+  color: #666;
+  font-size: 0.85rem;
+  margin: 0 0.5rem;
+  text-decoration: none;
+}
+
+.footer-nav a:hover {
+  color: #2d5a47;
+}
+
+.section-label {
+  color: #2d5a47;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e8e4df;
+}
+
+.article-list article:first-child {
+  position: relative;
+}
+
+.article-list article:first-child::before {
+  content: "📌 Featured";
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: #2d5a47;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 4px;
+  z-index: 10;
+}
+
 // ========== MOBILE RESPONSIVE ==========
 @media (max-width: 768px) {
   html {

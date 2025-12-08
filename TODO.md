@@ -63,35 +63,40 @@
 - [x] Sitemap submitted (32 pages discovered)
 - [x] Google Analytics installed (G-N01KQVRS3M)
 
+### Affiliate Programs ✅
+- [x] Amazon Associates approved (ID: thepointspup-20)
+- [x] BringFido partner program applied
+- [x] Gunner Kennels affiliate applied
+
+### Affiliate Links Added ✅
+- [x] Road Trip Essentials: Amazon links for gear (7 products)
+- [x] Jacksonville to PCB: Amazon links (4 products)
+
 ---
 
-## Phase 2: Final Checks & Affiliate Applications (Current)
+## Phase 2: Waiting On / In Progress
 
-### Test Live Site
+### Affiliate Approvals Pending
+- [ ] BringFido — waiting for approval
+- [ ] Gunner Kennels — waiting for approval
+- [ ] Credit card affiliates (Bankrate/Commission Soup) — apply in 1-2 months
+
+### Once Approved, Add Links To:
+- [ ] Large Dogs post: BringFido affiliate link
+- [ ] PCB Road Trip post: Gunner Kennel link
+- [ ] Road Trip Essentials: Gunner Kennel link
+- [ ] Quiz post: Credit card affiliate links (when approved)
+- [ ] Credit Cards post: Card affiliate links (when approved)
+- [ ] Diamond Status post: Card affiliate links (when approved)
+
+---
+
+## Phase 3: Site Testing
 - [ ] Test favicon displays correctly
 - [ ] Test search functionality
 - [ ] Test quiz on mobile
 - [ ] Test all internal links
 - [ ] Check all images load
-
-### Apply for Affiliates
-- [ ] Amazon Associates (apply now - easiest approval)
-- [ ] BringFido partner program (apply now - good niche fit)
-- [ ] Bankrate or Commission Soup (wait 1-2 months for traffic history)
-
----
-
-## Phase 3: Add Affiliate Links
-
-### Quiz Post
-- [ ] Replace YOUR_AFFILIATE_LINK placeholders (Honors, Surpass, Aspire, Business)
-- [ ] Replace BringFido YOURAFFILIATEID
-
-### Other Posts
-- [ ] Road Trip Essentials: Amazon links for gear
-- [ ] Credit Cards post: Card affiliate links
-- [ ] Diamond Status post: Card affiliate links
-- [ ] Large Dogs post: BringFido affiliate link
 
 ---
 

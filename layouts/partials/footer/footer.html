@@ -5,4 +5,9 @@
     <section class="powerby">
         Made with ☕ and 🐾 in Jacksonville, FL
     </section>
+    <nav class="footer-nav">
+        {{ range .Site.Menus.footer }}
+            <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+    </nav>
 </footer>

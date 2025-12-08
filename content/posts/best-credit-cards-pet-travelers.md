@@ -16,6 +16,15 @@ If you travel with your dog and aren't using hotel credit cards, you're leaving 
 
 Here's what I use and recommend for pet travelers.
 
+**Jump to:**
+- [Why Hotel Cards Make Sense](#why-hotel-cards-make-sense-for-pet-owners)
+- [The Hilton Combo](#my-setup-the-hilton-combo)
+- [Hilton Aspire](#-hilton-honors-american-express-aspire)
+- [Hilton Surpass](#-hilton-honors-american-express-surpass)
+- [Hilton No Fee](#-hilton-honors-american-express-no-annual-fee)
+- [Marriott Alternative](#the-alternative-marriott)
+- [Which Card Should You Get?](#which-card-should-you-get)
+
 ---
 
 ## Why Hotel Cards Make Sense for Pet Owners

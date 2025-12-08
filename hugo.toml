@@ -2,60 +2,82 @@ baseURL = 'https://thepointspup.com/'
 languageCode = 'en-us'
 title = 'ThePointsPup'
 theme = 'hugo-theme-stack'
+
 [params]
   mainSections = ['posts']
   description = "Free hotel stays for pet travelers using credit card points"
   favicon = "/favicon.ico"
+
 [params.sidebar]
   emoji = ""
   subtitle = "Free hotel stays for pet travelers"
+
 [params.sidebar.avatar]
   enabled = true
   local = false
   src = "/avatar.jpeg"
+
 [params.footer]
   since = 2024
   customText = "Made with ☕ and 🐾 in Jacksonville, FL"
+
 [params.colorScheme]
   toggle = false
   default = "light"
+
 [params.article]
   math = false
   toc = true
   readingTime = true
+
 [[params.widgets.homepage]]
   type = "search"
+
 [[params.widgets.homepage]]
   type = "categories"
+
 [[params.widgets.homepage]]
   type = "tag-cloud"
   limit = 10
+
 [params.defaultImage.opengraph]
   enabled = false
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
 [[menu.main]]
   name = "Home"
   url = "/"
   weight = 1
+
+[[menu.main]]
+  name = "Start Here"
+  url = "/start-here"
+  weight = 2
+
 [[menu.main]]
   name = "About"
   url = "/about"
-  weight = 2
+  weight = 3
+
 [[menu.main]]
   name = "Contact"
   url = "/contact"
-  weight = 3
-[[menu.main]]
+  weight = 4
+
+[[menu.footer]]
   name = "Disclosure"
   url = "/disclosure"
-  weight = 4
-[[menu.main]]
+  weight = 1
+
+[[menu.footer]]
   name = "Privacy"
   url = "/privacy"
-  weight = 5
+  weight = 2
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "JSON"]

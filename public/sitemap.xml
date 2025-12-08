@@ -91,5 +91,7 @@
     <loc>http://localhost:1313/privacy/</loc>
   </url><url>
     <loc>http://localhost:1313/page/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/start-here/</loc>
   </url>
 </urlset>
