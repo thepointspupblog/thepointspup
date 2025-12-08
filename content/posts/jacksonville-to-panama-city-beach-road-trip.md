@@ -7,7 +7,7 @@ categories:
 tags:
   - Florida
   - Road Trip
-  - Panama City Beach
+  - Beach
 ---
 
 The drive from Jacksonville to Panama City Beach is about 5-7 hours depending on how many stops you make — and if you're traveling with a dog, you're going to make a lot of stops. Here's what I learned driving this route with Ansel, my 70-pound GSP/Lab mix.

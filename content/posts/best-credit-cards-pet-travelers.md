@@ -3,8 +3,12 @@ title: "Best Credit Cards for Pet Travelers (2025)"
 description: "The cards I use to travel free with my dog — including sign-up bonuses and how the fees pay for themselves."
 date: 2025-12-02
 draft: false
-tags: ["credit cards", "points", "hilton", "marriott", "guides"]
-categories: ["Guides"]
+categories:
+  - Credit Cards
+tags:
+  - Credit Cards
+  - Hilton
+  - Marriott
 ---
 
 If you travel with your dog and aren't using hotel credit cards, you're leaving money on the table. Pet fees, room rates, and all those extras add up fast — but the right cards can offset most of it with points, free nights, and elite status perks.

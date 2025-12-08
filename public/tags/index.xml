@@ -31,11 +31,27 @@
         <description></description>
         </item>
         <item>
+        <title>Guides</title>
+        <link>http://localhost:1313/tags/guides/</link>
+        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/guides/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Hilton</title>
         <link>http://localhost:1313/tags/hilton/</link>
         <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/hilton/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Hotels</title>
+        <link>http://localhost:1313/tags/hotels/</link>
+        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/hotels/</guid>
         <description></description>
         </item>
         <item>
@@ -92,14 +108,6 @@
         <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/packing-list/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Guides</title>
-        <link>http://localhost:1313/tags/guides/</link>
-        <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/guides/</guid>
         <description></description>
         </item>
         <item>

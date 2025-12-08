@@ -2,8 +2,12 @@
 title: "Panama City Beach with My 70-Pound Dog: Embassy Suites Review"
 date: 2025-12-04
 draft: false
-tags: ["trip report", "florida", "hilton", "beach", "points redemption"]
-categories: ["Trip Reports"]
+categories:
+  - Reviews
+tags:
+  - Hilton
+  - Florida
+  - Beach
 ---
 
 Last month, Ansel and I made the drive from Jacksonville to Panama City Beach for a long weekend. I'd been eyeing the Embassy Suites by Hilton Panama City Beach Resort for a while — it's pet-friendly, right across from the beach, and I had a stack of Hilton points burning a hole in my account. Here's how it went.

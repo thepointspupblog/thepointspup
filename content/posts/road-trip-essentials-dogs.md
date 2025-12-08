@@ -3,8 +3,11 @@ title: "Road Trip Essentials for Traveling with Your Dog"
 description: "My go-to packing list for road trips with a 70-pound dog — what's actually worth bringing."
 date: 2025-12-03
 draft: false
-tags: ["road trip", "gear", "packing list"]
-categories: ["Guides"]
+categories:
+  - Guides
+tags:
+  - Road Trip
+  - Gear
 ---
 
 I've done enough road trips with Ansel to know what's actually worth packing — and what just takes up space. Here's my go-to list for traveling with a 70-pound dog.

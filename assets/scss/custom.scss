@@ -286,6 +286,17 @@ blockquote {
   display: none !important;
 }
 
+// ========== FOOTER ==========
+footer,
+footer *,
+.site-footer,
+.site-footer *,
+.copyright,
+.copyright * {
+  font-size: 13px !important;
+  line-height: 1.6;
+}
+
 // ========== MOBILE RESPONSIVE ==========
 @media (max-width: 768px) {
   html {

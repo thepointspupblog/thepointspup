@@ -324,7 +324,7 @@
     border-radius: 12px;
     font-size: 16px;
     font-weight: 700;
-    color: #ffffff;
+    color: #ffffff !important;
     text-align: center;
     text-decoration: none;
     margin-bottom: 14px;
@@ -397,14 +397,14 @@
       ]
     },
     {
-      id: &#39;dog_size&#39;,
-      question: &#34;What size is your travel buddy?&#34;,
-      icon: &#39;🦮&#39;,
+      id: &#39;status&#39;,
+      question: &#34;What&#39;s your current Hilton Honors status?&#34;,
+      icon: &#39;⭐&#39;,
       options: [
-        { value: &#39;small&#39;, label: &#39;Small (under 25 lbs)&#39;, desc: &#39;Fits under the airplane seat&#39; },
-        { value: &#39;medium&#39;, label: &#39;Medium (25-50 lbs)&#39;, desc: &#39;Needs room to stretch out&#39; },
-        { value: &#39;large&#39;, label: &#39;Large (50-75 lbs)&#39;, desc: &#39;The bigger the bed, the better&#39; },
-        { value: &#39;xl&#39;, label: &#39;Extra large (75+ lbs)&#39;, desc: &#39;We need serious SPACE&#39; }
+        { value: &#39;none&#39;, label: &#39;None or Silver&#39;, desc: &#39;Just getting started&#39; },
+        { value: &#39;gold&#39;, label: &#39;Gold&#39;, desc: &#39;Earned through stays or another card&#39; },
+        { value: &#39;diamond&#39;, label: &#39;Diamond&#39;, desc: &#39;Top-tier elite&#39; },
+        { value: &#39;want_status&#39;, label: &#39;I want status without hotel stays&#39;, desc: &#39;Give me the shortcut!&#39; }
       ]
     },
     {
@@ -543,10 +543,10 @@
     else if (answers.dog_travel === &#39;fulltime&#39;) { scores.aspire += 4; }
 
     
-    if (answers.dog_size === &#39;small&#39;) scores.honors += 1;
-    else if (answers.dog_size === &#39;medium&#39;) scores.surpass += 1;
-    else if (answers.dog_size === &#39;large&#39;) { scores.surpass += 1; scores.aspire += 1; }
-    else if (answers.dog_size === &#39;xl&#39;) scores.aspire += 2; 
+    if (answers.status === &#39;none&#39;) { scores.honors += 1; scores.surpass += 2; } 
+    else if (answers.status === &#39;gold&#39;) { scores.aspire += 2; } 
+    else if (answers.status === &#39;diamond&#39;) { scores.aspire += 3; } 
+    else if (answers.status === &#39;want_status&#39;) { scores.surpass += 2; scores.aspire += 3; } 
 
     
     if (answers.travel_style === &#39;road_trips&#39;) scores.honors += 1;
@@ -643,7 +643,7 @@
       &lt;/div&gt;
       &lt;a href=&#34;${card.link}&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; class=&#34;apply-btn&#34;&gt;Learn More &amp; Apply →&lt;/a&gt;
       &lt;button class=&#34;restart-btn&#34; id=&#34;restart-btn&#34;&gt;↻ Take Quiz Again&lt;/button&gt;
-      &lt;p class=&#34;disclaimer&#34;&gt;This quiz provides general guidance for pet travelers. Always verify current pet policies directly with hotels before booking. Card terms and benefits may change—check the issuer&#39;s website for the latest details. Some links may be affiliate links that support ThePointsPup at no cost to you. 🐕&lt;/p&gt;
+      &lt;p class=&#34;disclaimer&#34;&gt;&lt;strong&gt;Note:&lt;/strong&gt; Hilton pet policies vary by property—most allow dogs up to 50-75 lbs, but some have lower limits. Always &lt;a href=&#34;https://www.bringfido.com/?ref=YOURAFFILIATEID&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;color: #2d5a47; text-decoration: underline;&#34;&gt;check BringFido&lt;/a&gt; or call ahead to confirm your pup is welcome. Card terms may change—check the issuer&#39;s website for details. Some links may be affiliate links that support ThePointsPup at no cost to you. 🐕&lt;/p&gt;
     `;
 
     document.getElementById(&#39;quiz-content&#39;).innerHTML = html;

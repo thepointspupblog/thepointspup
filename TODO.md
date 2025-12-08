@@ -18,7 +18,7 @@
 - [x] Contact page
 - [x] Privacy policy page
 
-### Posts Complete (7/8-10)
+### Posts Complete (8/8-10) ✅
 1. [x] Panama City Beach Embassy Suites Review (with images)
 2. [x] Road Trip Essentials for Dogs
 3. [x] Best Credit Cards for Pet Travelers (2025)
@@ -26,6 +26,7 @@
 5. [x] Best Pet-Friendly Beach Towns Near Jacksonville
 6. [x] Jacksonville to Panama City Beach: Pet-Friendly Road Trip
 7. [x] Which Hilton Credit Card Is Best for Dog Travelers? (Quiz post)
+8. [x] Traveling with a Large Dog: Hotel Policies You Need to Know
 
 ### Internal Links Fixed ✅
 - [x] `/posts/best-credit-cards-pet-travelers`
@@ -39,7 +40,7 @@
 - [x] Right sidebar widgets added (search, categories, tags)
 - [x] Card hover effects with pointer cursor
 - [x] Typography hierarchy started
-- [x] Post descriptions added to all 4 posts
+- [x] Post descriptions added to all posts
 - [x] Mobile responsive media queries added
 - [x] Footer custom text added
 - [x] Card description text size fixed (.article-subtitle)
@@ -51,6 +52,13 @@
 - [x] Removed header images from posts (cleaner look)
 - [x] About page refreshed with better copy
 - [x] Contact page refreshed with better copy
+- [x] Footer font size reduced
+
+### Site Organization ✅
+- [x] Categories reorganized (Guides, Credit Cards, Reviews)
+- [x] Tags cleaned up (Hilton, Florida, Beach, Road Trip, etc.)
+- [x] "Hilton for Pet Travelers" series created (Quiz + Diamond Status)
+- [x] Large Dogs tag added for big dog content
 
 ### Interactive Tools ✅
 - [x] Hilton Credit Card Quiz built (vanilla JS shortcode)
@@ -61,18 +69,19 @@
 - [x] BringFido link in disclaimer for pet policy lookups
 - [x] Weight limit warning added (50-75 lbs varies by property)
 - [x] Quiz post created: `/posts/hilton-credit-card-quiz`
+- [x] Quiz button text color fixed (white on green)
 
 ---
 
 ## Phase 1.5: Deployment & Final Polish (In Progress)
 
 ### Deployment Setup
-- [ ] Configure GitHub Actions Hugo workflow (started but not committed)
+- [ ] Configure GitHub Actions Hugo workflow
 - [ ] Set up GitHub Pages to use the workflow
 - [ ] Connect custom domain in GitHub Pages settings
 
 ### Testing on Live Site
-- [ ] Verify favicon displays correctly (didn't work locally in Safari - may work live)
+- [ ] Verify favicon displays correctly
 - [ ] Verify new logo/avatar displays correctly
 - [ ] Test search functionality on live site
 - [ ] Test mobile layout thoroughly
@@ -80,12 +89,13 @@
 
 ---
 
-## Phase 2: Content (Goal: 8-10 posts before applying)
+## Phase 2: Content — COMPLETE ✅
 
-### Posts to Write (need 1-3 more)
-8. [ ] Traveling with a Large Dog: Hotel Policies You Need to Know
-9. [ ] Pet-Friendly Marriott vs Hilton Comparison
-10. [ ] How to Use Free Night Certificates at Pet-Friendly Hotels
+8 posts done! Ready to apply for affiliates.
+
+### Optional Future Posts
+- [ ] Pet-Friendly Marriott vs Hilton Comparison
+- [ ] How to Use Free Night Certificates at Pet-Friendly Hotels
 
 ---
 
@@ -129,6 +139,9 @@
 - [ ] Hilton Aspire affiliate link
 - [ ] Hilton Surpass affiliate link
 
+### Large Dog Post
+- [ ] BringFido affiliate link
+
 ---
 
 ## Post Ideas (Backlog)
@@ -137,4 +150,3 @@
 - Seasonal content (summer beach trips, fall road trips)
 - Dog-friendly restaurant guides by city
 - How to find pet-friendly hotels on points
-- Hotels with no weight limit for large dogs

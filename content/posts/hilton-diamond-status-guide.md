@@ -3,8 +3,13 @@ title: "Hilton Diamond Status: How to Get It and Why It's Worth It"
 description: "How I got Diamond status, the perks that matter for pet travelers, and why it's easier than you think."
 date: 2025-12-01
 draft: false
-tags: ["hilton", "elite status", "guides", "points"]
-categories: ["Guides"]
+categories:
+  - Credit Cards
+series:
+  - Hilton for Pet Travelers
+tags:
+  - Hilton
+  - Elite Status
 ---
 
 Hilton Diamond is the top tier of Hilton Honors (until Diamond Reserve launches in 2026), and it comes with perks that make traveling with a dog way easier — room upgrades, late checkout, free breakfast, and more.
