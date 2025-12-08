@@ -507,6 +507,22 @@ footer *,
   color: #999;
 }
 
+#pet-policy-finder select {
+  width: 100%;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 2px solid #2d5a47;
+  border-radius: 8px;
+  margin-top: 0.5rem;
+  background: white;
+  cursor: pointer;
+}
+
+#pet-policy-finder select:focus {
+  outline: none;
+  border-color: #234a39;
+}
+
 // ========== MOBILE RESPONSIVE ==========
 @media (max-width: 768px) {
   html {

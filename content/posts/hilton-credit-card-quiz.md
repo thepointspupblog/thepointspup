@@ -3,7 +3,7 @@ title: "Quiz: Which Hilton Credit Card Is Best for Dog Travelers?"
 description: "Take our quick quiz to find the perfect Hilton Amex card for traveling with your pup."
 date: 2025-12-08
 categories:
-  - Credit Cards
+  - Tools
 series:
   - Hilton for Pet Travelers
 tags:

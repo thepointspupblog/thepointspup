@@ -444,6 +444,162 @@
 </description>
         </item>
         <item>
+        <title>Hotel Pet Policy Finder: Weight Limits, Fees &amp; Rules by Chain</title>
+        <link>http://localhost:1313/posts/hotel-pet-policy-finder/</link>
+        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/hotel-pet-policy-finder/</guid>
+        <description>&lt;p&gt;Not sure if your dog is welcome? Use this tool to quickly check pet policies for major hotel chains.&lt;/p&gt;
+&lt;div id=&#34;pet-policy-finder&#34;&gt;
+  &lt;label for=&#34;hotel-select&#34;&gt;&lt;strong&gt;Select a hotel chain:&lt;/strong&gt;&lt;/label&gt;
+  &lt;select id=&#34;hotel-select&#34;&gt;
+    &lt;option value=&#34;&#34;&gt;-- Choose a chain --&lt;/option&gt;
+    &lt;option value=&#34;hilton&#34;&gt;Hilton&lt;/option&gt;
+    &lt;option value=&#34;marriott&#34;&gt;Marriott&lt;/option&gt;
+    &lt;option value=&#34;ihg&#34;&gt;IHG (Holiday Inn, Kimpton, etc.)&lt;/option&gt;
+    &lt;option value=&#34;hyatt&#34;&gt;Hyatt&lt;/option&gt;
+    &lt;option value=&#34;wyndham&#34;&gt;Wyndham (La Quinta, etc.)&lt;/option&gt;
+    &lt;option value=&#34;bestwestern&#34;&gt;Best Western&lt;/option&gt;
+    &lt;option value=&#34;choice&#34;&gt;Choice (Comfort Inn, Quality Inn, etc.)&lt;/option&gt;
+    &lt;option value=&#34;motel6&#34;&gt;Motel 6 / Studio 6&lt;/option&gt;
+    &lt;option value=&#34;redroof&#34;&gt;Red Roof Inn&lt;/option&gt;
+    &lt;option value=&#34;drury&#34;&gt;Drury Hotels&lt;/option&gt;
+    &lt;option value=&#34;loews&#34;&gt;Loews Hotels&lt;/option&gt;
+    &lt;option value=&#34;kimpton&#34;&gt;Kimpton Hotels&lt;/option&gt;
+  &lt;/select&gt;
+  &lt;div id=&#34;policy-result&#34; style=&#34;display: none; margin-top: 1.5rem; padding: 1.5rem; background: #f9f6f1; border-radius: 12px; border: 2px solid #2d5a47;&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+const policies = {
+  hilton: {
+    name: &#34;Hilton&#34;,
+    weight: &#34;Varies by property (typically 50-75 lbs)&#34;,
+    fee: &#34;$50-$100 per stay (varies by brand)&#34;,
+    notes: &#34;Most Hilton brands allow dogs. Home2 Suites, Homewood Suites, and Hilton Garden Inn tend to be most pet-friendly. Always call ahead to confirm.&#34;,
+    tip: &#34;Use Hilton points to book free nights — you&#39;ll still pay the pet fee, but the room is free!&#34;,
+    verdict: &#34;🟡 Good for most dogs under 75 lbs&#34;
+  },
+  marriott: {
+    name: &#34;Marriott&#34;,
+    weight: &#34;Varies widely (25-75 lbs depending on brand)&#34;,
+    fee: &#34;$75-$150 per stay&#34;,
+    notes: &#34;Policies vary significantly by brand and location. Residence Inn and TownePlace Suites tend to be more pet-friendly. Some luxury brands don&#39;t allow pets.&#34;,
+    tip: &#34;Always call the specific property before booking.&#34;,
+    verdict: &#34;🟡 Hit or miss — call ahead&#34;
+  },
+  ihg: {
+    name: &#34;IHG (Holiday Inn, Kimpton, etc.)&#34;,
+    weight: &#34;Varies by brand (Kimpton has NO weight limit)&#34;,
+    fee: &#34;$0-$100 depending on brand&#34;,
+    notes: &#34;Kimpton is the standout — no weight limits, no breed restrictions, no pet fees. Other IHG brands like Holiday Inn and Candlewood Suites typically cap at 50-80 lbs.&#34;,
+    tip: &#34;Book Kimpton if you have a large dog — they&#39;re the most pet-friendly hotel brand in the industry.&#34;,
+    verdict: &#34;🟢 Kimpton is excellent, others vary&#34;
+  },
+  hyatt: {
+    name: &#34;Hyatt&#34;,
+    weight: &#34;Varies (typically 50 lbs, some no limit)&#34;,
+    fee: &#34;$75-$150 per stay&#34;,
+    notes: &#34;Policies vary by property. Hyatt Place and Hyatt House tend to be more pet-friendly. Some allow up to 2 pets.&#34;,
+    tip: &#34;Check the specific property&#39;s policy before booking.&#34;,
+    verdict: &#34;🟡 Moderate — check specific property&#34;
+  },
+  wyndham: {
+    name: &#34;Wyndham (La Quinta, etc.)&#34;,
+    weight: &#34;La Quinta: No weight limit (policies changing)&#34;,
+    fee: &#34;$0-$25/night at La Quinta&#34;,
+    notes: &#34;La Quinta was famous for no pet fees and no weight limits. Since Wyndham acquired them, some locations have added restrictions. Always call to confirm.&#34;,
+    tip: &#34;La Quinta is still one of the best budget options for large dogs.&#34;,
+    verdict: &#34;🟢 La Quinta is great, call to confirm&#34;
+  },
+  bestwestern: {
+    name: &#34;Best Western&#34;,
+    weight: &#34;Up to 80 lbs per dog&#34;,
+    fee: &#34;$20-$30 per night&#34;,
+    notes: &#34;Most locations allow up to 2 dogs. Policies can vary by property, so call ahead for specific rules.&#34;,
+    tip: &#34;One of the more consistent mid-range options for larger dogs.&#34;,
+    verdict: &#34;🟢 Good for dogs under 80 lbs&#34;
+  },
+  choice: {
+    name: &#34;Choice Hotels (Comfort Inn, Quality Inn, etc.)&#34;,
+    weight: &#34;Varies (typically up to 50 lbs)&#34;,
+    fee: &#34;$20-$50 per night&#34;,
+    notes: &#34;Policies vary significantly by property. Many Choice hotels are franchised, so rules depend on the owner.&#34;,
+    tip: &#34;Always call the specific location to confirm their pet policy.&#34;,
+    verdict: &#34;🟡 Inconsistent — always call&#34;
+  },
+  motel6: {
+    name: &#34;Motel 6 / Studio 6&#34;,
+    weight: &#34;No weight limit&#34;,
+    fee: &#34;$0 at Motel 6, ~$10/night at Studio 6&#34;,
+    notes: &#34;No breed restrictions. One of the most consistently pet-friendly budget chains. Pets must be attended or crated.&#34;,
+    tip: &#34;Best budget option for large dogs — no questions asked.&#34;,
+    verdict: &#34;🟢 Excellent for all dog sizes&#34;
+  },
+  redroof: {
+    name: &#34;Red Roof Inn&#34;,
+    weight: &#34;No weight limit&#34;,
+    fee: &#34;$0 (free!)&#34;,
+    notes: &#34;No breed restrictions. One well-behaved pet per room. They even have designated pet walk areas at each location.&#34;,
+    tip: &#34;One of the best budget options — truly pet-friendly with no fees.&#34;,
+    verdict: &#34;🟢 Excellent — no fees, no limits&#34;
+  },
+  drury: {
+    name: &#34;Drury Hotels&#34;,
+    weight: &#34;Up to 80 lbs combined (for multiple pets)&#34;,
+    fee: &#34;$50 per night&#34;,
+    notes: &#34;Up to 2 pets allowed. Known for excellent customer service and free extras (breakfast, evening drinks).&#34;,
+    tip: &#34;Great mid-range option with reliable pet policies.&#34;,
+    verdict: &#34;🟢 Good for dogs under 80 lbs&#34;
+  },
+  loews: {
+    name: &#34;Loews Hotels&#34;,
+    weight: &#34;No weight limit&#34;,
+    fee: &#34;Varies ($50-$100 per stay)&#34;,
+    notes: &#34;The &#39;Loews Loves Pets&#39; program provides beds, bowls, treats, and even a room service menu for dogs. Very upscale pet experience.&#34;,
+    tip: &#34;Splurge-worthy for special trips with your pup.&#34;,
+    verdict: &#34;🟢 Excellent — luxury pet experience&#34;
+  },
+  kimpton: {
+    name: &#34;Kimpton Hotels&#34;,
+    weight: &#34;No weight limit&#34;,
+    fee: &#34;$0 (free!)&#34;,
+    notes: &#34;The gold standard for pet travel. If your dog fits through the door, they&#39;re welcome. No breed restrictions. Many have a Director of Pet Relations (a very good dog). Nightly wine hour often welcomes pups.&#34;,
+    tip: &#34;Best hotel chain for large dogs, period. Worth the higher room rate.&#34;,
+    verdict: &#34;🟢 Best in class — no limits, no fees&#34;
+  }
+};
+
+document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39;, function() {
+  const resultDiv = document.getElementById(&#39;policy-result&#39;);
+  const selected = this.value;
+  
+  if (!selected) {
+    resultDiv.style.display = &#39;none&#39;;
+    return;
+  }
+  
+  const policy = policies[selected];
+  
+  resultDiv.innerHTML = `
+    &lt;h3 style=&#34;margin-top: 0; color: #2d5a47;&#34;&gt;${policy.name}&lt;/h3&gt;
+    &lt;p&gt;&lt;strong&gt;Weight Limit:&lt;/strong&gt; ${policy.weight}&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Pet Fee:&lt;/strong&gt; ${policy.fee}&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Notes:&lt;/strong&gt; ${policy.notes}&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;💡 Tip:&lt;/strong&gt; ${policy.tip}&lt;/p&gt;
+    &lt;p style=&#34;font-size: 1.1rem; font-weight: 600; margin-bottom: 0;&#34;&gt;${policy.verdict}&lt;/p&gt;
+  `;
+  resultDiv.style.display = &#39;block&#39;;
+});
+&lt;/script&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;the-bottom-line&#34;&gt;The Bottom Line
+&lt;/h2&gt;&lt;p&gt;Weight limits are frustrating, but there are great options for dogs of all sizes. For large dogs, &lt;strong&gt;Kimpton&lt;/strong&gt;, &lt;strong&gt;Red Roof Inn&lt;/strong&gt;, &lt;strong&gt;Motel 6&lt;/strong&gt;, and &lt;strong&gt;Loews&lt;/strong&gt; are your best bets.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Want the full breakdown?&lt;/strong&gt; Check out my complete guide: &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/traveling-with-large-dogs-hotel-policies/&#34; &gt;Traveling with a Large Dog: Hotel Policies You Need to Know&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ready to book for free?&lt;/strong&gt; See &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#34; &gt;Best Credit Cards for Pet Travelers&lt;/a&gt; to start earning points.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Jacksonville to Panama City Beach: A Pet-Friendly Road Trip Guide</title>
         <link>http://localhost:1313/posts/jacksonville-to-panama-city-beach-road-trip/</link>
         <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
@@ -1331,6 +1487,8 @@
 &lt;h3 id=&#34;6-use-bringfido&#34;&gt;6. Use BringFido
 &lt;/h3&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bringfido.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;BringFido&lt;/a&gt; is the best resource for finding genuinely pet-friendly hotels. They verify policies and can even help negotiate weight limit exceptions through their Canine Concierge service.&lt;/p&gt;
+&lt;h3 id=&#34;7-use-the-hotel-pet-policy-finder&#34;&gt;7. Use the Hotel Pet Policy Finder
+&lt;/h3&gt;&lt;p&gt;Not sure about a specific chain&amp;rsquo;s policy? Use my &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hotel-pet-policy-finder/&#34; &gt;Hotel Pet Policy Finder&lt;/a&gt; to quickly check weight limits and fees for any major hotel brand.&lt;/p&gt;
 &lt;h2 id=&#34;the-reality-check&#34;&gt;The Reality Check
 &lt;/h2&gt;&lt;p&gt;Hotels rarely actually weigh dogs. Most front desk staff will eyeball your pup and decide if they&amp;rsquo;re comfortable. A well-groomed, calm dog on a leash makes a much better impression than a dog that&amp;rsquo;s pulling and barking—regardless of size.&lt;/p&gt;
 &lt;p&gt;That said, don&amp;rsquo;t abuse this. If a hotel says 50 pounds and you show up with a 120-pound Mastiff, you&amp;rsquo;re putting the staff in an awkward position and potentially ruining it for other large-dog travelers.&lt;/p&gt;
@@ -1347,7 +1505,7 @@
 &lt;p&gt;Your big dog deserves adventures too. Don&amp;rsquo;t let arbitrary weight limits keep you home.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;Have a favorite hotel chain for large dogs? I&amp;rsquo;d love to hear about it— see my &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/contact/&#34; &gt;contact page&lt;/a&gt; to reach out.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Read next:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/why-hilton-for-pet-travelers/&#34; &gt;Why Hilton Is the Best Hotel Chain for Pet Travelers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Read next:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hotel-pet-policy-finder/&#34; &gt;Hotel Pet Policy Finder&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/why-hilton-for-pet-travelers/&#34; &gt;Why Hilton Is the Best Hotel Chain for Pet Travelers&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -2017,6 +2175,14 @@
 &lt;h3 id=&#34;step-5-hit-the-road&#34;&gt;Step 5: Hit the Road
 &lt;/h3&gt;&lt;p&gt;Ready to plan your first trip? Start with the essentials.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Read:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/road-trip-essentials-dogs/&#34; &gt;Road Trip Essentials for Traveling with Your Dog&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-tools&#34;&gt;🔧 Tools
+&lt;/h2&gt;&lt;h3 id=&#34;hotel-pet-policy-finder&#34;&gt;Hotel Pet Policy Finder
+&lt;/h3&gt;&lt;p&gt;Not sure if your dog is welcome? Check weight limits, fees, and policies for major hotel chains — instantly.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Use the Tool:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hotel-pet-policy-finder/&#34; &gt;Hotel Pet Policy Finder&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;hilton-credit-card-quiz&#34;&gt;Hilton Credit Card Quiz
+&lt;/h3&gt;&lt;p&gt;Answer 7 quick questions to find the best Hilton card for your travel style.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Take the Quiz:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hilton-credit-card-quiz/&#34; &gt;Which Hilton Credit Card Is Right for You?&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;have-a-large-dog&#34;&gt;Have a Large Dog?
 &lt;/h2&gt;&lt;p&gt;If your pup is over 50 lbs, hotel weight limits can be frustrating. I wrote a whole guide on navigating this.&lt;/p&gt;

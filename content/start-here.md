@@ -52,6 +52,22 @@ Ready to plan your first trip? Start with the essentials.
 
 ---
 
+## 🔧 Tools
+
+### Hotel Pet Policy Finder
+
+Not sure if your dog is welcome? Check weight limits, fees, and policies for major hotel chains — instantly.
+
+**Use the Tool:** [Hotel Pet Policy Finder](/posts/hotel-pet-policy-finder/)
+
+### Hilton Credit Card Quiz
+
+Answer 7 quick questions to find the best Hilton card for your travel style.
+
+**Take the Quiz:** [Which Hilton Credit Card Is Right for You?](/posts/hilton-credit-card-quiz/)
+
+---
+
 ## Have a Large Dog?
 
 If your pup is over 50 lbs, hotel weight limits can be frustrating. I wrote a whole guide on navigating this.

@@ -110,6 +110,10 @@ Some hotels have designated pet rooms that can accommodate larger dogs. Ask spec
 ### 6. Use BringFido
 [BringFido](https://www.bringfido.com/) is the best resource for finding genuinely pet-friendly hotels. They verify policies and can even help negotiate weight limit exceptions through their Canine Concierge service.
 
+### 7. Use the Hotel Pet Policy Finder
+
+Not sure about a specific chain's policy? Use my [Hotel Pet Policy Finder](/posts/hotel-pet-policy-finder/) to quickly check weight limits and fees for any major hotel brand.
+
 ## The Reality Check
 
 Hotels rarely actually weigh dogs. Most front desk staff will eyeball your pup and decide if they're comfortable. A well-groomed, calm dog on a leash makes a much better impression than a dog that's pulling and barking—regardless of size.
@@ -135,4 +139,4 @@ Your big dog deserves adventures too. Don't let arbitrary weight limits keep you
 
 *Have a favorite hotel chain for large dogs? I'd love to hear about it— see my [contact page](/contact/) to reach out.*
 
-**Read next:** [Why Hilton Is the Best Hotel Chain for Pet Travelers](/posts/why-hilton-for-pet-travelers/)
+**Read next:** [Hotel Pet Policy Finder](/posts/hotel-pet-policy-finder/) | [Why Hilton Is the Best Hotel Chain for Pet Travelers](/posts/why-hilton-for-pet-travelers/)
