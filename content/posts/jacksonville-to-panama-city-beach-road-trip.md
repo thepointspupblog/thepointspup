@@ -12,7 +12,7 @@ tags:
 
 The drive from Jacksonville to Panama City Beach is about 5-7 hours depending on how many stops you make — and if you're traveling with a dog, you're going to make a lot of stops. Here's what I learned driving this route with Ansel, my 70-pound GSP/Lab mix.
 
-*(Planning a PCB trip? Check out my full [Embassy Suites Panama City Beach review](/posts/embassy-suites-pcb-review) for the hotel details.)*
+*(Planning a PCB trip? Check out my full [Embassy Suites Panama City Beach review](/posts/embassy-suites-pcb-review/) for the hotel details.)*
 
 ---
 
@@ -57,12 +57,12 @@ Buc-ee's is building a massive 75,000 square foot location near Tallahassee on I
 
 ### What Worked
 
-- **Backseat cover** — Non-negotiable. Keeps the car clean and gives your dog a non-slip surface.
-- **Travel water bottle with attached bowl** — Perfect for rest stops without digging through bags.
-- **Extra poop bags** — I always overpack. Running out at a rest area is not ideal.
-- **His favorite blanket** — Familiar smells help anxious dogs settle.
+- **[Backseat cover](https://amzn.to/3XHzRt6)** — Non-negotiable. Keeps the car clean and gives your dog a non-slip surface.
+- **[Travel water bottle with attached bowl](https://amzn.to/44js0FY)** — Perfect for rest stops without digging through bags.
+- **[Extra poop bags](https://amzn.to/3MMo1LT)** — I always overpack. Running out at a rest area is not ideal.
+- **[His favorite blanket](https://amzn.to/4q0DkiK)** — Familiar smells help anxious dogs settle.
 
-*(For my full packing list, check out [road trip essentials for traveling with your dog](/posts/road-trip-essentials-dogs).)*
+*(For my full packing list, check out [road trip essentials for traveling with your dog](/posts/road-trip-essentials-dogs/).)*
 
 ### What I'd Do Differently: The Crate Situation
 
@@ -93,4 +93,4 @@ Either way, your dog rides safer and you skip the rattling nightmare. I'm upgrad
 
 This is an easy drive if you plan for it. Pack smart, stop at Busy Bee, and invest in a proper travel crate. Your dog (and your sanity) will thank you.
 
-**Ready to book the hotel?** Check out my [Embassy Suites PCB review](/posts/embassy-suites-pcb-review) — it's one of the best pet-friendly options in the area, and I booked it entirely on points.
+**Ready to book the hotel?** Check out my [Embassy Suites PCB review](/posts/embassy-suites-pcb-review/) — it's one of the best pet-friendly options in the area, and I booked it entirely on points.

@@ -16,21 +16,21 @@ I've done enough road trips with Ansel to know what's actually worth packing —
 
 ## 🚗 Car Setup
 
-**Seat cover** — Non-negotiable. I use one in my 4Runner that covers the entire back seat, has flaps that protect the doors, and is waterproof. Saves your interior from muddy paws, sand, and the occasional drool puddle.
+**[Seat cover](https://amzn.to/3XHzRt6)** — Non-negotiable. I use one in my 4Runner that covers the entire back seat, has flaps that protect the doors, and is waterproof. Saves your interior from muddy paws, sand, and the occasional drool puddle.
 
 **Crash-tested crate** — If your dog does better contained, a crate is the safest option. Brands like Gunner and Ruff Land are pricey but built to protect your dog in an accident. Worth it for peace of mind on long drives.
 
 **Car barrier** — If a crate doesn't fit your setup, a barrier keeps them in the back without roaming into the front seat. Less secure than a crate, but better than nothing.
 
-**Seat belt harness** — Another safety option if you don't use a crate. Clips into your seatbelt and keeps your dog secured. Look for crash-tested options.
+**[Seat belt harness](https://amzn.to/4oD7xD5)** — Another safety option if you don't use a crate. Clips into your seatbelt and keeps your dog secured. Look for crash-tested options.
 
 ---
 
 ## 💧 Food & Water
 
-**Travel water bottle with bowl attachment** — This is the one thing I'd never skip. Mine has a bowl that screws onto the top, so I can give Ansel water at rest stops without digging through bags. Fits right in the cup holder.
+**[Travel water bottle with bowl attachment](https://amzn.to/44js0FY)** — This is the one thing I'd never skip. Mine has a bowl that screws onto the top, so I can give Ansel water at rest stops without digging through bags. Fits right in the cup holder.
 
-**Collapsible bowls** — Cheap, packable, and useful for food or water at the hotel. I keep a couple in my bag at all times.
+**[Collapsible bowls](https://amzn.to/44aEXSs)** — Cheap, packable, and useful for food or water at the hotel. I keep a couple in my bag at all times.
 
 **Food storage** — I portion out food into ziplock bags or use a small airtight container. Keeps things simple and avoids lugging an entire bag of kibble.
 
@@ -38,7 +38,7 @@ I've done enough road trips with Ansel to know what's actually worth packing —
 
 ## 🛏️ Comfort Items
 
-**Pet blanket** — Ansel has a designated travel blanket. It smells like home, which helps him settle in unfamiliar hotel rooms. Also useful for covering hotel furniture if you're worried about fur.
+**[Pet blanket](https://amzn.to/4q0DkiK)** — Ansel has a designated travel blanket. It smells like home, which helps him settle in unfamiliar hotel rooms. Also useful for covering hotel furniture if you're worried about fur.
 
 **Favorite toy** — Something familiar to keep them occupied during downtime. Don't bring anything too squeaky unless you want to hear it for 5 hours straight.
 
@@ -48,9 +48,9 @@ I've done enough road trips with Ansel to know what's actually worth packing —
 
 ## 🧹 Safety & Cleanup
 
-**Poop bags** — I always overpack. Running out at a hotel or rest stop is not a situation you want to be in. Bring twice as many as you think you need.
+**[Poop bags](https://amzn.to/3MMo1LT)** — I always overpack. Running out at a hotel or rest stop is not a situation you want to be in. Bring twice as many as you think you need.
 
-**Pet first aid kit** — Basic stuff: bandages, antiseptic wipes, tweezers for ticks, Benadryl (ask your vet for dosage). You probably won't need it, but you'll be glad you have it.
+**[Pet first aid kit](https://amzn.to/4aASRky)** — Basic stuff: bandages, antiseptic wipes, tweezers for ticks, Benadryl (ask your vet for dosage). You probably won't need it, but you'll be glad you have it.
 
 **Towels** — At least one or two. For wet paws, muddy adventures, post-beach shakeoffs, or unexpected messes. Old towels work great.
 
@@ -74,10 +74,10 @@ If you're in a hurry, here's the minimum:
 
 | Essential | Why |
 |-----------|-----|
-| 🚗 Seat cover | Protect your car |
-| 💧 Water bottle with bowl | Hydration at rest stops |
-| 💩 Poop bags (lots) | Don't run out |
-| 🛏️ Blanket | Comfort + furniture protection |
+| 🚗 [Seat cover](https://amzn.to/3XHzRt6) | Protect your car |
+| 💧 [Water bottle with bowl](https://amzn.to/44js0FY) | Hydration at rest stops |
+| 💩 [Poop bags](https://amzn.to/3MMo1LT) (lots) | Don't run out |
+| 🛏️ [Blanket](https://amzn.to/4q0DkiK) | Comfort + furniture protection |
 | 🦴 Treats | Bribes work |
 | 🦮 Leash | Obviously |
 | 📋 Vaccination records | Hotels may ask |
@@ -100,13 +100,11 @@ Here's what I personally use:
 
 | Item | What I Use | Notes |
 |------|------------|-------|
-| Seat cover | Waterproof hammock-style | Covers doors too |
-| Water bottle | Bottle with flip-up bowl | Cup holder friendly |
+| Seat cover | [Waterproof hammock-style](https://amzn.to/3XHzRt6) | Covers doors too |
+| Water bottle | [Bottle with flip-up bowl](https://amzn.to/44js0FY) | Cup holder friendly |
 | Crate | Gunner G1 | Pricey but bombproof |
-| First aid kit | Pre-made pet kit + Benadryl | Check with your vet on dosage |
-| Blanket | Old fleece blanket | Smells like home |
-
-*(Affiliate links coming soon — I'll update this post once I'm partnered with Amazon.)*
+| First aid kit | [Pre-made pet kit](https://amzn.to/4aASRky) + Benadryl | Check with your vet on dosage |
+| Blanket | [Travel fleece blanket](https://amzn.to/4q0DkiK) | Smells like home |
 
 ---
 
