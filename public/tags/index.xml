@@ -31,14 +31,6 @@
         <description></description>
         </item>
         <item>
-        <title>Guides</title>
-        <link>http://localhost:1313/tags/guides/</link>
-        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/guides/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Hilton</title>
         <link>http://localhost:1313/tags/hilton/</link>
         <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
@@ -55,19 +47,11 @@
         <description></description>
         </item>
         <item>
-        <title>Panama City Beach</title>
-        <link>http://localhost:1313/tags/panama-city-beach/</link>
+        <title>Large Dogs</title>
+        <link>http://localhost:1313/tags/large-dogs/</link>
         <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/panama-city-beach/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Points</title>
-        <link>http://localhost:1313/tags/points/</link>
-        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/points/</guid>
+        <guid>http://localhost:1313/tags/large-dogs/</guid>
         <description></description>
         </item>
         <item>
@@ -79,35 +63,11 @@
         <description></description>
         </item>
         <item>
-        <title>Points Redemption</title>
-        <link>http://localhost:1313/tags/points-redemption/</link>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/points-redemption/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Trip Report</title>
-        <link>http://localhost:1313/tags/trip-report/</link>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/trip-report/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Gear</title>
         <link>http://localhost:1313/tags/gear/</link>
         <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/gear/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Packing List</title>
-        <link>http://localhost:1313/tags/packing-list/</link>
-        <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/packing-list/</guid>
         <description></description>
         </item>
         <item>

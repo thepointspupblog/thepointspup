@@ -18,135 +18,77 @@
 - [x] Contact page
 - [x] Privacy policy page
 
-### Posts Complete (8/8-10) ✅
-1. [x] Panama City Beach Embassy Suites Review (with images)
+### Posts Complete (9 total) ✅
+1. [x] Panama City Beach Embassy Suites Review
 2. [x] Road Trip Essentials for Dogs
 3. [x] Best Credit Cards for Pet Travelers (2025)
 4. [x] Hilton Diamond Status: How to Get It and Why It's Worth It
 5. [x] Best Pet-Friendly Beach Towns Near Jacksonville
 6. [x] Jacksonville to Panama City Beach: Pet-Friendly Road Trip
-7. [x] Which Hilton Credit Card Is Best for Dog Travelers? (Quiz post)
+7. [x] Quiz: Which Hilton Credit Card Is Best for Dog Travelers?
 8. [x] Traveling with a Large Dog: Hotel Policies You Need to Know
-
-### Internal Links Fixed ✅
-- [x] `/posts/best-credit-cards-pet-travelers`
-- [x] `/posts/hilton-diamond-status-guide`
-- [x] `/posts/road-trip-essentials-dogs`
+9. [x] Why Hilton Is the Best Hotel Chain for Pet Travelers
 
 ### Styling Complete ✅
-- [x] Custom SCSS created (assets/scss/custom.scss)
-- [x] Earthy color scheme (#2d5a47 forest green, #faf9f7 cream)
-- [x] Dark mode removed
-- [x] Right sidebar widgets added (search, categories, tags)
-- [x] Card hover effects with pointer cursor
-- [x] Typography hierarchy started
-- [x] Post descriptions added to all posts
-- [x] Mobile responsive media queries added
-- [x] Footer custom text added
-- [x] Card description text size fixed (.article-subtitle)
-- [x] Search functionality fixed (added JSON output, moved search page)
-- [x] Search label overlap fixed on search page
-- [x] Favicon created (paw + location pin icon)
-- [x] New logo/avatar created (paw pin with map background)
-- [x] Removed avatar double border
-- [x] Removed header images from posts (cleaner look)
-- [x] About page refreshed with better copy
-- [x] Contact page refreshed with better copy
-- [x] Footer font size reduced
+- [x] Custom SCSS (earthy colors, dark mode removed)
+- [x] Right sidebar widgets (search, categories, tags)
+- [x] Card hover effects
+- [x] Footer customized and font size reduced
+- [x] Mobile responsive
+- [x] Favicon and logo created
 
 ### Site Organization ✅
-- [x] Categories reorganized (Guides, Credit Cards, Reviews)
-- [x] Tags cleaned up (Hilton, Florida, Beach, Road Trip, etc.)
-- [x] "Hilton for Pet Travelers" series created (Quiz + Diamond Status)
-- [x] Large Dogs tag added for big dog content
+- [x] Categories: Guides, Credit Cards, Trip Reports
+- [x] Tags cleaned up
+- [x] "Hilton for Pet Travelers" series created
+- [x] Homepage hero section added
+- [x] Tagline updated: "Free hotel stays for pet travelers"
 
 ### Interactive Tools ✅
-- [x] Hilton Credit Card Quiz built (vanilla JS shortcode)
-- [x] 7 dog-travel focused questions
-- [x] Recommends: Hilton Honors, Surpass, Aspire, or Business card
-- [x] Styled to match site (forest green #2d5a47, cream)
-- [x] Placeholder affiliate links added
-- [x] BringFido link in disclaimer for pet policy lookups
-- [x] Weight limit warning added (50-75 lbs varies by property)
-- [x] Quiz post created: `/posts/hilton-credit-card-quiz`
-- [x] Quiz button text color fixed (white on green)
+- [x] Hilton Credit Card Quiz (7 questions, 4 card results)
+- [x] Quiz results link to related posts
+- [x] Weight limit warning and BringFido link in quiz
+
+### Internal Linking ✅
+- [x] "Read Next" links added to all posts
+- [x] Quiz post links to Diamond guide, credit cards, large dogs
+- [x] Why Hilton post ties everything together
 
 ---
 
-## Phase 1.5: Deployment & Final Polish (In Progress)
+## Phase 1.5: Deployment (Next Step)
 
-### Deployment Setup
+### GitHub Pages Setup
 - [ ] Configure GitHub Actions Hugo workflow
 - [ ] Set up GitHub Pages to use the workflow
 - [ ] Connect custom domain in GitHub Pages settings
-
-### Testing on Live Site
-- [ ] Verify favicon displays correctly
-- [ ] Verify new logo/avatar displays correctly
-- [ ] Test search functionality on live site
-- [ ] Test mobile layout thoroughly
-- [ ] Test quiz on mobile
+- [ ] Test on live site (favicon, search, quiz, mobile)
 
 ---
 
-## Phase 2: Content — COMPLETE ✅
-
-8 posts done! Ready to apply for affiliates.
-
-### Optional Future Posts
-- [ ] Pet-Friendly Marriott vs Hilton Comparison
-- [ ] How to Use Free Night Certificates at Pet-Friendly Hotels
-
----
-
-## Phase 3: Apply for Affiliates
+## Phase 2: Apply for Affiliates
 - [ ] Amazon Associates
 - [ ] Bankrate or Commission Soup (credit cards)
 - [ ] BringFido partner program
 
 ---
 
-## Phase 4: Add Affiliate Links
+## Phase 3: Add Affiliate Links
 
 ### Quiz Post
-- [ ] Replace `YOUR_AFFILIATE_LINK_HONORS` with actual link
-- [ ] Replace `YOUR_AFFILIATE_LINK_SURPASS` with actual link
-- [ ] Replace `YOUR_AFFILIATE_LINK_ASPIRE` with actual link
-- [ ] Replace `YOUR_AFFILIATE_LINK_BUSINESS` with actual link
-- [ ] Replace BringFido `YOURAFFILIATEID` with actual ID
+- [ ] Replace YOUR_AFFILIATE_LINK placeholders (Honors, Surpass, Aspire, Business)
+- [ ] Replace BringFido YOURAFFILIATEID
 
-### PCB Post
-- [ ] Add credit card affiliate links once approved
-
-### Road Trip Essentials Post (Amazon Associates)
-- [ ] Seat cover
-- [ ] Crate (Gunner, Ruff Land)
-- [ ] Seat belt harness
-- [ ] Water bottle with bowl attachment
-- [ ] Collapsible bowls
-- [ ] Food storage container
-- [ ] Pet blanket
-- [ ] Pet first aid kit
-- [ ] Lint roller
-
-### Credit Cards Post
-- [ ] Hilton Aspire affiliate link
-- [ ] Hilton Surpass affiliate link
-- [ ] Hilton no-fee card affiliate link
-- [ ] Marriott Boundless affiliate link
-
-### Hilton Diamond Post
-- [ ] Hilton Aspire affiliate link
-- [ ] Hilton Surpass affiliate link
-
-### Large Dog Post
-- [ ] BringFido affiliate link
+### Other Posts
+- [ ] Road Trip Essentials: Amazon links for gear
+- [ ] Credit Cards post: Card affiliate links
+- [ ] Diamond Status post: Card affiliate links
+- [ ] Large Dogs post: BringFido affiliate link
 
 ---
 
-## Post Ideas (Backlog)
+## Future Content Ideas
 - Hotel review: Waldorf Astoria Cabo (January trip!)
-- Credit card showdown posts
-- Seasonal content (summer beach trips, fall road trips)
+- Pet-Friendly Marriott vs Hilton Comparison
+- How to Use Free Night Certificates
 - Dog-friendly restaurant guides by city
-- How to find pet-friendly hotels on points

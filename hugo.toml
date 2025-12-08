@@ -4,11 +4,11 @@ title = 'ThePointsPup'
 theme = 'hugo-theme-stack'
 [params]
   mainSections = ['posts']
-  description = "Road trip free with your dog using credit card points"
+  description = "Free hotel stays for pet travelers using credit card points"
   favicon = "/favicon.ico"
 [params.sidebar]
   emoji = ""
-  subtitle = "Road trip free with your dog"
+  subtitle = "Free hotel stays for pet travelers"
 [params.sidebar.avatar]
   enabled = true
   local = false

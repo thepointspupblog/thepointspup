@@ -6,7 +6,7 @@
         <description>Recent content in Credit Cards on ThePointsPup</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/credit-cards/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/credit-cards/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Best Credit Cards for Pet Travelers (2025)</title>
         <link>http://localhost:1313/posts/best-credit-cards-pet-travelers/</link>
         <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
@@ -340,6 +340,885 @@
 &lt;p&gt;I&amp;rsquo;ve been running this setup for years, and it&amp;rsquo;s saved me thousands. If you&amp;rsquo;re road tripping with your dog anyway, you might as well do it for free.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;Questions about which card is right for you? &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/contact&#34; &gt;Reach out&lt;/a&gt; — happy to help.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Read next:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hilton-credit-card-quiz/&#34; &gt;Quiz: Which Hilton Credit Card Is Best for Dog Travelers?&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/why-hilton-for-pet-travelers/&#34; &gt;Why Hilton for Pet Travelers&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Quiz: Which Hilton Credit Card Is Best for Dog Travelers?</title>
+        <link>http://localhost:1313/posts/hilton-credit-card-quiz/</link>
+        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/hilton-credit-card-quiz/</guid>
+        <description>&lt;p&gt;Not sure which Hilton credit card fits your pet travel style? Answer 7 quick questions and we&amp;rsquo;ll match you with the perfect card for earning free nights at pet-friendly hotels.&lt;/p&gt;
+
+
+
+&lt;div id=&#34;hilton-quiz&#34; class=&#34;hilton-quiz-container&#34;&gt;
+  &lt;div class=&#34;quiz-card&#34; id=&#34;quiz-content&#34;&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+  @import url(&#39;https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Fraunces:opsz,wght@9..144,600;9..144,700&amp;display=swap&#39;);
+
+  .hilton-quiz-container {
+    font-family: &#39;DM Sans&#39;, -apple-system, BlinkMacSystemFont, sans-serif;
+    max-width: 640px;
+    margin: 2rem auto;
+    padding: 0 16px;
+    box-sizing: border-box;
+  }
+
+  .hilton-quiz-container * {
+    box-sizing: border-box;
+  }
+
+  .quiz-card {
+    background: #ffffff;
+    border-radius: 24px;
+    padding: 32px;
+    box-shadow: 0 4px 24px rgba(45, 90, 71, 0.08);
+    animation: quizFadeIn 0.4s ease-out;
+  }
+
+  @keyframes quizFadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+   
+  .quiz-progress {
+    margin-bottom: 28px;
+  }
+
+  .progress-bar {
+    height: 8px;
+    background: #e8e0d5;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 10px;
+  }
+
+  .progress-fill {
+    height: 100%;
+    background: #2d5a47;
+    border-radius: 4px;
+    transition: width 0.4s ease-out;
+  }
+
+  .progress-text {
+    font-size: 14px;
+    color: #7d7167;
+    font-weight: 500;
+  }
+
+   
+  .quiz-question {
+    text-align: center;
+    margin-bottom: 28px;
+  }
+
+  .question-icon {
+    font-size: 44px;
+    display: block;
+    margin-bottom: 14px;
+  }
+
+  .question-text {
+    font-family: &#39;Fraunces&#39;, Georgia, serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: #2d3a35;
+    line-height: 1.35;
+    margin: 0;
+  }
+
+   
+  .quiz-options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 28px;
+  }
+
+  .option-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px 18px;
+    background: #faf8f5;
+    border: 2px solid #e8e0d5;
+    border-radius: 14px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-align: left;
+    width: 100%;
+    font-family: inherit;
+  }
+
+  .option-btn:hover {
+    border-color: #c4d4c9;
+    background: #f5f0ea;
+  }
+
+  .option-btn.selected {
+    background: #eef5f1;
+    border-color: #2d5a47;
+    box-shadow: 0 0 0 3px rgba(45, 90, 71, 0.1);
+  }
+
+  .option-label {
+    font-size: 15px;
+    font-weight: 600;
+    color: #2d3a35;
+    margin-bottom: 3px;
+  }
+
+  .option-desc {
+    font-size: 13px;
+    color: #7d7167;
+  }
+
+   
+  .quiz-nav {
+    display: flex;
+    gap: 12px;
+  }
+
+  .back-btn {
+    padding: 14px 22px;
+    background: transparent;
+    border: 2px solid #e8e0d5;
+    border-radius: 12px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #7d7167;
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.2s ease;
+  }
+
+  .back-btn:hover {
+    border-color: #c4bdb3;
+    color: #5a534b;
+  }
+
+  .next-btn {
+    flex: 1;
+    padding: 14px 28px;
+    background: #2d5a47;
+    border: none;
+    border-radius: 12px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #ffffff;
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.2s ease;
+  }
+
+  .next-btn:hover:not(:disabled) {
+    background: #245040;
+  }
+
+  .next-btn:disabled {
+    background: #c4bdb3;
+    cursor: not-allowed;
+  }
+
+   
+  .result-header {
+    text-align: center;
+    margin-bottom: 24px;
+  }
+
+  .result-icon {
+    font-size: 36px;
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .result-title {
+    font-family: &#39;Fraunces&#39;, Georgia, serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: #2d5a47;
+    margin: 0;
+  }
+
+  .card-recommendation {
+    position: relative;
+    padding: 24px 20px;
+    background: #faf8f5;
+    border-radius: 18px;
+    border-left: 4px solid #2d5a47;
+    margin-bottom: 24px;
+  }
+
+  .card-badge {
+    position: absolute;
+    top: -10px;
+    right: 16px;
+    padding: 5px 12px;
+    border-radius: 16px;
+    font-size: 11px;
+    font-weight: 700;
+    color: #ffffff;
+    background: #2d5a47;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .card-name {
+    font-family: &#39;Fraunces&#39;, Georgia, serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #2d3a35;
+    margin: 0 0 6px 0;
+  }
+
+  .card-fee {
+    font-size: 15px;
+    font-weight: 600;
+    color: #2d5a47;
+    margin: 0 0 6px 0;
+  }
+
+  .card-tagline {
+    font-size: 14px;
+    color: #7d7167;
+    margin: 0;
+    font-style: italic;
+  }
+
+  .benefits-section {
+    margin-bottom: 24px;
+  }
+
+  .benefits-title {
+    font-family: &#39;Fraunces&#39;, Georgia, serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #2d3a35;
+    margin: 0 0 14px 0;
+  }
+
+  .benefits-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .benefit-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 9px 0;
+    font-size: 14px;
+    color: #4a5148;
+    border-bottom: 1px solid #f0ebe3;
+  }
+
+  .benefit-item:last-child {
+    border-bottom: none;
+  }
+
+  .checkmark {
+    color: #2d5a47;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+
+  .why-section {
+    background: #f0ebe3;
+    padding: 18px;
+    border-radius: 14px;
+    margin-bottom: 24px;
+  }
+
+  .why-title {
+    font-family: &#39;Fraunces&#39;, Georgia, serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: #2d3a35;
+    margin: 0 0 10px 0;
+  }
+
+  .why-text {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #4a5148;
+    margin: 0;
+  }
+
+  .apply-btn {
+    display: block;
+    width: 100%;
+    padding: 16px 28px;
+    background: #2d5a47;
+    border: none;
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #ffffff !important;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 14px;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .apply-btn:hover {
+    background: #245040;
+    color: #ffffff;
+  }
+
+  .restart-btn {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    background: transparent;
+    border: 2px solid #e8e0d5;
+    border-radius: 12px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #7d7167;
+    cursor: pointer;
+    margin-bottom: 20px;
+    font-family: inherit;
+    transition: all 0.2s ease;
+  }
+
+  .restart-btn:hover {
+    border-color: #c4bdb3;
+    color: #5a534b;
+  }
+
+  .disclaimer {
+    font-size: 12px;
+    color: #9a928a;
+    text-align: center;
+    line-height: 1.5;
+    margin: 0;
+  }
+
+   
+  @media (max-width: 480px) {
+    .quiz-card {
+      padding: 24px 20px;
+      border-radius: 20px;
+    }
+    .question-text {
+      font-size: 20px;
+    }
+    .result-title {
+      font-size: 22px;
+    }
+  }
+&lt;/style&gt;
+
+&lt;script&gt;
+(function() {
+  const questions = [
+    {
+      id: &#39;dog_travel&#39;,
+      question: &#39;How often do you travel with your dog?&#39;,
+      icon: &#39;🐕&#39;,
+      options: [
+        { value: &#39;rarely&#39;, label: &#39;A few times a year&#39;, desc: &#39;Special occasions only&#39; },
+        { value: &#39;monthly&#39;, label: &#39;About once a month&#39;, desc: &#39;Regular weekend adventures&#39; },
+        { value: &#39;frequent&#39;, label: &#39;Multiple times a month&#39;, desc: &#39;Always on the go together&#39; },
+        { value: &#39;fulltime&#39;, label: &#39;Full-time travelers&#39;, desc: &#39;Life on the road with my pup&#39; }
+      ]
+    },
+    {
+      id: &#39;status&#39;,
+      question: &#34;What&#39;s your current Hilton Honors status?&#34;,
+      icon: &#39;⭐&#39;,
+      options: [
+        { value: &#39;none&#39;, label: &#39;None or Silver&#39;, desc: &#39;Just getting started&#39; },
+        { value: &#39;gold&#39;, label: &#39;Gold&#39;, desc: &#39;Earned through stays or another card&#39; },
+        { value: &#39;diamond&#39;, label: &#39;Diamond&#39;, desc: &#39;Top-tier elite&#39; },
+        { value: &#39;want_status&#39;, label: &#39;I want status without hotel stays&#39;, desc: &#39;Give me the shortcut!&#39; }
+      ]
+    },
+    {
+      id: &#39;travel_style&#39;,
+      question: &#39;How do you typically travel with your pup?&#39;,
+      icon: &#39;🚗&#39;,
+      options: [
+        { value: &#39;road_trips&#39;, label: &#39;Road trips only&#39;, desc: &#39;Car adventures are our thing&#39; },
+        { value: &#39;mostly_drive&#39;, label: &#39;Mostly driving&#39;, desc: &#39;Occasional flights without pup&#39; },
+        { value: &#39;mix&#39;, label: &#39;Mix of both&#39;, desc: &#39;Pup flies in cabin with me sometimes&#39; },
+        { value: &#39;frequent_flyer&#39;, label: &#39;Frequent flyer pup&#39;, desc: &#39;We\&#39;ve got TSA down to a science&#39; }
+      ]
+    },
+    {
+      id: &#39;hotel_nights&#39;,
+      question: &#39;How many hotel nights do you book per year?&#39;,
+      icon: &#39;🏨&#39;,
+      options: [
+        { value: &#39;few&#39;, label: &#39;1-10 nights&#39;, desc: &#39;A few trips here and there&#39; },
+        { value: &#39;moderate&#39;, label: &#39;11-25 nights&#39;, desc: &#39;Regular traveler&#39; },
+        { value: &#39;frequent&#39;, label: &#39;26-50 nights&#39;, desc: &#39;Frequent hotel stays&#39; },
+        { value: &#39;heavy&#39;, label: &#39;50+ nights&#39;, desc: &#39;Basically live in hotels&#39; }
+      ]
+    },
+    {
+      id: &#39;pet_fee_pain&#39;,
+      question: &#39;How much do pet fees affect your booking decisions?&#39;,
+      icon: &#39;💸&#39;,
+      options: [
+        { value: &#39;no_big_deal&#39;, label: &#39;No big deal&#39;, desc: &#39;$50-75 is fine for my pup&#39; },
+        { value: &#39;annoying&#39;, label: &#39;Pretty annoying&#39;, desc: &#39;They add up on multi-stop trips&#39; },
+        { value: &#39;hate_them&#39;, label: &#39;Really frustrating&#39;, desc: &#39;I\&#39;d love to offset them with free nights&#39; },
+        { value: &#39;dealbreaker&#39;, label: &#39;Major booking factor&#39;, desc: &#39;I specifically seek lower-fee options&#39; }
+      ]
+    },
+    {
+      id: &#39;spending&#39;,
+      question: &#39;What\&#39;s your typical monthly credit card spending?&#39;,
+      icon: &#39;💳&#39;,
+      options: [
+        { value: &#39;low&#39;, label: &#39;Under $1,500&#39;, desc: &#39;Including all the dog treats&#39; },
+        { value: &#39;moderate&#39;, label: &#39;$1,500-$4,000&#39;, desc: &#39;Vet bills, food, and life&#39; },
+        { value: &#39;high&#39;, label: &#39;$4,000-$8,000&#39;, desc: &#39;Spoiling my pup pays off in points&#39; },
+        { value: &#39;very_high&#39;, label: &#39;$8,000+&#39;, desc: &#39;High spender, high rewards&#39; }
+      ]
+    },
+    {
+      id: &#39;annual_fee&#39;,
+      question: &#39;What annual fee would you pay for free pet-friendly hotel nights?&#39;,
+      icon: &#39;🎁&#39;,
+      options: [
+        { value: &#39;none&#39;, label: &#39;$0 only&#39;, desc: &#39;I\&#39;d rather earn slowly than pay a fee&#39; },
+        { value: &#39;low&#39;, label: &#39;Up to $150&#39;, desc: &#39;Worth it for a free night&#39; },
+        { value: &#39;moderate&#39;, label: &#39;Up to $250&#39;, desc: &#39;Happy to pay for solid perks&#39; },
+        { value: &#39;premium&#39;, label: &#39;$500+&#39;, desc: &#39;Premium perks for my premium pup&#39; }
+      ]
+    }
+  ];
+
+  const cards = {
+    honors: {
+      name: &#39;Hilton Honors American Express Card&#39;,
+      fee: &#39;$0 annual fee&#39;,
+      tagline: &#39;Start earning toward pet-friendly stays—no commitment required&#39;,
+      benefits: [
+        &#39;7X points at Hilton pet-friendly properties&#39;,
+        &#39;5X points at U.S. restaurants, supermarkets &amp; gas stations&#39;,
+        &#39;3X points on all other purchases (vet bills count!)&#39;,
+        &#39;No foreign transaction fees&#39;,
+        &#39;Complimentary Silver status&#39;
+      ],
+      bestFor: &#34;You travel with your pup a few times a year and want to start stacking points without paying an annual fee. This card is perfect for earning on everyday spending—every bag of dog food, gas station stop on your road trip, and dinner out adds up. &lt;a href=&#39;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#39; style=&#39;color: #2d5a47; text-decoration: underline;&#39;&gt;See how it compares to other cards →&lt;/a&gt;&#34;,
+      link: &#39;YOUR_AFFILIATE_LINK_HONORS&#39;
+    },
+    surpass: {
+      name: &#39;Hilton Honors American Express Surpass Card&#39;,
+      fee: &#39;$150 annual fee&#39;,
+      tagline: &#39;The sweet spot for regular pet travelers&#39;,
+      benefits: [
+        &#39;12X points at Hilton pet-friendly properties&#39;,
+        &#39;6X points at U.S. restaurants, supermarkets &amp; gas stations&#39;,
+        &#39;3X points on all other purchases&#39;,
+        &#39;Complimentary Gold status (free breakfast!)&#39;,
+        &#39;Free Night Reward after $15K annual spend&#39;,
+        &#39;10 Priority Pass lounge visits per year&#39;
+      ],
+      bestFor: &#34;You and your pup hit the road regularly and those pet fees are starting to add up. Gold status means complimentary breakfast at most properties—perfect for fueling up before a morning walk with your dog. The free night certificate can easily cover a $200+ pet-friendly stay, making the $150 fee a no-brainer. The lounge visits are great for longer travel days when you need a quiet spot before your flight. &lt;a href=&#39;http://localhost:1313/posts/hilton-diamond-status-guide/&#39; style=&#39;color: #2d5a47; text-decoration: underline;&#39;&gt;Learn how to earn Diamond through spending →&lt;/a&gt;&#34;,
+      link: &#39;YOUR_AFFILIATE_LINK_SURPASS&#39;
+    },
+    aspire: {
+      name: &#39;Hilton Honors American Express Aspire Card&#39;,
+      fee: &#39;$550 annual fee&#39;,
+      tagline: &#39;Premium perks for serious pet travelers&#39;,
+      benefits: [
+        &#39;14X points at Hilton pet-friendly properties&#39;,
+        &#39;7X points on flights booked directly &amp; car rentals&#39;,
+        &#39;3X points on all other purchases&#39;,
+        &#39;Complimentary Diamond status&#39;,
+        &#39;Free Night Reward every year (no spend required!)&#39;,
+        &#39;$400 Hilton resort credit annually&#39;,
+        &#39;Unlimited Priority Pass lounge access&#39;,
+        &#39;$200 airline fee credit&#39;
+      ],
+      bestFor: &#34;You&#39;re constantly on the road with your furry co-pilot and want the absolute best. Diamond status means room upgrades—incredibly valuable when traveling with a larger dog who needs space to sprawl. The annual free night (worth up to 150K points!) plus $400 resort credit can easily offset pet fees at luxury pet-friendly resorts. Unlimited lounge access is a game-changer for frequent flyers. This card pays for itself if you travel often with your pup! &lt;a href=&#39;http://localhost:1313/posts/hilton-diamond-status-guide/&#39; style=&#39;color: #2d5a47; text-decoration: underline;&#39;&gt;See all Diamond status perks →&lt;/a&gt;&#34;,
+      link: &#39;YOUR_AFFILIATE_LINK_ASPIRE&#39;
+    },
+    business: {
+      name: &#39;Hilton Honors American Express Business Card&#39;,
+      fee: &#39;$195 annual fee&#39;,
+      tagline: &#39;Turn your pet business into pet-friendly vacations&#39;,
+      benefits: [
+        &#39;12X points at Hilton pet-friendly properties&#39;,
+        &#39;6X points on shipping, gas, social media &amp; phone plans&#39;,
+        &#39;3X points on all other business purchases&#39;,
+        &#39;Complimentary Gold status&#39;,
+        &#39;Free Night Reward after $15K annual spend&#39;,
+        &#39;10 Priority Pass lounge visits per year&#39;,
+        &#39;Separate business credit line&#39;
+      ],
+       bestFor: &#34;You run a pet-related business, blog, or side hustle (hey, dog Instagram counts!) and want to turn those expenses into travel rewards. Keep business spending separate while earning toward pet-friendly hotel stays. Every sponsored post, dog treat inventory purchase, or Chewy order for content gets you closer to your next adventure. Gold status and the free night certificate make this a fantastic value for pet entrepreneurs! &lt;a href=&#39;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#39; style=&#39;color: #2d5a47; text-decoration: underline;&#39;&gt;Compare all the options →&lt;/a&gt;&#34;,
+      link: &#39;YOUR_AFFILIATE_LINK_BUSINESS&#39;
+    }
+  };
+
+  let currentQ = 0;
+  let answers = {};
+  let selected = null;
+
+  function calculateResult() {
+    let scores = { honors: 0, surpass: 0, aspire: 0, business: 0 };
+
+    
+    if (answers.dog_travel === &#39;rarely&#39;) scores.honors += 3;
+    else if (answers.dog_travel === &#39;monthly&#39;) { scores.surpass += 2; scores.honors += 1; }
+    else if (answers.dog_travel === &#39;frequent&#39;) { scores.surpass += 2; scores.aspire += 2; }
+    else if (answers.dog_travel === &#39;fulltime&#39;) { scores.aspire += 4; }
+
+    
+    if (answers.status === &#39;none&#39;) { scores.honors += 1; scores.surpass += 2; } 
+    else if (answers.status === &#39;gold&#39;) { scores.aspire += 2; } 
+    else if (answers.status === &#39;diamond&#39;) { scores.aspire += 3; } 
+    else if (answers.status === &#39;want_status&#39;) { scores.surpass += 2; scores.aspire += 3; } 
+
+    
+    if (answers.travel_style === &#39;road_trips&#39;) scores.honors += 1;
+    else if (answers.travel_style === &#39;mostly_drive&#39;) scores.surpass += 1;
+    else if (answers.travel_style === &#39;mix&#39;) { scores.surpass += 1; scores.aspire += 1; }
+    else if (answers.travel_style === &#39;frequent_flyer&#39;) scores.aspire += 3; 
+
+    
+    if (answers.hotel_nights === &#39;few&#39;) scores.honors += 3;
+    else if (answers.hotel_nights === &#39;moderate&#39;) { scores.surpass += 2; scores.business += 1; }
+    else if (answers.hotel_nights === &#39;frequent&#39;) { scores.surpass += 2; scores.aspire += 2; }
+    else if (answers.hotel_nights === &#39;heavy&#39;) { scores.aspire += 4; }
+
+    
+    if (answers.pet_fee_pain === &#39;no_big_deal&#39;) scores.honors += 1;
+    else if (answers.pet_fee_pain === &#39;annoying&#39;) scores.surpass += 2;
+    else if (answers.pet_fee_pain === &#39;hate_them&#39;) { scores.surpass += 1; scores.aspire += 2; }
+    else if (answers.pet_fee_pain === &#39;dealbreaker&#39;) scores.aspire += 3; 
+
+    
+    if (answers.spending === &#39;low&#39;) scores.honors += 3;
+    else if (answers.spending === &#39;moderate&#39;) scores.surpass += 2;
+    else if (answers.spending === &#39;high&#39;) { scores.surpass += 1; scores.aspire += 2; scores.business += 1; }
+    else if (answers.spending === &#39;very_high&#39;) { scores.aspire += 3; scores.business += 2; }
+
+    
+    if (answers.annual_fee === &#39;none&#39;) scores.honors += 5;
+    else if (answers.annual_fee === &#39;low&#39;) scores.surpass += 3;
+    else if (answers.annual_fee === &#39;moderate&#39;) { scores.surpass += 1; scores.business += 2; }
+    else if (answers.annual_fee === &#39;premium&#39;) scores.aspire += 4;
+
+    return Object.entries(scores).reduce((a, b) =&gt; b[1] &gt; a[1] ? b : a)[0];
+  }
+
+  function renderQuestion() {
+    const q = questions[currentQ];
+    const progress = ((currentQ + 1) / questions.length) * 100;
+
+    let html = `
+      &lt;div class=&#34;quiz-progress&#34;&gt;
+        &lt;div class=&#34;progress-bar&#34;&gt;
+          &lt;div class=&#34;progress-fill&#34; style=&#34;width: ${progress}%&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+        &lt;span class=&#34;progress-text&#34;&gt;Question ${currentQ + 1} of ${questions.length}&lt;/span&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;quiz-question&#34;&gt;
+        &lt;span class=&#34;question-icon&#34;&gt;${q.icon}&lt;/span&gt;
+        &lt;h3 class=&#34;question-text&#34;&gt;${q.question}&lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;quiz-options&#34;&gt;
+        ${q.options.map(opt =&gt; `
+          &lt;button class=&#34;option-btn ${selected === opt.value ? &#39;selected&#39; : &#39;&#39;}&#34; data-value=&#34;${opt.value}&#34;&gt;
+            &lt;span class=&#34;option-label&#34;&gt;${opt.label}&lt;/span&gt;
+            &lt;span class=&#34;option-desc&#34;&gt;${opt.desc}&lt;/span&gt;
+          &lt;/button&gt;
+        `).join(&#39;&#39;)}
+      &lt;/div&gt;
+      &lt;div class=&#34;quiz-nav&#34;&gt;
+        ${currentQ &gt; 0 ? &#39;&lt;button class=&#34;back-btn&#34; id=&#34;back-btn&#34;&gt;← Back&lt;/button&gt;&#39; : &#39;&#39;}
+        &lt;button class=&#34;next-btn&#34; id=&#34;next-btn&#34; ${!selected ? &#39;disabled&#39; : &#39;&#39;}&gt;
+          ${currentQ === questions.length - 1 ? &#39;See My Result&#39; : &#39;Next →&#39;}
+        &lt;/button&gt;
+      &lt;/div&gt;
+    `;
+
+    document.getElementById(&#39;quiz-content&#39;).innerHTML = html;
+    attachQuestionListeners();
+  }
+
+  function renderResult() {
+    const cardKey = calculateResult();
+    const card = cards[cardKey];
+
+    let html = `
+      &lt;div class=&#34;result-header&#34;&gt;
+        &lt;span class=&#34;result-icon&#34;&gt;🐾&lt;/span&gt;
+        &lt;h3 class=&#34;result-title&#34;&gt;Your Pup-fect Card Match!&lt;/h3&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;card-recommendation&#34;&gt;
+        &lt;span class=&#34;card-badge&#34;&gt;Best Match&lt;/span&gt;
+        &lt;h4 class=&#34;card-name&#34;&gt;${card.name}&lt;/h4&gt;
+        &lt;p class=&#34;card-fee&#34;&gt;${card.fee}&lt;/p&gt;
+        &lt;p class=&#34;card-tagline&#34;&gt;${card.tagline}&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;benefits-section&#34;&gt;
+        &lt;h4 class=&#34;benefits-title&#34;&gt;Key Benefits&lt;/h4&gt;
+        &lt;ul class=&#34;benefits-list&#34;&gt;
+          ${card.benefits.map(b =&gt; `&lt;li class=&#34;benefit-item&#34;&gt;&lt;span class=&#34;checkmark&#34;&gt;✓&lt;/span&gt;${b}&lt;/li&gt;`).join(&#39;&#39;)}
+        &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;why-section&#34;&gt;
+        &lt;h4 class=&#34;why-title&#34;&gt;Why This Card Fits You&lt;/h4&gt;
+        &lt;p class=&#34;why-text&#34;&gt;${card.bestFor}&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;a href=&#34;${card.link}&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; class=&#34;apply-btn&#34;&gt;Learn More &amp; Apply →&lt;/a&gt;
+      &lt;button class=&#34;restart-btn&#34; id=&#34;restart-btn&#34;&gt;↻ Take Quiz Again&lt;/button&gt;
+      &lt;p class=&#34;disclaimer&#34;&gt;&lt;strong&gt;Note:&lt;/strong&gt; Hilton pet policies vary by property—most allow dogs up to 50-75 lbs, but some have lower limits. Always &lt;a href=&#34;https://www.bringfido.com/?ref=YOURAFFILIATEID&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; style=&#34;color: #2d5a47; text-decoration: underline;&#34;&gt;check BringFido&lt;/a&gt; or call ahead to confirm your pup is welcome. Card terms may change—check the issuer&#39;s website for details. Some links may be affiliate links that support ThePointsPup at no cost to you. 🐕&lt;/p&gt;
+    `;
+
+    document.getElementById(&#39;quiz-content&#39;).innerHTML = html;
+    document.getElementById(&#39;restart-btn&#39;).addEventListener(&#39;click&#39;, restart);
+  }
+
+  function attachQuestionListeners() {
+    document.querySelectorAll(&#39;.option-btn&#39;).forEach(btn =&gt; {
+      btn.addEventListener(&#39;click&#39;, function() {
+        selected = this.dataset.value;
+        document.querySelectorAll(&#39;.option-btn&#39;).forEach(b =&gt; b.classList.remove(&#39;selected&#39;));
+        this.classList.add(&#39;selected&#39;);
+        document.getElementById(&#39;next-btn&#39;).disabled = false;
+      });
+    });
+
+    document.getElementById(&#39;next-btn&#39;).addEventListener(&#39;click&#39;, function() {
+      if (!selected) return;
+      answers[questions[currentQ].id] = selected;
+      selected = null;
+      if (currentQ &lt; questions.length - 1) {
+        currentQ++;
+        renderQuestion();
+      } else {
+        renderResult();
+      }
+    });
+
+    const backBtn = document.getElementById(&#39;back-btn&#39;);
+    if (backBtn) {
+      backBtn.addEventListener(&#39;click&#39;, function() {
+        if (currentQ &gt; 0) {
+          currentQ--;
+          selected = answers[questions[currentQ].id] || null;
+          renderQuestion();
+        }
+      });
+    }
+  }
+
+  function restart() {
+    currentQ = 0;
+    answers = {};
+    selected = null;
+    renderQuestion();
+  }
+
+  
+  document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+    if (document.getElementById(&#39;quiz-content&#39;)) {
+      renderQuestion();
+    }
+  });
+
+  
+  if (document.readyState !== &#39;loading&#39;) {
+    renderQuestion();
+  }
+})();
+&lt;/script&gt;
+&lt;h2 id=&#34;why-hilton-for-pet-travelers&#34;&gt;Why Hilton for Pet Travelers?
+&lt;/h2&gt;&lt;p&gt;Every Hilton brand in the U.S. welcomes dogs, making them one of the most pet-friendly hotel chains for road tripping with your pup.&lt;/p&gt;
+&lt;p&gt;With the right credit card, you can earn free nights at pet-friendly properties while stacking points on everyday purchases like dog food, vet bills, and gas for your road trips.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related reads:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#34; &gt;Best Credit Cards for Pet Travelers (2025)&lt;/a&gt; — Full comparison of all the top options&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hilton-diamond-status-guide/&#34; &gt;Hilton Diamond Status: How to Get It and Why It&amp;rsquo;s Worth It&lt;/a&gt; — The perks that matter most when traveling with a dog&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/traveling-with-large-dogs-hotel-policies/&#34; &gt;Traveling with a Large Dog: Hotel Policies You Need to Know&lt;/a&gt; — What to know before booking if your pup is over 50 lbs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Have questions about which card is right for you? &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/contact/&#34; &gt;Reach out&lt;/a&gt; — happy to help!&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Hilton Diamond Status: How to Get It and Why It&#39;s Worth It</title>
+        <link>http://localhost:1313/posts/hilton-diamond-status-guide/</link>
+        <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/hilton-diamond-status-guide/</guid>
+        <description>&lt;p&gt;Hilton Diamond is the top tier of Hilton Honors (until Diamond Reserve launches in 2026), and it comes with perks that make traveling with a dog way easier — room upgrades, late checkout, free breakfast, and more.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s how I got it and why it&amp;rsquo;s worth pursuing.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-i-got-diamond-status&#34;&gt;💎 How I Got Diamond Status
+&lt;/h2&gt;&lt;p&gt;I earned Diamond status two ways:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;First time:&lt;/strong&gt; I hit the $40,000 spending threshold on my Hilton Surpass card through everyday spending — groceries, gas, dining, bills. Once you hit that number, Diamond status kicks in within a few weeks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Now:&lt;/strong&gt; I carry the Hilton Aspire card, which gives you automatic Diamond status just for having the card. No spending threshold, no stays required — you&amp;rsquo;re Diamond from day one.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re serious about hotel travel, the Aspire is the easier path. If you&amp;rsquo;re already putting significant spend on a Surpass card, you might hit Diamond that way first.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-diamond-status-benefits&#34;&gt;⭐ Diamond Status Benefits
+&lt;/h2&gt;&lt;p&gt;Here&amp;rsquo;s what you actually get:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Benefit&lt;/th&gt;
+          &lt;th&gt;What It Means&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;🛏️ &lt;strong&gt;Room upgrades&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Up to 1-bedroom suites, based on availability&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;🍳 &lt;strong&gt;Daily food &amp;amp; beverage credit&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;At U.S. properties (or free breakfast internationally)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;🍸 &lt;strong&gt;Executive lounge access&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Free breakfast, snacks, drinks (where available)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;⏰ &lt;strong&gt;Late checkout&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Sleep in, no rush&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;💯 &lt;strong&gt;100% bonus points&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Double the base points on every stay&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;🌙 &lt;strong&gt;5th night free&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Book 4 nights with points, get the 5th free&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;📶 &lt;strong&gt;Premium WiFi&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Fastest speeds in the hotel&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;✅ &lt;strong&gt;48-hour room guarantee&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Guaranteed room if booked 48+ hours ahead&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;🎁 &lt;strong&gt;Welcome amenities&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Snacks, water bottles, treats at check-in (varies by property)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-the-perks-i-actually-use&#34;&gt;🏨 The Perks I Actually Use
+&lt;/h2&gt;&lt;h3 id=&#34;room-upgrades&#34;&gt;Room Upgrades
+&lt;/h3&gt;&lt;p&gt;This is the big one. As a Diamond member, I&amp;rsquo;ve been upgraded to suites multiple times — including an ocean-view suite at the &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/pcb-embassy-suites-review&#34; &gt;Embassy Suites in Panama City Beach&lt;/a&gt;. More space means more room for the dog to spread out, and a balcony is a game-changer for morning coffee while Ansel watches the beach.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pro tip:&lt;/strong&gt; When you book, add a note requesting an upgrade. It doesn&amp;rsquo;t guarantee anything, but it puts you on their radar.&lt;/p&gt;
+&lt;h3 id=&#34;daily-food--beverage-credit&#34;&gt;Daily Food &amp;amp; Beverage Credit
+&lt;/h3&gt;&lt;p&gt;At most U.S. Hilton properties, Diamond members get a daily F&amp;amp;B credit instead of free breakfast. The amount varies by brand (usually $15–$25 per person), and it applies to you plus one guest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;💡 Pro tip:&lt;/strong&gt; These credits stack. Staying 3 nights? That&amp;rsquo;s 3 days of credits you can use whenever — save them up and have a nice dinner on your last night, or use them at the bar.&lt;/p&gt;
+&lt;h3 id=&#34;late-checkout&#34;&gt;Late Checkout
+&lt;/h3&gt;&lt;p&gt;When you&amp;rsquo;re traveling with a dog, late checkout is clutch. No rushing to pack up and get the dog out by 11am. I&amp;rsquo;ve gotten 2pm checkout at most properties just by asking at the front desk.&lt;/p&gt;
+&lt;h3 id=&#34;executive-lounge-access&#34;&gt;Executive Lounge Access
+&lt;/h3&gt;&lt;p&gt;Where available, Diamond members can access the executive lounge for free breakfast, evening appetizers, and drinks. These are more common at international properties — in the U.S., they&amp;rsquo;re hit or miss. But when you find one, it&amp;rsquo;s a nice quiet spot to grab coffee or a snack.&lt;/p&gt;
+&lt;h3 id=&#34;welcome-amenities&#34;&gt;Welcome Amenities
+&lt;/h3&gt;&lt;p&gt;This varies by property, but I&amp;rsquo;ve received complimentary water bottles, snacks, and even treats for Ansel at check-in. Small touches that make you feel recognized.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-ways-to-earn-diamond-status&#34;&gt;🎯 Ways to Earn Diamond Status
+&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Method&lt;/th&gt;
+          &lt;th&gt;Requirement&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;💳 &lt;strong&gt;Hilton Aspire card&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Automatic — just have the card&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;💳 &lt;strong&gt;Hilton Surpass card&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Spend $40,000 in a calendar year&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;🛏️ &lt;strong&gt;Stays&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;30 stays in a calendar year&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;🌙 &lt;strong&gt;Nights&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;60 nights in a calendar year&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;⭐ &lt;strong&gt;Base points&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Earn 120,000 base points in a calendar year&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;For most people, the credit card path is the easiest. Unless you&amp;rsquo;re traveling for work constantly, hitting 60 nights is tough. But everyday spending on a Surpass or Aspire card? That adds up fast.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-the-credit-card-shortcut&#34;&gt;💳 The Credit Card Shortcut
+&lt;/h2&gt;&lt;h3 id=&#34;hilton-aspire-550year&#34;&gt;Hilton Aspire ($550/year)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Automatic Diamond status&lt;/strong&gt; — no spend required&lt;/li&gt;
+&lt;li&gt;Annual free night certificate&lt;/li&gt;
+&lt;li&gt;$400/year in Hilton resort credits&lt;/li&gt;
+&lt;li&gt;$200/year in flight credits (buy airline gift cards — they count!)&lt;/li&gt;
+&lt;li&gt;175,000 point sign-up bonus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;hilton-surpass-150year&#34;&gt;Hilton Surpass ($150/year)
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Gold status&lt;/strong&gt; automatic, &lt;strong&gt;Diamond at $40k spend&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;$200/year in Hilton credits ($50/quarter — use at any Hilton property, even just for dinner)&lt;/li&gt;
+&lt;li&gt;Free night after $15k spend&lt;/li&gt;
+&lt;li&gt;155,000 point sign-up bonus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want Diamond without the $550 Aspire fee, the Surpass path works — it just takes more spending. I did it for a couple years before upgrading to the Aspire.&lt;/p&gt;
+&lt;p&gt;For the full breakdown, check out my &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-pet-travelers&#34; &gt;Best Credit Cards for Pet Travelers&lt;/a&gt; guide.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-free-night-certificates-the-secret-weapon&#34;&gt;🌙 Free Night Certificates: The Secret Weapon
+&lt;/h2&gt;&lt;p&gt;One of my favorite Diamond perks isn&amp;rsquo;t technically a Diamond perk — it&amp;rsquo;s the free night certificates from the Aspire card. But here&amp;rsquo;s what most people don&amp;rsquo;t realize:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;These certificates work at almost any Hilton property.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve used mine at resorts where rooms go for $400–$500/night. Some people have used them at properties charging $1,000+ per night. The certificate covers one standard night, regardless of the cash price.&lt;/p&gt;
+&lt;p&gt;So while you&amp;rsquo;re earning Diamond status and racking up points, those free night certificates are quietly saving you hundreds of dollars per year.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-diamond-matters-for-pet-travelers&#34;&gt;🐕 Why Diamond Matters for Pet Travelers
+&lt;/h2&gt;&lt;p&gt;Here&amp;rsquo;s why I think Diamond status is especially valuable when you&amp;rsquo;re traveling with a dog:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Suite upgrades = more space.&lt;/strong&gt; A regular hotel room with a 70-pound dog feels cramped. A suite with a separate living area? Much better.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Late checkout = less stress.&lt;/strong&gt; Morning potty breaks, packing up dog gear, loading the car — it all takes longer with a pet. Late checkout gives you breathing room.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;F&amp;amp;B credits = save money.&lt;/strong&gt; Pet fees add up. Having your meals partially covered helps offset those costs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Welcome amenities.&lt;/strong&gt; Some properties include dog treats or pet welcome packages for Diamond members. It&amp;rsquo;s not guaranteed, but it happens.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-whats-coming-diamond-reserve-2026&#34;&gt;📅 What&amp;rsquo;s Coming: Diamond Reserve (2026)
+&lt;/h2&gt;&lt;p&gt;Hilton is adding a new tier above Diamond starting January 2026 — &lt;strong&gt;Diamond Reserve&lt;/strong&gt;. It requires 80 nights or 40 stays PLUS $18,000 in eligible spend.&lt;/p&gt;
+&lt;p&gt;The perks include confirmable suite upgrades at booking, guaranteed 4pm late checkout, and 120% bonus points. For most travelers, regular Diamond will still be the goal — but it&amp;rsquo;s good to know what&amp;rsquo;s coming.&lt;/p&gt;
+&lt;p&gt;The good news: &lt;strong&gt;nothing changes for current Diamond members&lt;/strong&gt;. All the existing benefits stay the same.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-the-bottom-line&#34;&gt;✅ The Bottom Line
+&lt;/h2&gt;&lt;p&gt;Diamond status makes hotel travel more comfortable — especially with a dog. The upgrades, late checkout, and F&amp;amp;B credits add real value, and the credit card path makes it accessible even if you&amp;rsquo;re not a road warrior.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re already staying at Hilton properties and putting spend on a Hilton card, Diamond is within reach. And once you have it, you&amp;rsquo;ll wonder how you traveled without it.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Have questions about earning or using Diamond status? &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/contact&#34; &gt;Reach out&lt;/a&gt; — happy to help.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Read next:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/why-hilton-for-pet-travelers/&#34; &gt;Why Hilton Is the Best Hotel Chain for Pet Travelers&lt;/a&gt;
+&lt;strong&gt;Read next:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hilton-credit-card-quiz/&#34; &gt;Quiz: Find Your Perfect Hilton Credit Card&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         

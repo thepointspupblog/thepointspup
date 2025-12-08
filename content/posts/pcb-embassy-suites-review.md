@@ -3,7 +3,7 @@ title: "Panama City Beach with My 70-Pound Dog: Embassy Suites Review"
 date: 2025-12-04
 draft: false
 categories:
-  - Reviews
+  - Trip Reports
 tags:
   - Hilton
   - Florida
@@ -134,3 +134,5 @@ Would I go back? Yeah, probably. Next time I'll be smarter about requesting a ro
 | **Grooming** | PetSmart in Pier Park |
 | **Daycare** | ZOOMIES Pet Hotel, Dagny and Dexter's (book ahead!) |
 | **Room Tip** | Request a room near the elevator |
+
+**Read next:** [Jacksonville to Panama City Beach: A Pet-Friendly Road Trip Guide](/posts/jacksonville-to-panama-city-beach-road-trip/)

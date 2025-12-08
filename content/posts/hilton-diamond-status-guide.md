@@ -156,3 +156,6 @@ If you're already staying at Hilton properties and putting spend on a Hilton car
 ---
 
 *Have questions about earning or using Diamond status? [Reach out](/contact) — happy to help.*
+
+**Read next:** [Why Hilton Is the Best Hotel Chain for Pet Travelers](/posts/why-hilton-for-pet-travelers/)
+**Read next:** [Quiz: Find Your Perfect Hilton Credit Card](/posts/hilton-credit-card-quiz/)

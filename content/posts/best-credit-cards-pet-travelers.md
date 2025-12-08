@@ -2,6 +2,7 @@
 title: "Best Credit Cards for Pet Travelers (2025)"
 description: "The cards I use to travel free with my dog — including sign-up bonuses and how the fees pay for themselves."
 date: 2025-12-02
+weight: 1
 draft: false
 categories:
   - Credit Cards
@@ -206,3 +207,5 @@ I've been running this setup for years, and it's saved me thousands. If you're r
 ---
 
 *Questions about which card is right for you? [Reach out](/contact) — happy to help.*
+
+**Read next:** [Quiz: Which Hilton Credit Card Is Best for Dog Travelers?](/posts/hilton-credit-card-quiz/) | [Why Hilton for Pet Travelers](/posts/why-hilton-for-pet-travelers/)

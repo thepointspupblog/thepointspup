@@ -111,3 +111,5 @@ Here's what I personally use:
 ---
 
 *Have a road trip essential I missed? [Let me know](/contact) — I'm always looking to upgrade my setup.*
+
+**Read next:** [Best Pet-Friendly Beach Towns Near Jacksonville](/posts/pet-friendly-beach-towns-jacksonville/)

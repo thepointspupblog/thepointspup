@@ -90,3 +90,5 @@ Honestly, I usually skip Daytona proper and head to NSB or Flagler instead. But 
 All of these are easy drives from Jacksonville and make great trips with your dog. Pack a travel bag, book a pet-friendly hotel (on points, of course), and go explore.
 
 **Want more posts about the places we eat and stay?** [Shoot me an email](mailto:woof@thepointspup.com) and let me know what you'd like to see.
+
+**Read next:** [Road Trip Essentials for Traveling with Your Dog](/posts/road-trip-essentials-dogs/)

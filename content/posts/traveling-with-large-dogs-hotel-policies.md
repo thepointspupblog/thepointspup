@@ -134,3 +134,5 @@ Your big dog deserves adventures too. Don't let arbitrary weight limits keep you
 ---
 
 *Have a favorite hotel chain for large dogs? I'd love to hear about it— see my [contact page](/contact/) to reach out.*
+
+**Read next:** [Why Hilton Is the Best Hotel Chain for Pet Travelers](/posts/why-hilton-for-pet-travelers/)
