@@ -23,11 +23,11 @@
         <description></description>
         </item>
         <item>
-        <title>Reviews</title>
-        <link>http://localhost:1313/categories/reviews/</link>
+        <title>Trip Reports</title>
+        <link>http://localhost:1313/categories/trip-reports/</link>
         <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/reviews/</guid>
+        <guid>http://localhost:1313/categories/trip-reports/</guid>
         <description></description>
         </item>
         
