@@ -877,6 +877,14 @@ If it&amp;rsquo;s relevant to pet travel, sure — reach out and let&amp;rsquo;s
 &lt;/h2&gt;&lt;p&gt;Email me at &lt;a class=&#34;link&#34; href=&#34;mailto:woof@thepointspup.com&#34; &gt;woof@thepointspup.com&lt;/a&gt;.&lt;/p&gt;
 </description>
         </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/search/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>

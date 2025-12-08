@@ -72,3 +72,7 @@ theme = 'hugo-theme-stack'
   name = "Privacy"
   url = "/privacy"
   weight = 5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "JSON"]
