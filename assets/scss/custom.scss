@@ -403,6 +403,110 @@ footer *,
   z-index: 10;
 }
 
+.error-page {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.error-page h1 {
+  font-size: 6rem;
+  color: #2d5a47;
+  margin: 0;
+}
+
+.error-page p {
+  font-size: 1.25rem;
+  color: #666;
+  margin: 1rem 0;
+}
+
+.error-links {
+  margin-top: 2rem;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.error-links a {
+  background: #2d5a47;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.error-links a:hover {
+  background: #234a39;
+}
+
+.posts-archive {
+  max-width: 800px;
+}
+
+.posts-archive h1 {
+  color: #2d5a47;
+  margin-bottom: 0.5rem;
+}
+
+.archive-description {
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.posts-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.post-item {
+  padding: 1.5rem;
+  background: #fff;
+  border-radius: 12px;
+  border: 1px solid #e8e4df;
+}
+
+.post-item:hover {
+  border-color: #2d5a47;
+}
+
+.post-category {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #2d5a47;
+  background: #e8f5e9;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.post-item h2 {
+  margin: 0.75rem 0 0.5rem;
+  font-size: 1.25rem;
+}
+
+.post-item h2 a {
+  color: #333;
+  text-decoration: none;
+}
+
+.post-item h2 a:hover {
+  color: #2d5a47;
+}
+
+.post-description {
+  color: #666;
+  font-size: 0.95rem;
+  margin: 0 0 0.5rem;
+}
+
+.post-item time {
+  font-size: 0.85rem;
+  color: #999;
+}
+
 // ========== MOBILE RESPONSIVE ==========
 @media (max-width: 768px) {
   html {
