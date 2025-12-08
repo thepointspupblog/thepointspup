@@ -54,22 +54,30 @@
 - [x] Quiz post links to Diamond guide, credit cards, large dogs
 - [x] Why Hilton post ties everything together
 
+### Deployment ✅ (Completed Dec 8, 2025)
+- [x] Configure GitHub Actions Hugo workflow
+- [x] Set up GitHub Pages to use the workflow
+- [x] Connect custom domain in GitHub Pages settings
+- [x] SSL certificate active (https://thepointspup.com)
+- [x] Google Search Console verified
+- [x] Sitemap submitted (32 pages discovered)
+- [x] Google Analytics installed (G-N01KQVRS3M)
+
 ---
 
-## Phase 1.5: Deployment (Next Step)
+## Phase 2: Final Checks & Affiliate Applications (Current)
 
-### GitHub Pages Setup
-- [ ] Configure GitHub Actions Hugo workflow
-- [ ] Set up GitHub Pages to use the workflow
-- [ ] Connect custom domain in GitHub Pages settings
-- [ ] Test on live site (favicon, search, quiz, mobile)
+### Test Live Site
+- [ ] Test favicon displays correctly
+- [ ] Test search functionality
+- [ ] Test quiz on mobile
+- [ ] Test all internal links
+- [ ] Check all images load
 
----
-
-## Phase 2: Apply for Affiliates
-- [ ] Amazon Associates
-- [ ] Bankrate or Commission Soup (credit cards)
-- [ ] BringFido partner program
+### Apply for Affiliates
+- [ ] Amazon Associates (apply now - easiest approval)
+- [ ] BringFido partner program (apply now - good niche fit)
+- [ ] Bankrate or Commission Soup (wait 1-2 months for traffic history)
 
 ---
 
@@ -92,3 +100,4 @@
 - Pet-Friendly Marriott vs Hilton Comparison
 - How to Use Free Night Certificates
 - Dog-friendly restaurant guides by city
+- More trip reports from Florida road trips with Ansel
