@@ -10,6 +10,8 @@ tags:
   - Credit Cards
   - Hilton
   - Marriott
+  - IHG
+  - Kimpton
 ---
 
 If you travel with your dog and aren't using hotel credit cards, you're leaving money on the table. Pet fees, room rates, and all those extras add up fast — but the right cards can offset most of it with points, free nights, and elite status perks.
@@ -22,6 +24,7 @@ Here's what I use and recommend for pet travelers.
 - [Hilton Aspire](#-hilton-honors-american-express-aspire)
 - [Hilton Surpass](#-hilton-honors-american-express-surpass)
 - [Hilton No Fee](#-hilton-honors-american-express-no-annual-fee)
+- [For Kimpton: IHG & Chase](#for-kimpton-travelers-ihg--chase-cards)
 - [Marriott Alternative](#the-alternative-marriott)
 - [Which Card Should You Get?](#which-card-should-you-get)
 
@@ -136,6 +139,82 @@ If you're just getting started, this is a no-risk way to begin earning Hilton po
 
 ---
 
+## For Kimpton Travelers: IHG & Chase Cards
+
+Kimpton has the best pet policy in the industry — no fees, no weight limits, no breed restrictions. If that's your priority, you'll need IHG points (Kimpton is part of IHG).
+
+I don't carry these cards yet, but they're worth considering if Kimpton is your target.
+
+---
+
+### 🏨 IHG One Rewards Premier Credit Card
+
+**Best if you'll stay at IHG/Kimpton regularly.**
+
+| | |
+|---|---|
+| **Annual Fee** | $99 |
+| **Sign-Up Bonus** | 140,000 points after $3,000 spend in 3 months |
+| **Free Night** | 1/year (up to 40,000 points) |
+| **Status** | Platinum Elite |
+
+That 140,000-point bonus is enough for 2-4 free nights at most Kimptons.
+
+**Key perks:**
+- 💳 26x points at IHG properties
+- 🌙 4th night free on award stays (book 4, pay for 3)
+- 🎁 Annual free night certificate
+
+**How the $99 fee pays for itself:**
+
+| Perk | Value |
+|------|-------|
+| Annual free night certificate | $200+ |
+| **Total** | **$200+** |
+
+---
+
+### 🆓 IHG One Rewards Traveler Credit Card
+
+**The no-risk IHG option.**
+
+| | |
+|---|---|
+| **Annual Fee** | $0 |
+| **Sign-Up Bonus** | 80,000 points after $2,000 spend in 3 months |
+| **Free Night** | None |
+
+If you're not sure how often you'll stay at Kimpton/IHG, this gets you started with no commitment.
+
+**Key perks:**
+- 💳 17x points at IHG properties
+- 🍽️ 3x on dining, gas, and groceries
+- 🌙 4th night free on award stays (yes, even with the no-fee card)
+
+---
+
+### 💳 Chase Sapphire Preferred
+
+**Best for flexibility across multiple hotel programs.**
+
+| | |
+|---|---|
+| **Annual Fee** | $95 |
+| **Sign-Up Bonus** | 60,000 points after $4,000 spend in 3 months |
+
+Chase Ultimate Rewards points transfer 1:1 to IHG — and to Hyatt, Marriott, and 10+ airline partners. If you don't want to commit to one hotel chain, this is the move.
+
+**Key perks:**
+- 💳 3x on dining, select streaming, and online groceries
+- ✈️ 2x on travel
+- 🔄 Points transfer to 14+ airline and hotel partners
+
+**💡 Pro tip:** If you already have Hilton cards and want to add Kimpton as an option, the Sapphire Preferred is a good complement. Transfer to IHG when you find a Kimpton you want, keep your Hilton setup for everything else.
+
+**Full breakdown:** [How to Book Kimpton Free with Points](/posts/kimpton-points-guide/)
+
+---
+
 ## The Alternative: Marriott
 
 ### 🏨 Marriott Bonvoy Boundless
@@ -177,6 +256,8 @@ Marriott's pet policies vary more by property than Hilton's, so always check bef
 | 🆕 New to points | Hilton (no fee) | 100k bonus, no risk |
 | 🐕 Travel 2–4x/year | Hilton Surpass | $200 credits > $150 fee |
 | ✈️ Travel frequently | Hilton Aspire | $1,100 in perks, Diamond upgrades |
+| 🐕‍🦺 Have a large dog | IHG Premier | Kimpton has no weight limits |
+| 🔄 Want flexibility | Chase Sapphire Preferred | Transfer to IHG, Hyatt, airlines |
 | 🏨 Prefer Marriott | Marriott Boundless | 3 free nights bonus, $95 fee |
 
 ---
@@ -201,6 +282,9 @@ I still paid the $125 pet fee (5+ nights), but that's a lot easier to stomach wh
 | 💎 Hilton Aspire | $550 | 175k points | $1,100+/year | Yes (annual) |
 | 🥇 Hilton Surpass | $150 | 155k points | $200/year | After $15k spend |
 | 🆓 Hilton (no fee) | $0 | 100k points | — | No |
+| 🏨 IHG Premier | $99 | 140k points | — | Yes (annual) |
+| 🆓 IHG Traveler | $0 | 80k points | — | No |
+| 💳 Chase Sapphire Preferred | $95 | 60k points | — | No |
 | 🏨 Marriott Boundless | $95 | 3 free nights | — | Yes (annual) |
 
 ---

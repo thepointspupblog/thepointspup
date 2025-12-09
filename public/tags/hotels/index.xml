@@ -128,7 +128,7 @@ const policies = {
     weight: &#34;No weight limit&#34;,
     fee: &#34;$0 (free!)&#34;,
     notes: &#34;The gold standard for pet travel. If your dog fits through the door, they&#39;re welcome. No breed restrictions. Many have a Director of Pet Relations (a very good dog). Nightly wine hour often welcomes pups.&#34;,
-    tip: &#34;Best hotel chain for large dogs, period. Worth the higher room rate.&#34;,
+    tip: &#34;Best hotel chain for large dogs, period. &lt;a href=&#39;http://localhost:1313/posts/kimpton-points-guide/&#39;&gt;Learn how to book free with points.&lt;/a&gt;&#34;,
     verdict: &#34;🟢 Best in class — no limits, no fees&#34;
   }
 };
@@ -438,7 +438,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
 &lt;p&gt;If you&amp;rsquo;re traveling with a large dog and want a stress-free check-in experience, Kimpton should be on your radar. And now you know how to book it free.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;Have you stayed at a Kimpton with your dog? I&amp;rsquo;d love to hear which property — &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/contact/&#34; &gt;reach out&lt;/a&gt; and let me know.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Read next:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-for-pet-travelers/&#34; &gt;Best Credit Cards for Pet Travelers&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/large-dog-hotel-policies/&#34; &gt;Traveling with a Large Dog: Hotel Policies You Need to Know&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Read next:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#34; &gt;Best Credit Cards for Pet Travelers&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/traveling-with-large-dogs-hotel-policies/&#34; &gt;Traveling with a Large Dog: Hotel Policies You Need to Know&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -460,7 +460,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
 &lt;p&gt;The good news? Several hotel chains have no weight limits at all, and others are more flexible than their official policies suggest.&lt;/p&gt;
 &lt;h2 id=&#34;hotels-with-no-weight-limits&#34;&gt;Hotels with NO Weight Limits
 &lt;/h2&gt;&lt;p&gt;These chains welcome dogs of any size—no awkward conversations at check-in required.&lt;/p&gt;
-&lt;h3 id=&#34;kimpton-hotels&#34;&gt;Kimpton Hotels
+&lt;h3 id=&#34;kimpton-hotels&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/kimpton-points-guide/&#34; &gt;Kimpton Hotels&lt;/a&gt;
 &lt;/h3&gt;&lt;p&gt;The gold standard for large dog travel. Their unofficial motto is &amp;ldquo;if they fit through the door, they&amp;rsquo;re welcome.&amp;rdquo; They&amp;rsquo;ve hosted everything from Great Danes to llamas. No pet fee, no weight limit, and many properties have a resident &amp;ldquo;Director of Pet Relations&amp;rdquo; (a very good dog). The nightly wine reception often welcomes pups too.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Best for&lt;/strong&gt;: Travelers who want a boutique experience and don&amp;rsquo;t mind paying more per night.&lt;/p&gt;
 &lt;h3 id=&#34;motel-6--studio-6&#34;&gt;Motel 6 / Studio 6
@@ -568,7 +568,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
 &lt;p&gt;Your big dog deserves adventures too. Don&amp;rsquo;t let arbitrary weight limits keep you home.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;Have a favorite hotel chain for large dogs? I&amp;rsquo;d love to hear about it— see my &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/contact/&#34; &gt;contact page&lt;/a&gt; to reach out.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Read next:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hotel-pet-policy-finder/&#34; &gt;Hotel Pet Policy Finder&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/why-hilton-for-pet-travelers/&#34; &gt;Why Hilton Is the Best Hotel Chain for Pet Travelers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Read next:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hotel-pet-policy-finder/&#34; &gt;Hotel Pet Policy Finder&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/why-hilton-for-pet-travelers/&#34; &gt;Why Hilton Is the Best Hotel Chain for Pet Travelers&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/kimpton-points-guide/&#34; &gt;How to Book Kimpton Free with Points&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
