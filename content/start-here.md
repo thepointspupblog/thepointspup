@@ -12,35 +12,40 @@ Here's the path I recommend:
 
 ---
 
-### Step 1: Understand Why Hilton
+### Step 1: Find Your Perfect Card
 
-Not all hotel chains treat dogs equally. Hilton stands out for pet travelers — here's why it's my go-to.
+Not sure which hotel credit card fits your travel style? Take the quiz — it covers Hilton, IHG, Marriott, and Chase.
 
-**Read:** [Why Hilton Is the Best Hotel Chain for Pet Travelers](/posts/why-hilton-for-pet-travelers/)
+**Take the Quiz:** [Which Hotel Credit Card Is Right for You?](/posts/hotel-credit-card-quiz/)
 
 ---
 
 ### Step 2: Learn How to Earn Points Fast
 
-The right credit card can get you 2-3 free nights just from the sign-up bonus. This guide breaks down your options.
+The right credit card can get you 2-3 free nights just from the sign-up bonus. This guide breaks down all your options.
 
 **Read:** [Best Credit Cards for Pet Travelers (2025)](/posts/best-credit-cards-pet-travelers/)
 
 ---
 
-### Step 3: Get Elite Status (It's Easier Than You Think)
+### Step 3: Pick Your Hotel Chain
 
-Diamond status means late checkout, room upgrades, and free breakfast — all things that make traveling with a dog easier.
+Different chains work better for different dogs. Here's how to choose:
 
-**Read:** [Hilton Diamond Status: How to Get It and Why It's Worth It](/posts/hilton-diamond-status/)
+- **Hilton** — Great all-around option, solid pet policies (most allow up to 75 lbs)
+- **Kimpton (IHG)** — Best for large dogs — no weight limits, no pet fees, no restrictions
+
+**Read:** [Why Hilton Is the Best Hotel Chain for Pet Travelers](/posts/why-hilton-for-pet-travelers/)
+
+**Read:** [How to Book Kimpton Hotels Free with Points](/posts/kimpton-points-guide/)
 
 ---
 
-### Step 4: Find Your Perfect Card
+### Step 4: Get Elite Status (It's Easier Than You Think)
 
-Not sure which Hilton card fits your travel style? Take the quiz.
+Diamond status means late checkout, room upgrades, and free breakfast — all things that make traveling with a dog easier.
 
-**Take the Quiz:** [Which Hilton Credit Card Is Right for You?](/posts/hilton-credit-card-quiz/)
+**Read:** [Hilton Diamond Status: How to Get It and Why It's Worth It](/posts/hilton-diamond-status-guide/)
 
 ---
 
@@ -54,25 +59,27 @@ Ready to plan your first trip? Start with the essentials.
 
 ## 🔧 Tools
 
+### Hotel Credit Card Quiz
+
+Answer 7 quick questions to find the best card for your dog's size and travel style.
+
+**Take the Quiz:** [Which Hotel Credit Card Is Right for You?](/posts/hotel-credit-card-quiz/)
+
 ### Hotel Pet Policy Finder
 
 Not sure if your dog is welcome? Check weight limits, fees, and policies for major hotel chains — instantly.
 
 **Use the Tool:** [Hotel Pet Policy Finder](/posts/hotel-pet-policy-finder/)
 
-### Hilton Credit Card Quiz
-
-Answer 7 quick questions to find the best Hilton card for your travel style.
-
-**Take the Quiz:** [Which Hilton Credit Card Is Right for You?](/posts/hilton-credit-card-quiz/)
-
 ---
 
 ## Have a Large Dog?
 
-If your pup is over 50 lbs, hotel weight limits can be frustrating. I wrote a whole guide on navigating this.
+If your pup is over 50 lbs, hotel weight limits can be frustrating. I wrote a whole guide on navigating this — plus why Kimpton should be on your radar.
 
 **Read:** [Traveling with a Large Dog: Hotel Policies You Need to Know](/posts/traveling-with-large-dogs-hotel-policies/)
+
+**Read:** [How to Book Kimpton Hotels Free with Points](/posts/kimpton-points-guide/)
 
 ---
 

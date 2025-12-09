@@ -18,7 +18,7 @@
 - [x] Contact page
 - [x] Privacy policy page
 
-### Posts Complete (9 total) ✅
+### Posts Complete (11 total) ✅
 1. [x] Panama City Beach Embassy Suites Review
 2. [x] Road Trip Essentials for Dogs
 3. [x] Best Credit Cards for Pet Travelers (2025)
@@ -28,6 +28,8 @@
 7. [x] Quiz: Which Hilton Credit Card Is Best for Dog Travelers?
 8. [x] Traveling with a Large Dog: Hotel Policies You Need to Know
 9. [x] Why Hilton Is the Best Hotel Chain for Pet Travelers
+10. [x] How to Book Kimpton Hotels Free with Points
+11. [x] Quiz: Which Hotel Credit Card Is Best for Dog Travelers?
 
 ### Styling Complete ✅
 - [x] Custom SCSS (earthy colors, dark mode removed)
@@ -38,24 +40,28 @@
 - [x] Favicon and logo created
 
 ### Site Organization ✅
-- [x] Categories: Guides, Credit Cards, Trip Reports
+- [x] Categories: Guides, Credit Cards, Trip Reports, Tools
 - [x] Tags cleaned up
 - [x] "Hilton for Pet Travelers" series created
 - [x] Homepage hero section added
 - [x] Tagline updated: "Free hotel stays for pet travelers"
-- [x] Start Here page created
+- [x] Start Here page created and updated with IHG/Kimpton content
 - [x] Navigation cleaned up (legal pages moved to footer)
-- [x] Quiz featured on homepage
+- [x] Main quiz featured on homepage (all hotel cards)
 
 ### Interactive Tools ✅
 - [x] Hilton Credit Card Quiz (7 questions, 4 card results)
+- [x] Hotel Credit Card Quiz (7 questions, 7 card results — Hilton, IHG, Chase, Marriott)
+- [x] Hotel Pet Policy Finder (with Kimpton link added)
 - [x] Quiz results link to related posts
-- [x] Weight limit warning and BringFido link in quiz
+- [x] Weight limit warning and BringFido link in quizzes
 
 ### Internal Linking ✅
 - [x] "Read Next" links added to all posts
-- [x] Quiz post links to Diamond guide, credit cards, large dogs
+- [x] Quiz posts link to Diamond guide, credit cards, large dogs, Kimpton
 - [x] Why Hilton post ties everything together
+- [x] Kimpton post linked from Large Dogs post, Credit Cards post, Policy Finder
+- [x] Best Credit Cards post updated with IHG/Chase section
 
 ### Deployment ✅ (Completed Dec 8, 2025)
 - [x] Configure GitHub Actions Hugo workflow
@@ -92,21 +98,26 @@
 ### Affiliate Approvals Pending
 - [ ] BringFido — waiting for approval
 - [ ] Gunner Kennels — waiting for approval
-- [ ] Credit card affiliates (Bankrate/Commission Soup) — apply in 1-2 months
+- [ ] Credit card affiliates (Bankrate/CJ Affiliate) — apply in 1-2 months
 
 ### Once Approved, Add Links To:
 - [ ] Large Dogs post: BringFido affiliate link
 - [ ] PCB Road Trip post: Gunner Kennel link
 - [ ] Road Trip Essentials: Gunner Kennel link
-- [ ] Quiz post: Credit card affiliate links (when approved)
+- [ ] Hotel Credit Card Quiz: Credit card affiliate links (when approved)
+- [ ] Hilton Credit Card Quiz: Credit card affiliate links (when approved)
 - [ ] Credit Cards post: Card affiliate links (when approved)
 - [ ] Diamond Status post: Card affiliate links (when approved)
+- [ ] Kimpton post: IHG card affiliate links (when approved)
 
 ---
 
 ## Future Content Ideas
 - Hotel review: Waldorf Astoria Cabo (January trip!)
+- Kimpton property review (when you stay at one)
 - Pet-Friendly Marriott vs Hilton Comparison
 - How to Use Free Night Certificates
+- How to Transfer Chase Points to Hotel Partners
+- IHG One Rewards Beginner's Guide
 - Dog-friendly restaurant guides by city
 - More trip reports from Florida road trips with Ansel

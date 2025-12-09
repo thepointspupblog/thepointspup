@@ -71,6 +71,14 @@
         <description></description>
         </item>
         <item>
+        <title>Marriott</title>
+        <link>http://localhost:1313/tags/marriott/</link>
+        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/marriott/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Road Trip</title>
         <link>http://localhost:1313/tags/road-trip/</link>
         <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
@@ -84,14 +92,6 @@
         <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/gear/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Marriott</title>
-        <link>http://localhost:1313/tags/marriott/</link>
-        <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/marriott/</guid>
         <description></description>
         </item>
         <item>
