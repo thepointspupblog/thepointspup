@@ -17,6 +17,7 @@
 - [x] Affiliate disclosure page
 - [x] Contact page
 - [x] Privacy policy page
+- [x] Free Guide landing page (gated with email capture)
 
 ### Posts Complete (11 total) ✅
 1. [x] Panama City Beach Embassy Suites Review
@@ -48,6 +49,7 @@
 - [x] Start Here page created and updated with IHG/Kimpton content
 - [x] Navigation cleaned up (legal pages moved to footer)
 - [x] Main quiz featured on homepage (all hotel cards)
+- [x] Free Guide added to main navigation
 
 ### Interactive Tools ✅
 - [x] Hilton Credit Card Quiz (7 questions, 4 card results)
@@ -55,6 +57,16 @@
 - [x] Hotel Pet Policy Finder (with Kimpton link added)
 - [x] Quiz results link to related posts
 - [x] Weight limit warning and BringFido link in quizzes
+- [x] Share buttons added to both quizzes (Twitter, Facebook, Copy Link)
+- [x] Quiz CTAs updated with card-specific links
+
+### Lead Magnet ✅ (Completed Dec 9, 2025)
+- [x] Free PDF guide created: "How to Book Free Hotel Stays with Your Dog"
+- [x] Guide includes: logo, Hilton/IHG/Marriott cards, dog size chart, earning examples
+- [x] Gated landing page (email required to download)
+- [x] Buttondown email capture set up (free tier)
+- [x] PDF hosted in static folder
+- [x] Free Guide linked in Start Here page
 
 ### Internal Linking ✅
 - [x] "Read Next" links added to all posts
@@ -62,6 +74,7 @@
 - [x] Why Hilton post ties everything together
 - [x] Kimpton post linked from Large Dogs post, Credit Cards post, Policy Finder
 - [x] Best Credit Cards post updated with IHG/Chase section
+- [x] Free Guide callout added to Start Here page
 
 ### Deployment ✅ (Completed Dec 8, 2025)
 - [x] Configure GitHub Actions Hugo workflow
@@ -91,6 +104,10 @@
 - [x] Custom 404 page
 - [x] Page speed check (84 mobile score)
 
+### Outreach Prep ✅ (Completed Dec 9, 2025)
+- [x] Pitch email templates created (points blogs, pet blogs, collaboration)
+- [x] Target site list compiled
+
 ---
 
 ## Phase 2: Waiting On
@@ -109,6 +126,30 @@
 - [ ] Credit Cards post: Card affiliate links (when approved)
 - [ ] Diamond Status post: Card affiliate links (when approved)
 - [ ] Kimpton post: IHG card affiliate links (when approved)
+
+---
+
+## Phase 3: Growth (In Progress)
+
+### Outreach
+- [ ] Send 3-5 pitch emails to points/travel blogs
+- [ ] Send 3-5 pitch emails to pet blogs
+- [ ] Join pet travel Facebook groups and share content
+- [ ] Follow up on pitches (7-10 days after sending)
+
+### Social Media
+- [x] Pinterest account created
+- [ ] Create 2-3 pins per blog post
+- [ ] Pin consistently (5-10 pins per day)
+- [ ] Join pet travel group boards
+- [ ] Start Instagram account (@thepointspup)
+- [ ] Post Ansel travel content weekly
+
+### Email List
+- [x] Buttondown account set up
+- [x] Email capture working on Free Guide page
+- [ ] Add email signup to end of blog posts
+- [ ] Send first newsletter when list hits 25+ subscribers
 
 ---
 
