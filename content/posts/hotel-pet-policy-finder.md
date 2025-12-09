@@ -128,7 +128,7 @@ const policies = {
     weight: "No weight limit",
     fee: "$0 (free!)",
     notes: "The gold standard for pet travel. If your dog fits through the door, they're welcome. No breed restrictions. Many have a Director of Pet Relations (a very good dog). Nightly wine hour often welcomes pups.",
-    tip: "Best hotel chain for large dogs, period. Worth the higher room rate.",
+    tip: "Best hotel chain for large dogs, period. <a href='/posts/kimpton-points-guide/'>Learn how to book free with points.</a>",
     verdict: "🟢 Best in class — no limits, no fees"
   }
 };

@@ -29,7 +29,7 @@ The good news? Several hotel chains have no weight limits at all, and others are
 
 These chains welcome dogs of any size—no awkward conversations at check-in required.
 
-### Kimpton Hotels
+### [Kimpton Hotels](/posts/kimpton-points-guide/)
 The gold standard for large dog travel. Their unofficial motto is "if they fit through the door, they're welcome." They've hosted everything from Great Danes to llamas. No pet fee, no weight limit, and many properties have a resident "Director of Pet Relations" (a very good dog). The nightly wine reception often welcomes pups too.
 
 **Best for**: Travelers who want a boutique experience and don't mind paying more per night.
@@ -139,4 +139,4 @@ Your big dog deserves adventures too. Don't let arbitrary weight limits keep you
 
 *Have a favorite hotel chain for large dogs? I'd love to hear about it— see my [contact page](/contact/) to reach out.*
 
-**Read next:** [Hotel Pet Policy Finder](/posts/hotel-pet-policy-finder/) | [Why Hilton Is the Best Hotel Chain for Pet Travelers](/posts/why-hilton-for-pet-travelers/)
+**Read next:** [Hotel Pet Policy Finder](/posts/hotel-pet-policy-finder/) | [Why Hilton Is the Best Hotel Chain for Pet Travelers](/posts/why-hilton-for-pet-travelers/) | [How to Book Kimpton Free with Points](/posts/kimpton-points-guide/)

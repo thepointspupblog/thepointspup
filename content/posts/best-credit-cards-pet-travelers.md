@@ -217,4 +217,4 @@ I've been running this setup for years, and it's saved me thousands. If you're r
 
 *Questions about which card is right for you? [Reach out](/contact) — happy to help.*
 
-**Read next:** [Quiz: Which Hilton Credit Card Is Best for Dog Travelers?](/posts/hilton-credit-card-quiz/) | [Why Hilton for Pet Travelers](/posts/why-hilton-for-pet-travelers/)
+**Read next:** [Quiz: Which Hilton Credit Card Is Best for Dog Travelers?](/posts/hilton-credit-card-quiz/) | [Why Hilton for Pet Travelers](/posts/why-hilton-for-pet-travelers/) | [How to Book Kimpton Free with Points](/posts/kimpton-points-guide/)
