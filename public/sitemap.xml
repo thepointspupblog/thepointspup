@@ -104,6 +104,8 @@
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
+    <loc>http://localhost:1313/free-guide/</loc>
+  </url><url>
     <loc>http://localhost:1313/page/</loc>
   </url><url>
     <loc>http://localhost:1313/privacy/</loc>

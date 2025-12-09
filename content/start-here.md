@@ -12,6 +12,14 @@ Here's the path I recommend:
 
 ---
 
+### 📥 Want the Quick Version?
+
+Download my free PDF guide — it covers everything you need to know in 4 pages.
+
+**[Get the Free Guide →](/free-guide/)**
+
+---
+
 ### Step 1: Find Your Perfect Card
 
 Not sure which hotel credit card fits your travel style? Take the quiz — it covers Hilton, IHG, Marriott, and Chase.

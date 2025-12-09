@@ -68,6 +68,11 @@ theme = 'hugo-theme-stack'
   url = "/contact"
   weight = 4
 
+[[menu.main]]
+  name = "Free Guide"
+  url = "/free-guide"
+  weight = 5
+
 [[menu.footer]]
   name = "Disclosure"
   url = "/disclosure"

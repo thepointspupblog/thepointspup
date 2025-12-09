@@ -300,7 +300,15 @@
     margin: 0;
   }
 
-  .apply-btn {
+  /* CTA Buttons */
+  .cta-section {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+
+  .primary-btn {
     display: block;
     width: 100%;
     padding: 16px 28px;
@@ -312,15 +320,103 @@
     color: #ffffff !important;
     text-align: center;
     text-decoration: none;
-    margin-bottom: 14px;
     font-family: inherit;
     cursor: pointer;
     transition: all 0.2s ease;
   }
 
-  .apply-btn:hover {
+  .primary-btn:hover {
     background: #245040;
     color: #ffffff;
+  }
+
+  .secondary-btn {
+    display: block;
+    width: 100%;
+    padding: 14px 28px;
+    background: transparent;
+    border: 2px solid #2d5a47;
+    border-radius: 12px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #2d5a47 !important;
+    text-align: center;
+    text-decoration: none;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+
+  .secondary-btn:hover {
+    background: #eef5f1;
+  }
+
+  /* Share Section */
+  .share-section {
+    background: #faf8f5;
+    border-radius: 14px;
+    padding: 18px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .share-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #2d3a35;
+    margin: 0 0 12px 0;
+  }
+
+  .share-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .share-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 10px 16px;
+    background: #ffffff;
+    border: 1px solid #e8e0d5;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 500;
+    color: #4a5148;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-family: inherit;
+  }
+
+  .share-btn:hover {
+    background: #f5f0ea;
+    border-color: #c4bdb3;
+  }
+
+  .share-btn.copied {
+    background: #eef5f1;
+    border-color: #2d5a47;
+    color: #2d5a47;
+  }
+
+  /* Large Dog Warning */
+  .large-dog-note {
+    background: #fff8e6;
+    border: 1px solid #f0d878;
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-bottom: 20px;
+    font-size: 13px;
+    color: #7d6a28;
+    line-height: 1.5;
+  }
+
+  .large-dog-note a {
+    color: #2d5a47;
+    font-weight: 600;
   }
 
   .restart-btn {
@@ -364,6 +460,13 @@
     .result-title {
       font-size: 22px;
     }
+    .share-buttons {
+      flex-direction: column;
+    }
+    .share-btn {
+      width: 100%;
+      justify-content: center;
+    }
   }
 </style>
 
@@ -400,7 +503,7 @@
         { value: 'road_trips', label: 'Road trips only', desc: 'Car adventures are our thing' },
         { value: 'mostly_drive', label: 'Mostly driving', desc: 'Occasional flights without pup' },
         { value: 'mix', label: 'Mix of both', desc: 'Pup flies in cabin with me sometimes' },
-        { value: 'frequent_flyer', label: 'Frequent flyer pup', desc: 'We\'ve got TSA down to a science' }
+        { value: 'frequent_flyer', label: 'Frequent flyer pup', desc: "We've got TSA down to a science" }
       ]
     },
     {
@@ -421,13 +524,13 @@
       options: [
         { value: 'no_big_deal', label: 'No big deal', desc: '$50-75 is fine for my pup' },
         { value: 'annoying', label: 'Pretty annoying', desc: 'They add up on multi-stop trips' },
-        { value: 'hate_them', label: 'Really frustrating', desc: 'I\'d love to offset them with free nights' },
+        { value: 'hate_them', label: 'Really frustrating', desc: "I'd love to offset them with free nights" },
         { value: 'dealbreaker', label: 'Major booking factor', desc: 'I specifically seek lower-fee options' }
       ]
     },
     {
       id: 'spending',
-      question: 'What\'s your typical monthly credit card spending?',
+      question: "What's your typical monthly credit card spending?",
       icon: '💳',
       options: [
         { value: 'low', label: 'Under $1,500', desc: 'Including all the dog treats' },
@@ -441,7 +544,7 @@
       question: 'What annual fee would you pay for free pet-friendly hotel nights?',
       icon: '🎁',
       options: [
-        { value: 'none', label: '$0 only', desc: 'I\'d rather earn slowly than pay a fee' },
+        { value: 'none', label: '$0 only', desc: "I'd rather earn slowly than pay a fee" },
         { value: 'low', label: 'Up to $150', desc: 'Worth it for a free night' },
         { value: 'moderate', label: 'Up to $250', desc: 'Happy to pay for solid perks' },
         { value: 'premium', label: '$500+', desc: 'Premium perks for my premium pup' }
@@ -452,20 +555,26 @@
   const cards = {
     honors: {
       name: 'Hilton Honors American Express Card',
+      shortName: 'Hilton No-Fee Card',
       fee: '$0 annual fee',
-      tagline: 'Start earning toward pet-friendly stays—no commitment required',
+      tagline: 'Start earning toward pet-friendly stays — no commitment required',
       benefits: [
         '7X points at Hilton pet-friendly properties',
         '5X points at U.S. restaurants, supermarkets & gas stations',
         '3X points on all other purchases (vet bills count!)',
         'No foreign transaction fees',
-        'Complimentary Silver status'
+        'Complimentary Silver status',
+        '5th night free on award stays'
       ],
-      bestFor: "You travel with your pup a few times a year and want to start stacking points without paying an annual fee. This card is perfect for earning on everyday spending—every bag of dog food, gas station stop on your road trip, and dinner out adds up. <a href='/posts/best-credit-cards-pet-travelers/' style='color: #2d5a47; text-decoration: underline;'>See how it compares to other cards →</a>",
-      link: 'YOUR_AFFILIATE_LINK_HONORS'
+      bestFor: "You travel with your pup a few times a year and want to start stacking points without paying an annual fee. This card is perfect for earning on everyday spending — every bag of dog food, gas station stop on your road trip, and dinner out adds up toward free nights.",
+      primaryLink: '/posts/best-credit-cards-pet-travelers/',
+      primaryText: 'See Full Card Breakdown →',
+      secondaryLink: '/posts/why-hilton-for-pet-travelers/',
+      secondaryText: 'Why Hilton for Pets'
     },
     surpass: {
-      name: 'Hilton Honors American Express Surpass Card',
+      name: 'Hilton Honors American Express Surpass',
+      shortName: 'Hilton Surpass',
       fee: '$150 annual fee',
       tagline: 'The sweet spot for regular pet travelers',
       benefits: [
@@ -474,13 +583,18 @@
         '3X points on all other purchases',
         'Complimentary Gold status (free breakfast!)',
         'Free Night Reward after $15K annual spend',
+        '$200/year in Hilton credits ($50/quarter)',
         '10 Priority Pass lounge visits per year'
       ],
-      bestFor: "You and your pup hit the road regularly and those pet fees are starting to add up. Gold status means complimentary breakfast at most properties—perfect for fueling up before a morning walk with your dog. The free night certificate can easily cover a $200+ pet-friendly stay, making the $150 fee a no-brainer. The lounge visits are great for longer travel days when you need a quiet spot before your flight. <a href='/posts/hilton-diamond-status-guide/' style='color: #2d5a47; text-decoration: underline;'>Learn how to earn Diamond through spending →</a>",
-      link: 'YOUR_AFFILIATE_LINK_SURPASS'
+      bestFor: "You and your pup hit the road regularly and those pet fees are starting to add up. Gold status means complimentary breakfast at most properties — perfect for fueling up before a morning walk. The $200 in quarterly credits more than pays for the $150 annual fee, and the free night certificate can cover a $300+ stay.",
+      primaryLink: '/posts/best-credit-cards-pet-travelers/',
+      primaryText: 'Full Card Breakdown →',
+      secondaryLink: '/posts/hilton-diamond-status-guide/',
+      secondaryText: 'How to Earn Diamond'
     },
     aspire: {
-      name: 'Hilton Honors American Express Aspire Card',
+      name: 'Hilton Honors American Express Aspire',
+      shortName: 'Hilton Aspire',
       fee: '$550 annual fee',
       tagline: 'Premium perks for serious pet travelers',
       benefits: [
@@ -493,11 +607,15 @@
         'Unlimited Priority Pass lounge access',
         '$200 airline fee credit'
       ],
-      bestFor: "You're constantly on the road with your furry co-pilot and want the absolute best. Diamond status means room upgrades—incredibly valuable when traveling with a larger dog who needs space to sprawl. The annual free night (worth up to 150K points!) plus $400 resort credit can easily offset pet fees at luxury pet-friendly resorts. Unlimited lounge access is a game-changer for frequent flyers. This card pays for itself if you travel often with your pup! <a href='/posts/hilton-diamond-status-guide/' style='color: #2d5a47; text-decoration: underline;'>See all Diamond status perks →</a>",
-      link: 'YOUR_AFFILIATE_LINK_ASPIRE'
+      bestFor: "You're constantly on the road with your furry co-pilot and want the absolute best. Diamond status means room upgrades — incredibly valuable when traveling with a larger dog who needs space to sprawl. The annual free night (worth up to 150K points!) plus $400 resort credit easily offset the fee.",
+      primaryLink: '/posts/hilton-diamond-status-guide/',
+      primaryText: 'See All Diamond Perks →',
+      secondaryLink: '/posts/best-credit-cards-pet-travelers/',
+      secondaryText: 'Compare All Cards'
     },
     business: {
       name: 'Hilton Honors American Express Business Card',
+      shortName: 'Hilton Business Card',
       fee: '$195 annual fee',
       tagline: 'Turn your pet business into pet-friendly vacations',
       benefits: [
@@ -509,8 +627,11 @@
         '10 Priority Pass lounge visits per year',
         'Separate business credit line'
       ],
-       bestFor: "You run a pet-related business, blog, or side hustle (hey, dog Instagram counts!) and want to turn those expenses into travel rewards. Keep business spending separate while earning toward pet-friendly hotel stays. Every sponsored post, dog treat inventory purchase, or Chewy order for content gets you closer to your next adventure. Gold status and the free night certificate make this a fantastic value for pet entrepreneurs! <a href='/posts/best-credit-cards-pet-travelers/' style='color: #2d5a47; text-decoration: underline;'>Compare all the options →</a>",
-      link: 'YOUR_AFFILIATE_LINK_BUSINESS'
+      bestFor: "You run a pet-related business, blog, or side hustle (hey, dog Instagram counts!) and want to turn those expenses into travel rewards. Keep business spending separate while earning toward pet-friendly hotel stays. Every sponsored post, dog treat inventory purchase, or Chewy order gets you closer to your next adventure.",
+      primaryLink: '/posts/best-credit-cards-pet-travelers/',
+      primaryText: 'Compare All Cards →',
+      secondaryLink: '/posts/hilton-diamond-status-guide/',
+      secondaryText: 'How to Get Diamond'
     }
   };
 
@@ -521,23 +642,23 @@
   function calculateResult() {
     let scores = { honors: 0, surpass: 0, aspire: 0, business: 0 };
 
-    // Dog travel frequency - more travel = higher tier card value
+    // Dog travel frequency
     if (answers.dog_travel === 'rarely') scores.honors += 3;
     else if (answers.dog_travel === 'monthly') { scores.surpass += 2; scores.honors += 1; }
     else if (answers.dog_travel === 'frequent') { scores.surpass += 2; scores.aspire += 2; }
     else if (answers.dog_travel === 'fulltime') { scores.aspire += 4; }
 
-    // Current status - affects which card's status benefit matters
-    if (answers.status === 'none') { scores.honors += 1; scores.surpass += 2; } // Gold from Surpass is valuable
-    else if (answers.status === 'gold') { scores.aspire += 2; } // Already have Gold, Diamond is the upgrade
-    else if (answers.status === 'diamond') { scores.aspire += 3; } // Aspire maintains Diamond
-    else if (answers.status === 'want_status') { scores.surpass += 2; scores.aspire += 3; } // Cards that give status
+    // Current status
+    if (answers.status === 'none') { scores.honors += 1; scores.surpass += 2; }
+    else if (answers.status === 'gold') { scores.aspire += 2; }
+    else if (answers.status === 'diamond') { scores.aspire += 3; }
+    else if (answers.status === 'want_status') { scores.surpass += 2; scores.aspire += 3; }
 
-    // Travel style - flyers benefit from lounge access
+    // Travel style
     if (answers.travel_style === 'road_trips') scores.honors += 1;
     else if (answers.travel_style === 'mostly_drive') scores.surpass += 1;
     else if (answers.travel_style === 'mix') { scores.surpass += 1; scores.aspire += 1; }
-    else if (answers.travel_style === 'frequent_flyer') scores.aspire += 3; // Lounge access matters
+    else if (answers.travel_style === 'frequent_flyer') scores.aspire += 3;
 
     // Hotel nights
     if (answers.hotel_nights === 'few') scores.honors += 3;
@@ -545,11 +666,11 @@
     else if (answers.hotel_nights === 'frequent') { scores.surpass += 2; scores.aspire += 2; }
     else if (answers.hotel_nights === 'heavy') { scores.aspire += 4; }
 
-    // Pet fee pain - higher pain = want more free nights/points to offset
+    // Pet fee pain
     if (answers.pet_fee_pain === 'no_big_deal') scores.honors += 1;
     else if (answers.pet_fee_pain === 'annoying') scores.surpass += 2;
     else if (answers.pet_fee_pain === 'hate_them') { scores.surpass += 1; scores.aspire += 2; }
-    else if (answers.pet_fee_pain === 'dealbreaker') scores.aspire += 3; // Free night cert helps most
+    else if (answers.pet_fee_pain === 'dealbreaker') scores.aspire += 3;
 
     // Monthly spending
     if (answers.spending === 'low') scores.honors += 3;
@@ -564,6 +685,22 @@
     else if (answers.annual_fee === 'premium') scores.aspire += 4;
 
     return Object.entries(scores).reduce((a, b) => b[1] > a[1] ? b : a)[0];
+  }
+
+  function getShareText(cardName) {
+    return `I got the ${cardName} for traveling with my dog! 🐕 Find your perfect Hilton card → thepointspup.com/posts/hilton-credit-card-quiz/`;
+  }
+
+  function copyToClipboard(text, button) {
+    navigator.clipboard.writeText(text).then(() => {
+      const originalText = button.innerHTML;
+      button.innerHTML = '✓ Copied!';
+      button.classList.add('copied');
+      setTimeout(() => {
+        button.innerHTML = originalText;
+        button.classList.remove('copied');
+      }, 2000);
+    });
   }
 
   function renderQuestion() {
@@ -604,6 +741,9 @@
   function renderResult() {
     const cardKey = calculateResult();
     const card = cards[cardKey];
+    const shareText = getShareText(card.shortName);
+    const twitterUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}`;
+    const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent('https://thepointspup.com/posts/hilton-credit-card-quiz/')}&quote=${encodeURIComponent(shareText)}`;
 
     let html = `
       <div class="result-header">
@@ -626,13 +766,30 @@
         <h4 class="why-title">Why This Card Fits You</h4>
         <p class="why-text">${card.bestFor}</p>
       </div>
-      <a href="${card.link}" target="_blank" rel="noopener noreferrer" class="apply-btn">Learn More & Apply →</a>
+      <div class="cta-section">
+        <a href="${card.primaryLink}" class="primary-btn">${card.primaryText}</a>
+        <a href="${card.secondaryLink}" class="secondary-btn">${card.secondaryText}</a>
+      </div>
+      <div class="share-section">
+        <p class="share-title">Share your result with fellow pet travelers!</p>
+        <div class="share-buttons">
+          <a href="${twitterUrl}" target="_blank" rel="noopener" class="share-btn">🐦 Twitter</a>
+          <a href="${facebookUrl}" target="_blank" rel="noopener" class="share-btn">📘 Facebook</a>
+          <button class="share-btn" id="copy-btn">📋 Copy Link</button>
+        </div>
+      </div>
+      <div class="large-dog-note">
+        <strong>Have a large dog (75+ lbs)?</strong> Hilton weight limits vary by property. Check out the <a href="/posts/hotel-credit-card-quiz/">all-hotel quiz</a> for IHG/Kimpton options with no weight limits.
+      </div>
       <button class="restart-btn" id="restart-btn">↻ Take Quiz Again</button>
-      <p class="disclaimer"><strong>Note:</strong> Hilton pet policies vary by property—most allow dogs up to 50-75 lbs, but some have lower limits. Always <a href="https://www.bringfido.com/?ref=YOURAFFILIATEID" target="_blank" rel="noopener" style="color: #2d5a47; text-decoration: underline;">check BringFido</a> or call ahead to confirm your pup is welcome. Card terms may change—check the issuer's website for details. Some links may be affiliate links that support ThePointsPup at no cost to you. 🐕</p>
+      <p class="disclaimer"><strong>Note:</strong> Hilton pet policies vary by property — most allow dogs up to 50-75 lbs, but some have lower limits. Always call ahead to confirm your pup is welcome. Card terms may change; check the issuer's website for current details. 🐕</p>
     `;
 
     document.getElementById('quiz-content').innerHTML = html;
     document.getElementById('restart-btn').addEventListener('click', restart);
+    document.getElementById('copy-btn').addEventListener('click', function() {
+      copyToClipboard(shareText, this);
+    });
   }
 
   function attachQuestionListeners() {
