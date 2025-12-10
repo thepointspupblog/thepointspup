@@ -18,6 +18,8 @@
 - [x] Contact page
 - [x] Privacy policy page
 - [x] Free Guide landing page (gated with email capture)
+- [x] Pawprints page (reader stories)
+- [x] Leave Your Pawprint submission page
 
 ### Posts Complete (11 total) ✅
 1. [x] Panama City Beach Embassy Suites Review
@@ -47,9 +49,10 @@
 - [x] Homepage hero section added
 - [x] Tagline updated: "Free hotel stays for pet travelers"
 - [x] Start Here page created and updated with IHG/Kimpton content
-- [x] Navigation cleaned up (legal pages moved to footer)
+- [x] Navigation cleaned up (About/Contact moved to footer)
 - [x] Main quiz featured on homepage (all hotel cards)
 - [x] Free Guide added to main navigation
+- [x] Pawprints added to main navigation
 
 ### Interactive Tools ✅
 - [x] Hilton Credit Card Quiz (7 questions, 4 card results)
@@ -67,6 +70,13 @@
 - [x] Buttondown email capture set up (free tier)
 - [x] PDF hosted in static folder
 - [x] Free Guide linked in Start Here page
+
+### Community Features ✅ (Completed Dec 9, 2025)
+- [x] Pawprints page created (reader story showcase)
+- [x] Leave Your Pawprint submission form
+- [x] Formspree form set up (free tier)
+- [x] JS form submission (no redirect to Formspree)
+- [x] First pawprint added (Dani & Ansel PCB trip with valet photo)
 
 ### Internal Linking ✅
 - [x] "Read Next" links added to all posts

@@ -59,29 +59,34 @@ theme = 'hugo-theme-stack'
   weight = 2
 
 [[menu.main]]
-  name = "About"
-  url = "/about"
+  name = "Free Guide"
+  url = "/page/free-guide"
   weight = 3
 
 [[menu.main]]
-  name = "Contact"
-  url = "/contact"
+  name = "Pawprints"
+  url = "/page/pawprints"
   weight = 4
 
-[[menu.main]]
-  name = "Free Guide"
-  url = "/free-guide"
-  weight = 5
+[[menu.footer]]
+  name = "About"
+  url = "/about"
+  weight = 1
+
+[[menu.footer]]
+  name = "Contact"
+  url = "/contact"
+  weight = 2
 
 [[menu.footer]]
   name = "Disclosure"
   url = "/disclosure"
-  weight = 1
+  weight = 3
 
 [[menu.footer]]
   name = "Privacy"
   url = "/privacy"
-  weight = 2
+  weight = 4
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
