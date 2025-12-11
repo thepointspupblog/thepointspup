@@ -4270,16 +4270,18 @@ document.getElementById(&#39;pawprint-form&#39;).addEventListener(&#39;submit&#3
         <guid>http://localhost:1313/privacy/</guid>
         <description>&lt;p&gt;&lt;em&gt;Last updated: December 2024&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-short-version&#34;&gt;The Short Version
-&lt;/h2&gt;&lt;p&gt;I collect minimal data, I don&amp;rsquo;t sell your information, and I use cookies only for basic site functionality and analytics.&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;I collect minimal data, I don&amp;rsquo;t sell your information, and I use cookies for analytics and affiliate tracking.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;information-i-collect&#34;&gt;Information I Collect
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;If you email me:&lt;/strong&gt; I&amp;rsquo;ll have your email address and whatever you share in your message. I use this only to respond to you.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Automatically:&lt;/strong&gt; Like most websites, this site collects basic analytics data — things like what pages you visit, how long you stay, and what device you&amp;rsquo;re using. This helps me understand what content is useful.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you subscribe to my newsletter:&lt;/strong&gt; I collect your email address through Buttondown, my email service provider. I use this only to send you the content you signed up for.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Automatically:&lt;/strong&gt; This site uses Google Analytics to understand how visitors use the site — things like what pages you visit, how long you stay, and what device you&amp;rsquo;re using. This helps me create better content.&lt;/p&gt;
 &lt;h2 id=&#34;cookies&#34;&gt;Cookies
 &lt;/h2&gt;&lt;p&gt;This site uses cookies for:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Analytics&lt;/strong&gt; — to see how people use the site (I use privacy-friendly analytics)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Affiliate links&lt;/strong&gt; — when you click a credit card or product link, the affiliate program may set a cookie to track the referral&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Google Analytics&lt;/strong&gt; — to track site usage and visitor behavior. Google Analytics may collect information about your device, browser, and approximate location. You can opt out using the &lt;a class=&#34;link&#34; href=&#34;https://tools.google.com/dlpage/gaoptout&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Google Analytics Opt-out Browser Add-on&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Affiliate links&lt;/strong&gt; — when you click a credit card or product link, the affiliate program may set a cookie to track the referral.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;You can disable cookies in your browser settings, but some features may not work properly.&lt;/p&gt;
 &lt;h2 id=&#34;affiliate-links--third-parties&#34;&gt;Affiliate Links &amp;amp; Third Parties
@@ -4292,7 +4294,7 @@ document.getElementById(&#39;pawprint-form&#39;).addEventListener(&#39;submit&#3
 &lt;/ul&gt;
 &lt;h2 id=&#34;your-data&#34;&gt;Your Data
 &lt;/h2&gt;&lt;p&gt;I don&amp;rsquo;t sell your personal information. Ever.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;ve emailed me and want your information deleted, just ask.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve emailed me or subscribed to my newsletter and want your information deleted, just ask.&lt;/p&gt;
 &lt;h2 id=&#34;changes&#34;&gt;Changes
 &lt;/h2&gt;&lt;p&gt;I may update this policy from time to time. Any changes will be posted on this page.&lt;/p&gt;
 &lt;h2 id=&#34;questions&#34;&gt;Questions?
