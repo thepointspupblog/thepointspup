@@ -139,6 +139,7 @@ If you've been thinking about a Hilton card, don't wait until the new year — t
 **If you can handle two cards:** Get BOTH the Hilton Surpass and IHG Premier. You'll have 295,000+ points across two programs, covering almost any pet-friendly destination.
 
 ---
+{{< affiliate-disclosure >}}
 
 *Not sure which card is right for you? [Take the quiz](/posts/hotel-credit-card-quiz/) to get a personalized recommendation based on your pet and travel style.*
 

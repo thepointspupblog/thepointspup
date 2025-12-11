@@ -28,5 +28,6 @@ With the right credit card, you can earn free nights at pet-friendly properties 
 - [Traveling with a Large Dog: Hotel Policies You Need to Know](/posts/traveling-with-large-dogs-hotel-policies/) — What to know before booking if your pup is over 50 lbs
 
 ---
+{{< affiliate-disclosure >}}
 
 *Have questions about which card is right for you? [Reach out](/contact/) — happy to help!*

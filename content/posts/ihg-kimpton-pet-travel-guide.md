@@ -182,5 +182,6 @@ For broader coverage, pair your IHG strategy with Hilton. Between the two progra
 Have you stayed at a Kimpton with your dog? I'd love to hear about your experience — [leave a pawprint](/page/leave-your-pawprint/) and tell me which property!
 
 ---
+{{< affiliate-disclosure >}}
 
 *Planning your first points trip with your pup? Start with my [beginner's guide to free hotel stays](/start-here/) or use the [hotel pet policy finder](/posts/hotel-pet-policy-finder/) to compare all the major chains.*

@@ -107,5 +107,6 @@ If you're new to Hilton points and want to start traveling free with your pup, h
 Have questions? [Reach out](/contact/) — I'm always happy to help fellow pet travelers figure out the points game.
 
 ---
+{{< affiliate-disclosure >}}
 
 *Traveling with a pup over 50 lbs? Read my [guide to hotel policies for large dogs](/posts/traveling-with-large-dogs-hotel-policies/) before you book.*

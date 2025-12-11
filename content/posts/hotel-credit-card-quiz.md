@@ -54,4 +54,6 @@ If weight limits are a constant headache, IHG cards or Chase Sapphire (which tra
 
 ---
 
+{{< affiliate-disclosure >}}
+
 *Not sure which card is right for your situation? [Reach out](/contact/) — happy to help!*

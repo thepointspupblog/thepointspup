@@ -17,6 +17,8 @@ If you travel with your dog and aren't using hotel credit cards, you're leaving 
 
 Here's what I use and recommend for pet travelers.
 
+{{< affiliate-disclosure >}}
+
 **Jump to:**
 - [Why Hotel Cards Make Sense](#why-hotel-cards-make-sense-for-pet-owners)
 - [The Hilton Combo](#my-setup-the-hilton-combo)
