@@ -5,8 +5,9 @@ date: 2025-12-08
 categories:
   - Tools
 tags:
-  - Hotels
+  - Pet Policy
   - Large Dogs
+  - Hotels
 ---
 
 Not sure if your dog is welcome? Use this tool to quickly check pet policies for major hotel chains.

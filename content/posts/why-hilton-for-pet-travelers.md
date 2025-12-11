@@ -9,6 +9,7 @@ series:
 tags:
   - Hilton
   - Hotels
+  - Pet Policy
 ---
 
 When I started traveling with Ansel, my 70-pound GSP/Lab mix, I quickly learned that not all hotel chains are created equal. Some properties say they're "pet-friendly" but hit you with breed restrictions, weight limits, or fees that make you feel like your dog isn't actually welcome.

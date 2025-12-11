@@ -5,8 +5,9 @@ date: 2025-12-08
 categories:
   - Guides
 tags:
-  - Hotels
+  - Pet Policy
   - Large Dogs
+  - Hotels
 ---
 
 When you're traveling with a small dog, finding pet-friendly hotels is pretty straightforward. But once your pup crosses that 50-pound threshold? Suddenly half your options disappear.

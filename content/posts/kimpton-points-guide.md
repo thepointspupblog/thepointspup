@@ -3,13 +3,13 @@ title: "How to Book Kimpton Hotels Free with Points"
 description: "Kimpton has the best pet policy in the hotel industry — no fees, no weight limits, no breed restrictions. Here's how to stay there for free using credit card points."
 date: 2025-12-08
 categories:
-  - Credit Cards
   - Guides
+series:
+  - IHG for Pet Travelers
 tags:
-  - Credit Cards
   - IHG
   - Kimpton
-  - Hotels
+  - Credit Cards
 ---
 
 If you've traveled with a large dog, you know the drill: call ahead, confirm the weight limit, hope they don't give you a hard time at check-in. It gets old.

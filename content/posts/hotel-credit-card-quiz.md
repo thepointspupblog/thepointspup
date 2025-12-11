@@ -6,10 +6,8 @@ categories:
   - Tools
 tags:
   - Credit Cards
-  - Hotels
   - Hilton
   - IHG
-  - Kimpton
   - Marriott
 ---
 

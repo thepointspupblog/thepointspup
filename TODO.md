@@ -21,7 +21,7 @@
 - [x] Pawprints page (reader stories)
 - [x] Leave Your Pawprint submission page
 
-### Posts Complete (11 total) ✅
+### Posts Complete (14 total) ✅
 1. [x] Panama City Beach Embassy Suites Review
 2. [x] Road Trip Essentials for Dogs
 3. [x] Best Credit Cards for Pet Travelers (2025)
@@ -33,6 +33,9 @@
 9. [x] Why Hilton Is the Best Hotel Chain for Pet Travelers
 10. [x] How to Book Kimpton Hotels Free with Points
 11. [x] Quiz: Which Hotel Credit Card Is Best for Dog Travelers?
+12. [x] Hotel Pet Policy Finder (interactive tool)
+13. [x] IHG Pet Policy Guide: Why Kimpton Is the Best Chain for Large Dogs ✨ NEW
+14. [x] Best Credit Card Bonuses for Pet Travelers (December 2025) ✨ NEW
 
 ### Styling Complete ✅
 - [x] Custom SCSS (earthy colors, dark mode removed)
@@ -44,8 +47,10 @@
 
 ### Site Organization ✅
 - [x] Categories: Guides, Credit Cards, Trip Reports, Tools
-- [x] Tags cleaned up
+- [x] Tags cleaned up and standardized
+- [x] Taxonomy guide created (categories, series, tags)
 - [x] "Hilton for Pet Travelers" series created
+- [x] "IHG for Pet Travelers" series created ✨ NEW
 - [x] Homepage hero section added
 - [x] Tagline updated: "Free hotel stays for pet travelers"
 - [x] Start Here page created and updated with IHG/Kimpton content
@@ -85,6 +90,7 @@
 - [x] Kimpton post linked from Large Dogs post, Credit Cards post, Policy Finder
 - [x] Best Credit Cards post updated with IHG/Chase section
 - [x] Free Guide callout added to Start Here page
+- [x] December bonuses post links to quiz and Start Here
 
 ### Deployment ✅ (Completed Dec 8, 2025)
 - [x] Configure GitHub Actions Hugo workflow
@@ -118,6 +124,28 @@
 - [x] Pitch email templates created (points blogs, pet blogs, collaboration)
 - [x] Target site list compiled
 
+### Pinterest ✅ (Completed Dec 10, 2025)
+- [x] Pinterest account created (@thepointspup)
+- [x] Profile cover photo created (Ansel + brand colors)
+- [x] Profile cover uploaded
+- [x] Pinterest pins created with photo backgrounds (14 total):
+  - [x] Embassy Suites PCB Review
+  - [x] Best Dog-Friendly Beach Towns
+  - [x] Road Trip Essentials
+  - [x] Traveling with a Large Dog
+  - [x] How to Book Free Hotel Stays
+  - [x] Dog Beach Panama City
+  - [x] Kimpton Hotels for Large Dogs
+  - [x] Florida Road Trip with My Dog
+  - [x] Best Credit Cards for Pet Travel
+  - [x] Hilton Diamond Status Guide
+  - [x] Hotel Pet Policy Finder
+  - [x] Why Hilton is Best for Dogs
+  - [x] Take the Quiz: Find Your Card
+  - [x] Best Credit Card Bonuses December 2025 ✨ NEW
+- [x] Old plain-text pins deleted and replaced with photo pins
+- [x] Pins published with optimized titles, descriptions, hashtags
+
 ---
 
 ## Phase 2: Waiting On
@@ -136,6 +164,7 @@
 - [ ] Credit Cards post: Card affiliate links (when approved)
 - [ ] Diamond Status post: Card affiliate links (when approved)
 - [ ] Kimpton post: IHG card affiliate links (when approved)
+- [ ] December Bonuses post: Card affiliate links (when approved)
 
 ---
 
@@ -148,8 +177,9 @@
 - [ ] Follow up on pitches (7-10 days after sending)
 
 ### Social Media
-- [x] Pinterest account created
-- [ ] Create 2-3 pins per blog post
+- [x] Pinterest account created ✅
+- [x] Pinterest profile cover uploaded ✅
+- [x] Created 14 photo-based pins ✅
 - [ ] Pin consistently (5-10 pins per day)
 - [ ] Join pet travel group boards
 - [ ] Start Instagram account (@thepointspup)
@@ -161,14 +191,38 @@
 - [ ] Add email signup to end of blog posts
 - [ ] Send first newsletter when list hits 25+ subscribers
 
+### Monthly Content Updates
+- [ ] Update "Best Credit Card Bonuses" post monthly (change date, check bonus amounts)
+
 ---
 
 ## Future Content Ideas
-- Hotel review: Waldorf Astoria Cabo (January trip!)
-- Kimpton property review (when you stay at one)
-- Pet-Friendly Marriott vs Hilton Comparison
-- How to Use Free Night Certificates
-- How to Transfer Chase Points to Hotel Partners
-- IHG One Rewards Beginner's Guide
-- Dog-friendly restaurant guides by city
-- More trip reports from Florida road trips with Ansel
+
+### Credit Card Content (Affiliate Revenue)
+- [ ] Hilton Surpass Review: Is It Worth $150/Year for Dog Travelers?
+- [ ] IHG Premier Card Review: Best Card for Kimpton Stays?
+- [ ] Hilton Aspire Review: Is the $550 Fee Worth It?
+- [ ] Hilton Surpass vs Aspire: Which Is Better for Pet Travel?
+- [ ] IHG Premier vs Hilton Surpass: Which Hotel Card Should You Get First?
+- [ ] How I Earned 500,000 Hotel Points in One Year
+- [ ] The 2-Card Strategy for Free Pet-Friendly Hotels
+- [ ] Best First Credit Card for Dog Travelers (Beginners)
+
+### Hotel & Travel Content
+- [ ] Hotel review: Mexico trip (January with Nicholas!)
+- [ ] Kimpton property review (when you stay at one)
+- [ ] Pet-Friendly Marriott vs Hilton Comparison
+- [ ] How to Use Free Night Certificates
+- [ ] How to Transfer Chase Points to Hotel Partners
+- [ ] IHG One Rewards Beginner's Guide
+- [ ] Dog-friendly restaurant guides by city
+- [ ] More trip reports from Florida road trips with Ansel
+
+---
+
+## Analytics Snapshot (Dec 10, 2025)
+- Users (Dec 1-10): 14
+- Homepage views: 228
+- Email signups: 0 (still building)
+- Pinterest followers: TBD
+- Top content: Homepage, Start Here

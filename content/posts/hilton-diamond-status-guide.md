@@ -4,7 +4,7 @@ description: "How I got Diamond status, the perks that matter for pet travelers,
 date: 2025-12-01
 draft: false
 categories:
-  - Credit Cards
+  - Guides
 series:
   - Hilton for Pet Travelers
 tags:

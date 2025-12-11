@@ -9,9 +9,8 @@ categories:
 tags:
   - Credit Cards
   - Hilton
-  - Marriott
   - IHG
-  - Kimpton
+  - Marriott
 ---
 
 If you travel with your dog and aren't using hotel credit cards, you're leaving money on the table. Pet fees, room rates, and all those extras add up fast — but the right cards can offset most of it with points, free nights, and elite status perks.
