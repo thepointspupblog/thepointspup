@@ -13,13 +13,14 @@
 - [x] hugo.toml configured with menus
 
 ### Phase 1: Required Pages
-- [x] About page (with styled image)
+- [x] About page (with styled image, updated with 3 years experience + 25 free nights)
 - [x] Affiliate disclosure page
 - [x] Contact page
-- [x] Privacy policy page
-- [x] Free Guide landing page (gated with email capture)
+- [x] Privacy policy page (updated with Google Analytics disclosure)
+- [x] Free Guide landing page (gated with email capture, table of contents preview)
 - [x] Pawprints page (reader stories)
 - [x] Leave Your Pawprint submission page
+- [x] Start Here page (updated with Who This Is For, prominent PDF CTA, jump links)
 
 ### Posts Complete (14 total) ✅
 1. [x] Panama City Beach Embassy Suites Review
@@ -34,8 +35,8 @@
 10. [x] How to Book Kimpton Hotels Free with Points
 11. [x] Quiz: Which Hotel Credit Card Is Best for Dog Travelers?
 12. [x] Hotel Pet Policy Finder (interactive tool)
-13. [x] IHG Pet Policy Guide: Why Kimpton Is the Best Chain for Large Dogs ✨ NEW
-14. [x] Best Credit Card Bonuses for Pet Travelers (December 2025) ✨ NEW
+13. [x] IHG Pet Policy Guide: Why Kimpton Is the Best Chain for Large Dogs
+14. [x] Best Credit Card Bonuses for Pet Travelers (December 2025)
 
 ### Styling Complete ✅
 - [x] Custom SCSS (earthy colors, dark mode removed)
@@ -50,9 +51,9 @@
 - [x] Tags cleaned up and standardized
 - [x] Taxonomy guide created (categories, series, tags)
 - [x] "Hilton for Pet Travelers" series created
-- [x] "IHG for Pet Travelers" series created ✨ NEW
+- [x] "IHG for Pet Travelers" series created
 - [x] Homepage hero section added
-- [x] Tagline updated: "Free hotel stays for pet travelers"
+- [x] Tagline updated: "Free hotel stays for dog travelers"
 - [x] Start Here page created and updated with IHG/Kimpton content
 - [x] Navigation cleaned up (About/Contact moved to footer)
 - [x] Main quiz featured on homepage (all hotel cards)
@@ -68,15 +69,16 @@
 - [x] Share buttons added to both quizzes (Twitter, Facebook, Copy Link)
 - [x] Quiz CTAs updated with card-specific links
 
-### Lead Magnet ✅ (Completed Dec 9, 2025)
+### Lead Magnet ✅
 - [x] Free PDF guide created: "How to Book Free Hotel Stays with Your Dog"
 - [x] Guide includes: logo, Hilton/IHG/Marriott cards, dog size chart, earning examples
 - [x] Gated landing page (email required to download)
 - [x] Buttondown email capture set up (free tier)
 - [x] PDF hosted in static folder
 - [x] Free Guide linked in Start Here page
+- [x] Welcome email configured in Buttondown (needs deliverability testing)
 
-### Community Features ✅ (Completed Dec 9, 2025)
+### Community Features ✅
 - [x] Pawprints page created (reader story showcase)
 - [x] Leave Your Pawprint submission form
 - [x] Formspree form set up (free tier)
@@ -92,7 +94,7 @@
 - [x] Free Guide callout added to Start Here page
 - [x] December bonuses post links to quiz and Start Here
 
-### Deployment ✅ (Completed Dec 8, 2025)
+### Deployment ✅
 - [x] Configure GitHub Actions Hugo workflow
 - [x] Set up GitHub Pages to use the workflow
 - [x] Connect custom domain in GitHub Pages settings
@@ -109,8 +111,10 @@
 ### Affiliate Links Added ✅
 - [x] Road Trip Essentials: Amazon links for gear (7 products)
 - [x] Jacksonville to PCB: Amazon links (4 products)
+- [x] Affiliate disclosure shortcode created (layouts/shortcodes/affiliate-disclosure.html)
+- [x] Disclosure added to credit card posts
 
-### SEO ✅ (Completed Dec 8, 2025)
+### SEO ✅
 - [x] Meta tags (title, description, author, robots)
 - [x] Open Graph tags for social sharing
 - [x] Twitter card tags
@@ -120,29 +124,15 @@
 - [x] Custom 404 page
 - [x] Page speed check (84 mobile score)
 
-### Outreach Prep ✅ (Completed Dec 9, 2025)
+### Outreach Prep ✅
 - [x] Pitch email templates created (points blogs, pet blogs, collaboration)
 - [x] Target site list compiled
 
-### Pinterest ✅ (Completed Dec 10, 2025)
+### Pinterest ✅
 - [x] Pinterest account created (@thepointspup)
 - [x] Profile cover photo created (Ansel + brand colors)
 - [x] Profile cover uploaded
-- [x] Pinterest pins created with photo backgrounds (14 total):
-  - [x] Embassy Suites PCB Review
-  - [x] Best Dog-Friendly Beach Towns
-  - [x] Road Trip Essentials
-  - [x] Traveling with a Large Dog
-  - [x] How to Book Free Hotel Stays
-  - [x] Dog Beach Panama City
-  - [x] Kimpton Hotels for Large Dogs
-  - [x] Florida Road Trip with My Dog
-  - [x] Best Credit Cards for Pet Travel
-  - [x] Hilton Diamond Status Guide
-  - [x] Hotel Pet Policy Finder
-  - [x] Why Hilton is Best for Dogs
-  - [x] Take the Quiz: Find Your Card
-  - [x] Best Credit Card Bonuses December 2025 ✨ NEW
+- [x] Pinterest pins created with photo backgrounds (14 total)
 - [x] Old plain-text pins deleted and replaced with photo pins
 - [x] Pins published with optimized titles, descriptions, hashtags
 
@@ -170,6 +160,11 @@
 
 ## Phase 3: Growth (In Progress)
 
+### SEO-Focused Content (In Progress)
+- [ ] Hilton Pet Policy 2025 (dedicated post targeting search)
+- [ ] Kimpton Pet Policy (dedicated post targeting search)
+- [ ] Category landing pages (curated Guides, Credit Cards pages)
+
 ### Outreach
 - [ ] Send 3-5 pitch emails to points/travel blogs
 - [ ] Send 3-5 pitch emails to pet blogs
@@ -188,6 +183,7 @@
 ### Email List
 - [x] Buttondown account set up
 - [x] Email capture working on Free Guide page
+- [ ] Test welcome email deliverability
 - [ ] Add email signup to end of blog posts
 - [ ] Send first newsletter when list hits 25+ subscribers
 

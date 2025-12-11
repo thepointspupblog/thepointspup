@@ -23,6 +23,14 @@
         <description></description>
         </item>
         <item>
+        <title>Hotels</title>
+        <link>http://localhost:1313/tags/hotels/</link>
+        <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/hotels/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>IHG</title>
         <link>http://localhost:1313/tags/ihg/</link>
         <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
@@ -76,14 +84,6 @@
         <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/florida/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Hotels</title>
-        <link>http://localhost:1313/tags/hotels/</link>
-        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/hotels/</guid>
         <description></description>
         </item>
         <item>
