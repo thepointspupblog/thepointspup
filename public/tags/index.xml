@@ -7,6 +7,22 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Credit Cards</title>
+        <link>http://localhost:1313/tags/credit-cards/</link>
+        <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/credit-cards/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Hilton</title>
+        <link>http://localhost:1313/tags/hilton/</link>
+        <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/hilton/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>IHG</title>
         <link>http://localhost:1313/tags/ihg/</link>
         <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
@@ -31,6 +47,14 @@
         <description></description>
         </item>
         <item>
+        <title>Marriott</title>
+        <link>http://localhost:1313/tags/marriott/</link>
+        <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/marriott/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Pet Policy</title>
         <link>http://localhost:1313/tags/pet-policy/</link>
         <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
@@ -47,14 +71,6 @@
         <description></description>
         </item>
         <item>
-        <title>Credit Cards</title>
-        <link>http://localhost:1313/tags/credit-cards/</link>
-        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/credit-cards/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Florida</title>
         <link>http://localhost:1313/tags/florida/</link>
         <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
@@ -63,27 +79,11 @@
         <description></description>
         </item>
         <item>
-        <title>Hilton</title>
-        <link>http://localhost:1313/tags/hilton/</link>
-        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/hilton/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>Hotels</title>
         <link>http://localhost:1313/tags/hotels/</link>
         <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/hotels/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Marriott</title>
-        <link>http://localhost:1313/tags/marriott/</link>
-        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/marriott/</guid>
         <description></description>
         </item>
         <item>
