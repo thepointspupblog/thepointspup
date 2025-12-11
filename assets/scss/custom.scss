@@ -637,3 +637,36 @@ footer *,
     font-size: 16px !important;
   }
 }
+
+// ========== MOBILE: SHOW SIDEBAR WIDGETS ==========
+@media (max-width: 1024px) {
+  // Make the right sidebar visible on mobile (shows below content)
+  .sidebar.right-sidebar,
+  aside.sidebar {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    order: 2;
+    margin-top: 2rem;
+    padding: 0 1rem;
+  }
+  
+  // Stack the widgets nicely
+  .sidebar.right-sidebar .widget,
+  aside.sidebar .widget {
+    margin-bottom: 1.5rem;
+  }
+  
+  // Make category/tag pills wrap nicely on mobile
+  .widget .categories-list,
+  .tagCloud .tagCloud-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  
+  .widget .categories-list a,
+  .tagCloud .tagCloud-tags a {
+    margin: 0 !important;
+  }
+}
