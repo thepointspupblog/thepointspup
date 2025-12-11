@@ -112,4 +112,4 @@ Here's what I personally use:
 
 {{< affiliate-disclosure >}}
 
-**Read next:** [Best Pet-Friendly Beach Towns Near Jacksonville](/posts/pet-friendly-beach-towns-jacksonville/)
+**Read next:** [Best Dog-Friendly Beach Towns Near Jacksonville](/posts/pet-friendly-beach-towns-jacksonville/)

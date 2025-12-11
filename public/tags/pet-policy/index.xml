@@ -17,7 +17,7 @@
 &lt;p&gt;Kimpton is hands-down the most dog-friendly hotel brand in existence. No weight limits. No breed restrictions. No pet fees. Ever. They&amp;rsquo;ll welcome your Great Dane the same way they&amp;rsquo;d welcome a Chihuahua.&lt;/p&gt;
 &lt;p&gt;But Kimpton is just one piece of the IHG puzzle. Let me break down the entire IHG portfolio so you know exactly where you can (and can&amp;rsquo;t) bring your dog.&lt;/p&gt;
 &lt;h2 id=&#34;the-ihg-pet-friendly-lineup&#34;&gt;The IHG Pet-Friendly Lineup
-&lt;/h2&gt;&lt;p&gt;IHG has 20 hotel brands, but not all of them welcome pets. Here&amp;rsquo;s what you need to know:&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;IHG has 20 hotel brands, but not all of them welcome dogs. Here&amp;rsquo;s what you need to know:&lt;/p&gt;
 &lt;h3 id=&#34;tier-1-the-gold-standard&#34;&gt;Tier 1: The Gold Standard
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Kimpton Hotels&lt;/strong&gt; ⭐ THE BEST&lt;/p&gt;
 &lt;ul&gt;
@@ -191,7 +191,7 @@
 &lt;h2 id=&#34;tips-for-booking-pet-friendly-ihg-stays&#34;&gt;Tips for Booking Pet-Friendly IHG Stays
 &lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Always call the property directly&lt;/strong&gt; — Even &amp;ldquo;pet-friendly&amp;rdquo; hotels can have restrictions that aren&amp;rsquo;t listed online.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Always call the property directly&lt;/strong&gt; — Even &amp;ldquo;dog-friendly&amp;rdquo; hotels can have restrictions that aren&amp;rsquo;t listed online.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Book Kimpton for guaranteed acceptance&lt;/strong&gt; — Don&amp;rsquo;t risk showing up with your 70-lb dog only to be told there&amp;rsquo;s a 50-lb limit.&lt;/p&gt;
@@ -345,7 +345,7 @@ const policies = {
     name: &#34;Kimpton Hotels&#34;,
     weight: &#34;No weight limit&#34;,
     fee: &#34;$0 (free!)&#34;,
-    notes: &#34;The gold standard for pet travel. If your dog fits through the door, they&#39;re welcome. No breed restrictions. Many have a Director of Pet Relations (a very good dog). Nightly wine hour often welcomes pups.&#34;,
+    notes: &#34;The gold standard for dog travel. If your dog fits through the door, they&#39;re welcome. No breed restrictions. Many have a Director of Pet Relations (a very good dog). Nightly wine hour often welcomes pups.&#34;,
     tip: &#34;Best hotel chain for large dogs, period. &lt;a href=&#39;http://localhost:1313/posts/kimpton-points-guide/&#39;&gt;Learn how to book free with points.&lt;/a&gt;&#34;,
     verdict: &#34;🟢 Best in class — no limits, no fees&#34;
   }
@@ -377,7 +377,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
 &lt;h2 id=&#34;the-bottom-line&#34;&gt;The Bottom Line
 &lt;/h2&gt;&lt;p&gt;Weight limits are frustrating, but there are great options for dogs of all sizes. For large dogs, &lt;strong&gt;Kimpton&lt;/strong&gt;, &lt;strong&gt;Red Roof Inn&lt;/strong&gt;, &lt;strong&gt;Motel 6&lt;/strong&gt;, and &lt;strong&gt;Loews&lt;/strong&gt; are your best bets.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Want the full breakdown?&lt;/strong&gt; Check out my complete guide: &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/traveling-with-large-dogs-hotel-policies/&#34; &gt;Traveling with a Large Dog: Hotel Policies You Need to Know&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ready to book for free?&lt;/strong&gt; See &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#34; &gt;Best Credit Cards for Pet Travelers&lt;/a&gt; to start earning points.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ready to book for free?&lt;/strong&gt; See &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#34; &gt;Best Credit Cards for Dog Travelers&lt;/a&gt; to start earning points.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -386,7 +386,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
         <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/posts/traveling-with-large-dogs-hotel-policies/</guid>
-        <description>&lt;p&gt;When you&amp;rsquo;re traveling with a small dog, finding pet-friendly hotels is pretty straightforward. But once your pup crosses that 50-pound threshold? Suddenly half your options disappear.&lt;/p&gt;
+        <description>&lt;p&gt;When you&amp;rsquo;re traveling with a small dog, finding dog-friendly hotels is pretty straightforward. But once your pup crosses that 50-pound threshold? Suddenly half your options disappear.&lt;/p&gt;
 &lt;p&gt;I travel with Ansel, my 70-pound German Shorthaired Pointer/Lab mix. He&amp;rsquo;s a lanky, well-behaved sweetheart—but on paper, he&amp;rsquo;s &amp;ldquo;too big&amp;rdquo; for a lot of hotels. If you&amp;rsquo;re in the same boat with your large dog, here&amp;rsquo;s everything I&amp;rsquo;ve learned about navigating hotel weight limits.&lt;/p&gt;
 &lt;h2 id=&#34;the-weight-limit-problem&#34;&gt;The Weight Limit Problem
 &lt;/h2&gt;&lt;p&gt;Most hotel chains set their pet weight limits between 50-75 pounds. The logic seems to be liability and room size, but the limits often feel arbitrary. A calm 80-pound Lab is going to cause fewer issues than a hyper 30-pound terrier, but policies don&amp;rsquo;t account for temperament.&lt;/p&gt;
@@ -473,7 +473,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
 &lt;li&gt;Canopy by Hilton (very pet-friendly, 50-75 lbs)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Always call the specific property&lt;/strong&gt; before booking. The website might say 50 pounds, but the front desk often has discretion—especially for well-behaved dogs.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re earning Hilton points for pet travel, check out my &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hilton-credit-card-quiz/&#34; &gt;Hilton credit card quiz&lt;/a&gt; to find the right card for your travel style.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re earning Hilton points for dog travel, check out my &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hilton-credit-card-quiz/&#34; &gt;Hilton credit card quiz&lt;/a&gt; to find the right card for your travel style.&lt;/p&gt;
 &lt;h2 id=&#34;tips-for-when-your-dog-exceeds-the-limit&#34;&gt;Tips for When Your Dog Exceeds the Limit
 &lt;/h2&gt;&lt;p&gt;Here&amp;rsquo;s what I&amp;rsquo;ve learned from traveling with a dog who&amp;rsquo;s technically &amp;ldquo;too big&amp;rdquo; for some policies:&lt;/p&gt;
 &lt;h3 id=&#34;1-call-the-hotel-directly&#34;&gt;1. Call the hotel directly
@@ -507,17 +507,17 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
 &lt;p&gt;Your big dog deserves adventures too. Don&amp;rsquo;t let arbitrary weight limits keep you home.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;Have a favorite hotel chain for large dogs? I&amp;rsquo;d love to hear about it— see my &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/contact/&#34; &gt;contact page&lt;/a&gt; to reach out.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Read next:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hotel-pet-policy-finder/&#34; &gt;Hotel Pet Policy Finder&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/why-hilton-for-pet-travelers/&#34; &gt;Why Hilton Is the Best Hotel Chain for Pet Travelers&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/kimpton-points-guide/&#34; &gt;How to Book Kimpton Free with Points&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Read next:&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hotel-pet-policy-finder/&#34; &gt;Hotel Dog Policy Finder&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/why-hilton-for-pet-travelers/&#34; &gt;Why Hilton Is the Best Hotel Chain for Dog Travelers&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/kimpton-points-guide/&#34; &gt;How to Book Kimpton Free with Points&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Why Hilton Is the Best Hotel Chain for Pet Travelers</title>
+        <title>Why Hilton Is the Best Hotel Chain for Dog Travelers</title>
         <link>http://localhost:1313/posts/why-hilton-for-pet-travelers/</link>
         <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/posts/why-hilton-for-pet-travelers/</guid>
         <description>&lt;p&gt;When I started traveling with Ansel, my 70-pound GSP/Lab mix, I quickly learned that not all hotel chains are created equal. Some properties say they&amp;rsquo;re &amp;ldquo;pet-friendly&amp;rdquo; but hit you with breed restrictions, weight limits, or fees that make you feel like your dog isn&amp;rsquo;t actually welcome.&lt;/p&gt;
-&lt;p&gt;Hilton is different. Here&amp;rsquo;s why it&amp;rsquo;s become my go-to for pet travel.&lt;/p&gt;
+&lt;p&gt;Hilton is different. Here&amp;rsquo;s why it&amp;rsquo;s become my go-to for dog travel.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;every-hilton-brand-welcomes-dogs&#34;&gt;Every Hilton Brand Welcomes Dogs
 &lt;/h2&gt;&lt;p&gt;This is the big one. Whether you&amp;rsquo;re staying at a Hampton Inn on a road trip or splurging on a Waldorf Astoria for a special occasion, &lt;strong&gt;every Hilton brand in the U.S. accepts pets&lt;/strong&gt;.&lt;/p&gt;
@@ -551,7 +551,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
 &lt;p&gt;I&amp;rsquo;ve booked multiple free nights at pet-friendly Hiltons without setting foot in a hotel — just from everyday spending on my Hilton credit card.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Not sure which card is right for you?&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hilton-credit-card-quiz/&#34; &gt;Take my quick quiz&lt;/a&gt; to find your perfect match.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;diamond-status-makes-pet-travel-easier&#34;&gt;Diamond Status Makes Pet Travel Easier
+&lt;h2 id=&#34;diamond-status-makes-dog-travel-easier&#34;&gt;Diamond Status Makes Dog Travel Easier
 &lt;/h2&gt;&lt;p&gt;Hilton&amp;rsquo;s top-tier status, Diamond, comes with perks that are especially valuable when you&amp;rsquo;re traveling with a dog:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Room upgrades&lt;/strong&gt; — More space means more room for your pup to spread out. I&amp;rsquo;ve been upgraded to suites multiple times, and the extra square footage makes a huge difference with a 70-pound dog.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Late checkout&lt;/strong&gt; — Morning potty breaks, packing up dog gear, loading the car&amp;hellip; it all takes longer with a pet. Late checkout (often until 2pm) gives you breathing room.&lt;/p&gt;
@@ -563,15 +563,15 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
 &lt;/h2&gt;&lt;p&gt;Hilton pet fees typically range from $50-$95 per stay, depending on the brand and location. That&amp;rsquo;s middle-of-the-road for the industry — not the cheapest, but far from the worst offenders.&lt;/p&gt;
 &lt;p&gt;When you&amp;rsquo;re booking on points, the pet fee is often your only out-of-pocket cost. I&amp;rsquo;ll happily pay $75 for a &amp;ldquo;free&amp;rdquo; hotel stay at a property I know will welcome my dog without hassle.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;my-hilton-pet-travel-stack&#34;&gt;My Hilton Pet Travel Stack
-&lt;/h2&gt;&lt;p&gt;Here&amp;rsquo;s the setup I use for earning and booking pet-friendly Hilton stays:&lt;/p&gt;
+&lt;h2 id=&#34;my-hilton-dog-travel-stack&#34;&gt;My Hilton Dog Travel Stack
+&lt;/h2&gt;&lt;p&gt;Here&amp;rsquo;s the setup I use for earning and booking dog-friendly Hilton stays:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Hilton Aspire Card&lt;/strong&gt; — Automatic Diamond status, annual free night certificate, $400 resort credit&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hilton Points&lt;/strong&gt; — Earned from everyday spending, used for free nights&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;5th Night Free&lt;/strong&gt; — Book 4 nights on points, get the 5th free (20% savings!)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;BringFido&lt;/strong&gt; — For double-checking pet policies and weight limits at specific properties&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;This combo has gotten me free stays at pet-friendly Embassy Suites, Hilton Garden Inns, and more — with Ansel welcome at every single one.&lt;/p&gt;
+&lt;p&gt;This combo has gotten me free stays at dog-friendly Embassy Suites, Hilton Garden Inns, and more — with Ansel welcome at every single one.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;ready-to-start&#34;&gt;Ready to Start?
 &lt;/h2&gt;&lt;p&gt;If you&amp;rsquo;re new to Hilton points and want to start traveling free with your pup, here&amp;rsquo;s where to begin:&lt;/p&gt;
@@ -580,7 +580,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hilton-diamond-status-guide/&#34; &gt;Learn about Diamond status&lt;/a&gt;&lt;/strong&gt; and why it&amp;rsquo;s worth pursuing&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#34; &gt;Compare all the credit card options&lt;/a&gt;&lt;/strong&gt; if you want the full breakdown&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Have questions? &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/contact/&#34; &gt;Reach out&lt;/a&gt; — I&amp;rsquo;m always happy to help fellow pet travelers figure out the points game.&lt;/p&gt;
+&lt;p&gt;Have questions? &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/contact/&#34; &gt;Reach out&lt;/a&gt; — I&amp;rsquo;m always happy to help fellow dog travelers figure out the points game.&lt;/p&gt;
 &lt;hr&gt;
 &lt;div style=&#34;background: #f5f3ef; border-left: 3px solid #2d5a47; padding: 12px 16px; margin: 20px 0; font-size: 14px; color: #666; border-radius: 0 8px 8px 0;&#34;&gt;
 &lt;strong&gt;Disclosure:&lt;/strong&gt; This post contains affiliate links. If you apply for a card through my links, I may earn a commission at no extra cost to you. See my &lt;a href=&#34;http://localhost:1313/page/disclosure/&#34; style=&#34;color: #2d5a47;&#34;&gt;full disclosure&lt;/a&gt; for details.

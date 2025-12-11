@@ -127,7 +127,7 @@ const policies = {
     name: &#34;Kimpton Hotels&#34;,
     weight: &#34;No weight limit&#34;,
     fee: &#34;$0 (free!)&#34;,
-    notes: &#34;The gold standard for pet travel. If your dog fits through the door, they&#39;re welcome. No breed restrictions. Many have a Director of Pet Relations (a very good dog). Nightly wine hour often welcomes pups.&#34;,
+    notes: &#34;The gold standard for dog travel. If your dog fits through the door, they&#39;re welcome. No breed restrictions. Many have a Director of Pet Relations (a very good dog). Nightly wine hour often welcomes pups.&#34;,
     tip: &#34;Best hotel chain for large dogs, period. &lt;a href=&#39;http://localhost:1313/posts/kimpton-points-guide/&#39;&gt;Learn how to book free with points.&lt;/a&gt;&#34;,
     verdict: &#34;🟢 Best in class — no limits, no fees&#34;
   }
@@ -159,7 +159,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
 &lt;h2 id=&#34;the-bottom-line&#34;&gt;The Bottom Line
 &lt;/h2&gt;&lt;p&gt;Weight limits are frustrating, but there are great options for dogs of all sizes. For large dogs, &lt;strong&gt;Kimpton&lt;/strong&gt;, &lt;strong&gt;Red Roof Inn&lt;/strong&gt;, &lt;strong&gt;Motel 6&lt;/strong&gt;, and &lt;strong&gt;Loews&lt;/strong&gt; are your best bets.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Want the full breakdown?&lt;/strong&gt; Check out my complete guide: &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/traveling-with-large-dogs-hotel-policies/&#34; &gt;Traveling with a Large Dog: Hotel Policies You Need to Know&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ready to book for free?&lt;/strong&gt; See &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#34; &gt;Best Credit Cards for Pet Travelers&lt;/a&gt; to start earning points.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ready to book for free?&lt;/strong&gt; See &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#34; &gt;Best Credit Cards for Dog Travelers&lt;/a&gt; to start earning points.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -168,7 +168,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
         <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/posts/hilton-credit-card-quiz/</guid>
-        <description>&lt;p&gt;Not sure which Hilton credit card fits your pet travel style? Answer 7 quick questions and we&amp;rsquo;ll match you with the perfect card for earning free nights at pet-friendly hotels.&lt;/p&gt;
+        <description>&lt;p&gt;Not sure which Hilton credit card fits your dog travel style? Answer 7 quick questions and we&amp;rsquo;ll match you with the perfect card for earning free nights at dog-friendly hotels.&lt;/p&gt;
 
 
 
@@ -747,7 +747,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
       name: &#39;Hilton Honors American Express Surpass&#39;,
       shortName: &#39;Hilton Surpass&#39;,
       fee: &#39;$150 annual fee&#39;,
-      tagline: &#39;The sweet spot for regular pet travelers&#39;,
+      tagline: &#39;The sweet spot for regular dog travelers&#39;,
       benefits: [
         &#39;12X points at Hilton pet-friendly properties&#39;,
         &#39;6X points at U.S. restaurants, supermarkets &amp; gas stations&#39;,
@@ -767,7 +767,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
       name: &#39;Hilton Honors American Express Aspire&#39;,
       shortName: &#39;Hilton Aspire&#39;,
       fee: &#39;$550 annual fee&#39;,
-      tagline: &#39;Premium perks for serious pet travelers&#39;,
+      tagline: &#39;Premium perks for serious dog travelers&#39;,
       benefits: [
         &#39;14X points at Hilton pet-friendly properties&#39;,
         &#39;7X points on flights booked directly &amp; car rentals&#39;,
@@ -942,7 +942,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
         &lt;a href=&#34;${card.secondaryLink}&#34; class=&#34;secondary-btn&#34;&gt;${card.secondaryText}&lt;/a&gt;
       &lt;/div&gt;
       &lt;div class=&#34;share-section&#34;&gt;
-        &lt;p class=&#34;share-title&#34;&gt;Share your result with fellow pet travelers!&lt;/p&gt;
+        &lt;p class=&#34;share-title&#34;&gt;Share your result with fellow dog travelers!&lt;/p&gt;
         &lt;div class=&#34;share-buttons&#34;&gt;
           &lt;a href=&#34;${twitterUrl}&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;share-btn&#34;&gt;🐦 Twitter&lt;/a&gt;
           &lt;a href=&#34;${facebookUrl}&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;share-btn&#34;&gt;📘 Facebook&lt;/a&gt;
@@ -1018,12 +1018,12 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
 })();
 &lt;/script&gt;
 
-&lt;h2 id=&#34;why-hilton-for-pet-travelers&#34;&gt;Why Hilton for Pet Travelers?
-&lt;/h2&gt;&lt;p&gt;Every Hilton brand in the U.S. welcomes dogs, making them one of the most pet-friendly hotel chains for road tripping with your pup.&lt;/p&gt;
-&lt;p&gt;With the right credit card, you can earn free nights at pet-friendly properties while stacking points on everyday purchases like dog food, vet bills, and gas for your road trips.&lt;/p&gt;
+&lt;h2 id=&#34;why-hilton-for-dog-travelers&#34;&gt;Why Hilton for Dog Travelers?
+&lt;/h2&gt;&lt;p&gt;Every Hilton brand in the U.S. welcomes dogs, making them one of the most dog-friendly hotel chains for road tripping with your pup.&lt;/p&gt;
+&lt;p&gt;With the right credit card, you can earn free nights at dog-friendly properties while stacking points on everyday purchases like dog food, vet bills, and gas for your road trips.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Related reads:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#34; &gt;Best Credit Cards for Pet Travelers (2025)&lt;/a&gt; — Full comparison of all the top options&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#34; &gt;Best Credit Cards for Dog Travelers (2025)&lt;/a&gt; — Full comparison of all the top options&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hilton-diamond-status-guide/&#34; &gt;Hilton Diamond Status: How to Get It and Why It&amp;rsquo;s Worth It&lt;/a&gt; — The perks that matter most when traveling with a dog&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/traveling-with-large-dogs-hotel-policies/&#34; &gt;Traveling with a Large Dog: Hotel Policies You Need to Know&lt;/a&gt; — What to know before booking if your pup is over 50 lbs&lt;/li&gt;
 &lt;/ul&gt;
@@ -1603,7 +1603,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
       name: &#39;Hilton Honors American Express Surpass&#39;,
       shortName: &#39;Hilton Surpass&#39;,
       fee: &#39;$150 annual fee&#39;,
-      tagline: &#39;The sweet spot for regular pet travelers&#39;,
+      tagline: &#39;The sweet spot for regular dog travelers&#39;,
       benefits: [
         &#39;Complimentary Gold status (free breakfast!)&#39;,
         &#39;Free Night Reward after $15K annual spend&#39;,
@@ -1843,7 +1843,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
   }
 
   function getShareText(cardName) {
-    return `I got the ${cardName} for traveling with my dog! 🐕 Find your perfect pet travel card → thepointspup.com/posts/hotel-credit-card-quiz/`;
+    return `I got the ${cardName} for traveling with my dog! 🐕 Find your perfect dog travel card → thepointspup.com/posts/hotel-credit-card-quiz/`;
   }
 
   function copyToClipboard(text, button) {
@@ -1926,7 +1926,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
         &lt;a href=&#34;${card.secondaryLink}&#34; class=&#34;secondary-btn&#34;&gt;${card.secondaryText}&lt;/a&gt;
       &lt;/div&gt;
       &lt;div class=&#34;share-section&#34;&gt;
-        &lt;p class=&#34;share-title&#34;&gt;Share your result with fellow pet travelers!&lt;/p&gt;
+        &lt;p class=&#34;share-title&#34;&gt;Share your result with fellow dog travelers!&lt;/p&gt;
         &lt;div class=&#34;share-buttons&#34;&gt;
           &lt;a href=&#34;${twitterUrl}&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;share-btn&#34;&gt;🐦 Twitter&lt;/a&gt;
           &lt;a href=&#34;${facebookUrl}&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34; class=&#34;share-btn&#34;&gt;📘 Facebook&lt;/a&gt;
@@ -2059,7 +2059,7 @@ document.getElementById(&#39;hotel-select&#39;).addEventListener(&#39;change&#39
 &lt;hr&gt;
 &lt;h2 id=&#34;related-reads&#34;&gt;Related Reads
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#34; &gt;Best Credit Cards for Pet Travelers (2025)&lt;/a&gt; — Full breakdown of every card&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/best-credit-cards-pet-travelers/&#34; &gt;Best Credit Cards for Dog Travelers (2025)&lt;/a&gt; — Full breakdown of every card&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/kimpton-points-guide/&#34; &gt;How to Book Kimpton Hotels Free with Points&lt;/a&gt; — The best chain for large dogs&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/traveling-with-large-dogs-hotel-policies/&#34; &gt;Traveling with a Large Dog: Hotel Policies You Need to Know&lt;/a&gt; — Weight limits by chain&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/posts/hilton-credit-card-quiz/&#34; &gt;Quiz: Which Hilton Credit Card Is Best for Dog Travelers?&lt;/a&gt; — Hilton-specific quiz if you&amp;rsquo;re already loyal&lt;/li&gt;

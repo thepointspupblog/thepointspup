@@ -6,14 +6,14 @@ draft: false
 categories:
   - Trip Reports
 series:
-  - Hilton for Pet Travelers
+  - Hilton for Dog Travelers
 tags:
   - Hilton
   - Florida
   - Beach
 ---
 
-Last month, Ansel and I made the drive from Jacksonville to Panama City Beach for a long weekend. I'd been eyeing the Embassy Suites by Hilton Panama City Beach Resort for a while — it's pet-friendly, right across from the beach, and I had a stack of Hilton points burning a hole in my account. Here's how it went.
+Last month, Ansel and I made the drive from Jacksonville to Panama City Beach for a long weekend. I'd been eyeing the Embassy Suites by Hilton Panama City Beach Resort for a while — it's dog-friendly, right across from the beach, and I had a stack of Hilton points burning a hole in my account. Here's how it went.
 
 <img src="/images/balcony.jpeg" alt="Ansel on the balcony with ocean view" style="max-width: 400px; border-radius: 12px; display: block; margin: 20px auto;">
 
@@ -29,7 +29,7 @@ The only thing I actually paid out of pocket? Tipping the valet. That's it.
 
 **Pro tip:** If you have Hilton Diamond status, request a room upgrade when you book. I asked and got bumped to a king suite with an ocean view and a balcony. Ansel spent a solid 20 minutes every morning just watching the beach from up there.
 
-*(New to points and hotel status? Check out my guide to [the best credit cards for pet travelers](/posts/best-credit-cards-pet-travelers) and [how Hilton Diamond status works](/posts/hilton-diamond-status-guide).)*
+*(New to points and hotel status? Check out my guide to [the best credit cards for dog travelers](/posts/best-credit-cards-pet-travelers) and [how Hilton Diamond status works](/posts/hilton-diamond-status-guide).)*
 
 ## The Hotel: What You Need to Know
 
@@ -138,4 +138,4 @@ Would I go back? Yeah, probably. Next time I'll be smarter about requesting a ro
 | **Daycare** | ZOOMIES Pet Hotel, Dagny and Dexter's (book ahead!) |
 | **Room Tip** | Request a room near the elevator |
 
-**Read next:** [Jacksonville to Panama City Beach: A Pet-Friendly Road Trip Guide](/posts/jacksonville-to-panama-city-beach-road-trip/)
+**Read next:** [Jacksonville to Panama City Beach: A Dog-Friendly Road Trip Guide](/posts/jacksonville-to-panama-city-beach-road-trip/)

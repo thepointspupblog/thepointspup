@@ -128,7 +128,7 @@ const policies = {
     name: "Kimpton Hotels",
     weight: "No weight limit",
     fee: "$0 (free!)",
-    notes: "The gold standard for pet travel. If your dog fits through the door, they're welcome. No breed restrictions. Many have a Director of Pet Relations (a very good dog). Nightly wine hour often welcomes pups.",
+    notes: "The gold standard for dog travel. If your dog fits through the door, they're welcome. No breed restrictions. Many have a Director of Pet Relations (a very good dog). Nightly wine hour often welcomes pups.",
     tip: "Best hotel chain for large dogs, period. <a href='/posts/kimpton-points-guide/'>Learn how to book free with points.</a>",
     verdict: "🟢 Best in class — no limits, no fees"
   }
@@ -165,4 +165,4 @@ Weight limits are frustrating, but there are great options for dogs of all sizes
 
 **Want the full breakdown?** Check out my complete guide: [Traveling with a Large Dog: Hotel Policies You Need to Know](/posts/traveling-with-large-dogs-hotel-policies/)
 
-**Ready to book for free?** See [Best Credit Cards for Pet Travelers](/posts/best-credit-cards-pet-travelers/) to start earning points.
+**Ready to book for free?** See [Best Credit Cards for Dog Travelers](/posts/best-credit-cards-pet-travelers/) to start earning points.

@@ -5,7 +5,7 @@ date: 2025-12-08
 categories:
   - Guides
 series:
-  - IHG for Pet Travelers
+  - IHG for Dog Travelers
 tags:
   - IHG
   - Kimpton
@@ -19,7 +19,7 @@ Kimpton doesn't play that game. Their policy is simple: if your pet fits through
 It's the most genuinely pet-friendly hotel chain I've found — and you can book stays completely free using credit card points.
 
 **Jump to:**
-- [Why Kimpton for Pet Travelers](#why-kimpton-for-pet-travelers)
+- [Why Kimpton for Dog Travelers](#why-kimpton-for-pet-travelers)
 - [How to Earn IHG Points](#how-to-earn-ihg-points-for-kimpton)
 - [IHG Credit Cards](#option-1-ihg-credit-cards)
 - [Chase Transfer Partners](#option-2-chase-ultimate-rewards-transfer)
@@ -29,7 +29,7 @@ It's the most genuinely pet-friendly hotel chain I've found — and you can book
 
 ---
 
-## Why Kimpton for Pet Travelers
+## Why Kimpton for Dog Travelers
 
 Kimpton became the first major hotel chain to go pet-friendly back in 1992. They weren't just tolerating pets — they built it into the brand. Here's what you actually get:
 
@@ -194,7 +194,7 @@ If you're already in the Hilton ecosystem (like me), the Sapphire Preferred is a
 
 ## The Bottom Line
 
-Kimpton is the best hotel chain for pet travelers, full stop. No other major brand matches their policy — no fees, no weight limits, no breed restrictions, and actual pet amenities beyond a sad bowl at the front desk.
+Kimpton is the best hotel chain for dog travelers, full stop. No other major brand matches their policy — no fees, no weight limits, no breed restrictions, and actual dog amenities beyond a sad bowl at the front desk.
 
 The only downside is price. Kimpton properties aren't cheap. But that's exactly why points matter here. A $300/night boutique hotel stay feels very different when it costs you 45,000 points you earned from everyday spending.
 
@@ -204,4 +204,4 @@ If you're traveling with a large dog and want a stress-free check-in experience,
 
 *Have you stayed at a Kimpton with your dog? I'd love to hear which property — [reach out](/contact/) and let me know.*
 
-**Read next:** [Best Credit Cards for Pet Travelers](/posts/best-credit-cards-pet-travelers/) | [Traveling with a Large Dog: Hotel Policies You Need to Know](/posts/traveling-with-large-dogs-hotel-policies/)
+**Read next:** [Best Credit Cards for Dog Travelers](/posts/best-credit-cards-pet-travelers/) | [Traveling with a Large Dog: Hotel Policies You Need to Know](/posts/traveling-with-large-dogs-hotel-policies/)

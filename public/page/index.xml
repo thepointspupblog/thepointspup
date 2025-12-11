@@ -11,14 +11,14 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/page/leave-your-pawprint/</guid>
-        <description>&lt;h2 id=&#34;share-your-pet-travel-story-&#34;&gt;Share Your Pet Travel Story 🐾
+        <description>&lt;h2 id=&#34;share-your-dog-travel-story-&#34;&gt;Share Your Dog Travel Story 🐾
 &lt;/h2&gt;&lt;p&gt;Booked a free stay? Found the perfect dog-friendly hotel? Had an epic road trip with your pup? We&amp;rsquo;d love to hear about it — and maybe feature your story on the site.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;what-counts-as-a-pawprint&#34;&gt;What counts as a pawprint?
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Booked a free hotel stay using points&lt;/li&gt;
 &lt;li&gt;Got upgraded to a suite with your pup&lt;/li&gt;
-&lt;li&gt;Found an amazing pet-friendly property&lt;/li&gt;
+&lt;li&gt;Found an amazing dog-friendly property&lt;/li&gt;
 &lt;li&gt;Had an epic road trip with your dog&lt;/li&gt;
 &lt;li&gt;Discovered a hidden gem destination&lt;/li&gt;
 &lt;/ul&gt;
@@ -72,7 +72,7 @@ document.getElementById(&#39;pawprint-form&#39;).addEventListener(&#39;submit&#3
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/page/pawprints/</guid>
-        <description>&lt;h2 id=&#34;real-stories-from-pet-travelers-&#34;&gt;Real Stories from Pet Travelers 🐾
+        <description>&lt;h2 id=&#34;real-stories-from-dog-travelers-&#34;&gt;Real Stories from Dog Travelers 🐾
 &lt;/h2&gt;&lt;p&gt;These are wins from dog owners who hit the road with their pups — free hotel stays, surprise upgrades, and trips made possible by points.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Got a story to share?&lt;/strong&gt; &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/page/leave-your-pawprint/&#34; &gt;Leave your pawprint →&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -87,7 +87,7 @@ document.getElementById(&#39;pawprint-form&#39;).addEventListener(&#39;submit&#3
 &lt;/div&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;your-turn&#34;&gt;Your Turn
-&lt;/h2&gt;&lt;p&gt;Got a pet travel story? We&amp;rsquo;d love to feature it.&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;Got a dog travel story? We&amp;rsquo;d love to feature it.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/page/leave-your-pawprint/&#34; &gt;Leave Your Pawprint →&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>

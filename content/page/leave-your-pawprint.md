@@ -2,7 +2,7 @@
 title: "Leave Your Pawprint"
 ---
 
-## Share Your Pet Travel Story 🐾
+## Share Your Dog Travel Story 🐾
 
 Booked a free stay? Found the perfect dog-friendly hotel? Had an epic road trip with your pup? We'd love to hear about it — and maybe feature your story on the site.
 
@@ -12,7 +12,7 @@ Booked a free stay? Found the perfect dog-friendly hotel? Had an epic road trip 
 
 - Booked a free hotel stay using points
 - Got upgraded to a suite with your pup
-- Found an amazing pet-friendly property
+- Found an amazing dog-friendly property
 - Had an epic road trip with your dog
 - Discovered a hidden gem destination
 

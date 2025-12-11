@@ -5,12 +5,12 @@ theme = 'hugo-theme-stack'
 
 [params]
   mainSections = ['posts']
-  description = "Free hotel stays for pet travelers using credit card points"
+  description = "Free hotel stays for dog travelers using credit card points"
   favicon = "/favicon.ico"
 
 [params.sidebar]
   emoji = ""
-  subtitle = "Free hotel stays for pet travelers"
+  subtitle = "Free hotel stays for dog travelers"
 
 [params.sidebar.avatar]
   enabled = true
@@ -60,7 +60,7 @@ theme = 'hugo-theme-stack'
 
 [[menu.main]]
   name = "Free Guide"
-  url = "/page/free-guide"
+  url = "/free-guide"
   weight = 3
 
 [[menu.main]]

@@ -4,7 +4,7 @@ description: "New to traveling with your dog on points? Here's exactly where to 
 layout: "page"
 ---
 
-## New to Pet Points Travel? Start Here 🐾
+## New to Dog Points Travel? Start Here 🐾
 
 I get it — credit card points can feel overwhelming. But once you understand the basics, free hotel stays with your dog become surprisingly easy.
 
@@ -56,7 +56,7 @@ Not sure which hotel credit card fits your travel style? Take the quiz — it co
 
 The right credit card can get you 2-3 free nights just from the sign-up bonus. This guide breaks down all your options — annual fees, perks, and which cards actually pay for themselves.
 
-**Read:** [Best Credit Cards for Pet Travelers (2025)](/posts/best-credit-cards-pet-travelers/)
+**Read:** [Best Credit Cards for Dog Travelers (2025)](/posts/best-credit-cards-pet-travelers/)
 
 ---
 
@@ -70,7 +70,7 @@ Different chains work better for different dogs. Here's how to choose:
 | **Kimpton (IHG)** | Large dogs — no weight limits, no pet fees | None |
 | **Marriott** | Sign-up bonus hunters — 3 free nights to start | Varies by property |
 
-**Read:** [Why Hilton Is the Best Hotel Chain for Pet Travelers](/posts/why-hilton-for-pet-travelers/)  
+**Read:** [Why Hilton Is the Best Hotel Chain for Dog Travelers](/posts/why-hilton-for-pet-travelers/)  
 **Read:** [How to Book Kimpton Hotels Free with Points](/posts/kimpton-points-guide/)
 
 ---

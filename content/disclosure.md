@@ -12,12 +12,12 @@ This is how I keep the site running and fund future trips to review for you.
 
 - **You don't pay more.** Affiliate links don't add any cost to your purchase or application.
 - **My opinions are my own.** I only recommend cards, hotels, and products I actually use or would use. If something isn't worth it, I'll say so.
-- **I'm selective.** Not every affiliate offer makes it onto this site — just the ones that make sense for pet travelers.
+- **I'm selective.** Not every affiliate offer makes it onto this site — just the ones that make sense for dog travelers.
 
 ## Programs I Participate In
 
 - Credit card affiliate networks (for cards like the Hilton Aspire and Surpass)
-- Amazon Associates (for pet travel gear)
+- Amazon Associates (for dog travel gear)
 - Hotel booking partners
 
 ## Questions?

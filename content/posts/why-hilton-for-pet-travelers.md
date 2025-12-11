@@ -1,11 +1,11 @@
 ---
-title: "Why Hilton Is the Best Hotel Chain for Pet Travelers"
+title: "Why Hilton Is the Best Hotel Chain for Dog Travelers"
 description: "Every Hilton brand welcomes dogs, points are easy to earn, and Diamond status perks make traveling with your pup way more comfortable."
 date: 2025-12-08
 categories:
   - Guides
 series:
-  - Hilton for Pet Travelers
+  - Hilton for Dog Travelers
 tags:
   - Hilton
   - Hotels
@@ -14,7 +14,7 @@ tags:
 
 When I started traveling with Ansel, my 70-pound GSP/Lab mix, I quickly learned that not all hotel chains are created equal. Some properties say they're "pet-friendly" but hit you with breed restrictions, weight limits, or fees that make you feel like your dog isn't actually welcome.
 
-Hilton is different. Here's why it's become my go-to for pet travel.
+Hilton is different. Here's why it's become my go-to for dog travel.
 
 ---
 
@@ -59,7 +59,7 @@ I've booked multiple free nights at pet-friendly Hiltons without setting foot in
 
 ---
 
-## Diamond Status Makes Pet Travel Easier
+## Diamond Status Makes Dog Travel Easier
 
 Hilton's top-tier status, Diamond, comes with perks that are especially valuable when you're traveling with a dog:
 
@@ -83,16 +83,16 @@ When you're booking on points, the pet fee is often your only out-of-pocket cost
 
 ---
 
-## My Hilton Pet Travel Stack
+## My Hilton Dog Travel Stack
 
-Here's the setup I use for earning and booking pet-friendly Hilton stays:
+Here's the setup I use for earning and booking dog-friendly Hilton stays:
 
 1. **Hilton Aspire Card** — Automatic Diamond status, annual free night certificate, $400 resort credit
 2. **Hilton Points** — Earned from everyday spending, used for free nights
 3. **5th Night Free** — Book 4 nights on points, get the 5th free (20% savings!)
 4. **BringFido** — For double-checking pet policies and weight limits at specific properties
 
-This combo has gotten me free stays at pet-friendly Embassy Suites, Hilton Garden Inns, and more — with Ansel welcome at every single one.
+This combo has gotten me free stays at dog-friendly Embassy Suites, Hilton Garden Inns, and more — with Ansel welcome at every single one.
 
 ---
 
@@ -104,7 +104,7 @@ If you're new to Hilton points and want to start traveling free with your pup, h
 2. **[Learn about Diamond status](/posts/hilton-diamond-status-guide/)** and why it's worth pursuing
 3. **[Compare all the credit card options](/posts/best-credit-cards-pet-travelers/)** if you want the full breakdown
 
-Have questions? [Reach out](/contact/) — I'm always happy to help fellow pet travelers figure out the points game.
+Have questions? [Reach out](/contact/) — I'm always happy to help fellow dog travelers figure out the points game.
 
 ---
 {{< affiliate-disclosure >}}

@@ -202,7 +202,7 @@
 - [ ] Hilton Surpass Review: Is It Worth $150/Year for Dog Travelers?
 - [ ] IHG Premier Card Review: Best Card for Kimpton Stays?
 - [ ] Hilton Aspire Review: Is the $550 Fee Worth It?
-- [ ] Hilton Surpass vs Aspire: Which Is Better for Pet Travel?
+- [ ] Hilton Surpass vs Aspire: Which Is Better for Dog Travel?
 - [ ] IHG Premier vs Hilton Surpass: Which Hotel Card Should You Get First?
 - [ ] How I Earned 500,000 Hotel Points in One Year
 - [ ] The 2-Card Strategy for Free Pet-Friendly Hotels

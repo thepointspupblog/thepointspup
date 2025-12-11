@@ -77,7 +77,7 @@ Enter your email and I'll send the PDF straight to your inbox.
 
 When I started learning about hotel points, I was overwhelmed. There are so many cards, so many programs, and so much conflicting advice online.
 
-I spent months figuring out what actually works for pet travelers — which hotels have the best policies, which cards are worth the annual fee, and how to maximize points without changing how I spend.
+I spent months figuring out what actually works for dog travelers — which hotels have the best policies, which cards are worth the annual fee, and how to maximize points without changing how I spend.
 
 This guide is everything I wish I'd known from day one, condensed into 4 pages you can read in one sitting.
 
@@ -93,6 +93,6 @@ If you signed up but can't find the email, check your spam folder. Still nothing
 
 The guide gives you the quick version. For the full breakdown:
 
-- **[Best Credit Cards for Pet Travelers (2025)](/posts/best-credit-cards-pet-travelers/)** — Complete comparison of every card
+- **[Best Credit Cards for Dog Travelers (2025)](/posts/best-credit-cards-pet-travelers/)** — Complete comparison of every card
 - **[Take the Quiz](/posts/hotel-credit-card-quiz/)** — Find your perfect card in 2 minutes
 - **[Start Here](/start-here/)** — The full step-by-step path

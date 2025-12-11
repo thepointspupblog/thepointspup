@@ -1,11 +1,11 @@
 ---
 title: "IHG Pet Policy Guide: Why Kimpton Is the Best Chain for Large Dogs"
-description: "Complete guide to IHG's pet-friendly hotel brands including Kimpton, Hotel Indigo, Staybridge Suites, and Candlewood Suites. Compare pet fees, weight limits, and learn how to book free stays with points."
+description: "Complete guide to IHG's dog-friendly hotel brands including Kimpton, Hotel Indigo, Staybridge Suites, and Candlewood Suites. Compare pet fees, weight limits, and learn how to book free stays with points."
 date: 2025-12-10
 categories:
   - Guides
 series:
-  - IHG for Pet Travelers
+  - IHG for Dog Travelers
 tags:
   - IHG
   - Kimpton
@@ -23,7 +23,7 @@ But Kimpton is just one piece of the IHG puzzle. Let me break down the entire IH
 
 ## The IHG Pet-Friendly Lineup
 
-IHG has 20 hotel brands, but not all of them welcome pets. Here's what you need to know:
+IHG has 20 hotel brands, but not all of them welcome dogs. Here's what you need to know:
 
 ### Tier 1: The Gold Standard
 
@@ -156,7 +156,7 @@ If there's a Kimpton where I'm going? I book it. If not? Hilton it is.
 
 ## Tips for Booking Pet-Friendly IHG Stays
 
-1. **Always call the property directly** — Even "pet-friendly" hotels can have restrictions that aren't listed online.
+1. **Always call the property directly** — Even "dog-friendly" hotels can have restrictions that aren't listed online.
 
 2. **Book Kimpton for guaranteed acceptance** — Don't risk showing up with your 70-lb dog only to be told there's a 50-lb limit.
 

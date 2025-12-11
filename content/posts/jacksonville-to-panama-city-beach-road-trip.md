@@ -1,5 +1,5 @@
 ---
-title: "Jacksonville to Panama City Beach: A Pet-Friendly Road Trip Guide"
+title: "Jacksonville to Panama City Beach: A Dog-Friendly Road Trip Guide"
 description: "Everything you need to know about driving from Jacksonville to PCB with your dog — stops, timing, and what I learned the hard way."
 date: 2025-12-08
 categories:

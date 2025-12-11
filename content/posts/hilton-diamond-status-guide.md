@@ -1,12 +1,12 @@
 ---
 title: "Hilton Diamond Status: How to Get It and Why It's Worth It"
-description: "How I got Diamond status, the perks that matter for pet travelers, and why it's easier than you think."
+description: "How I got Diamond status, the perks that matter for dog travelers, and why it's easier than you think."
 date: 2025-12-01
 draft: false
 categories:
   - Guides
 series:
-  - Hilton for Pet Travelers
+  - Hilton for Dog Travelers
 tags:
   - Hilton
   - Elite Status
@@ -107,7 +107,7 @@ For most people, the credit card path is the easiest. Unless you're traveling fo
 
 If you want Diamond without the $550 Aspire fee, the Surpass path works — it just takes more spending. I did it for a couple years before upgrading to the Aspire.
 
-For the full breakdown, check out my [Best Credit Cards for Pet Travelers](/posts/best-credit-cards-pet-travelers) guide.
+For the full breakdown, check out my [Best Credit Cards for Dog Travelers](/posts/best-credit-cards-pet-travelers) guide.
 
 ---
 
@@ -123,13 +123,13 @@ So while you're earning Diamond status and racking up points, those free night c
 
 ---
 
-## 🐕 Why Diamond Matters for Pet Travelers
+## 🐕 Why Diamond Matters for Dog Travelers
 
 Here's why I think Diamond status is especially valuable when you're traveling with a dog:
 
 1. **Suite upgrades = more space.** A regular hotel room with a 70-pound dog feels cramped. A suite with a separate living area? Much better.
 
-2. **Late checkout = less stress.** Morning potty breaks, packing up dog gear, loading the car — it all takes longer with a pet. Late checkout gives you breathing room.
+2. **Late checkout = less stress.** Morning potty breaks, packing up dog gear, loading the car — it all takes longer with a dog. Late checkout gives you breathing room.
 
 3. **F&B credits = save money.** Pet fees add up. Having your meals partially covered helps offset those costs.
 
@@ -159,5 +159,5 @@ If you're already staying at Hilton properties and putting spend on a Hilton car
 
 {{< affiliate-disclosure >}}
 
-**Read next:** [Why Hilton Is the Best Hotel Chain for Pet Travelers](/posts/why-hilton-for-pet-travelers/)
+**Read next:** [Why Hilton Is the Best Hotel Chain for Dog Travelers](/posts/why-hilton-for-pet-travelers/)
 **Read next:** [Quiz: Find Your Perfect Hilton Credit Card](/posts/hilton-credit-card-quiz/)

@@ -2,7 +2,7 @@
 title: "Pawprints"
 ---
 
-## Real Stories from Pet Travelers 🐾
+## Real Stories from Dog Travelers 🐾
 
 These are wins from dog owners who hit the road with their pups — free hotel stays, surprise upgrades, and trips made possible by points.
 
@@ -24,6 +24,6 @@ These are wins from dog owners who hit the road with their pups — free hotel s
 
 ## Your Turn
 
-Got a pet travel story? We'd love to feature it.
+Got a dog travel story? We'd love to feature it.
 
 [Leave Your Pawprint →](/page/leave-your-pawprint/)

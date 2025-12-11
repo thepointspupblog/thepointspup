@@ -1,5 +1,5 @@
 ---
-title: "Best Pet-Friendly Beach Towns Near Jacksonville"
+title: "Best Dog-Friendly Beach Towns Near Jacksonville"
 description: "Quick weekend escapes that welcome your dog — from quiet islands to boardwalk vibes."
 date: 2025-12-08
 categories:
@@ -34,7 +34,7 @@ This is one of the most dog-friendly spots in the area. The beaches allow leashe
 
 One spot I always recommend is **The Patio at 5th and Ash** — a casual American bistro with a beautiful outdoor patio under oak trees draped in Spanish moss. They're genuinely dog-friendly and even have a dog menu with homemade biscuits. Ansel was *very* focused on earning one.
 
-**Pro tip:** If you're staying overnight, check out the Hilton properties on the island. Some are pet-friendly and bookable on points. *(See my [credit cards guide](/posts/best-credit-cards-pet-travelers) for how I earn free nights.)*
+**Pro tip:** If you're staying overnight, check out the Hilton properties on the island. Some are dog-friendly and bookable on points. *(See my [credit cards guide](/posts/best-credit-cards-pet-travelers) for how I earn free nights.)*
 
 ---
 
@@ -67,7 +67,7 @@ One spot I always stop at is **Yellow Dog Eats** — a funky sandwich shop with 
 ## Daytona Beach
 **Drive time:** 1 hour 45 minutes
 
-Daytona is hit or miss for dogs — the main beach doesn't allow them during peak hours, but there are designated dog-friendly areas. The boardwalk area has some pet-friendly patios, and it's a good base if you want to explore the surrounding towns.
+Daytona is hit or miss for dogs — the main beach doesn't allow them during peak hours, but there are designated dog-friendly areas. The boardwalk area has some dog-friendly patios, and it's a good base if you want to explore the surrounding towns.
 
 Honestly, I usually skip Daytona proper and head to NSB or Flagler instead. But if you're in the area, it's worth a stop.
 
@@ -87,7 +87,7 @@ Honestly, I usually skip Daytona proper and head to NSB or Flagler instead. But 
 
 ## The Bottom Line
 
-All of these are easy drives from Jacksonville and make great trips with your dog. Pack a travel bag, book a pet-friendly hotel (on points, of course), and go explore.
+All of these are easy drives from Jacksonville and make great trips with your dog. Pack a travel bag, book a dog-friendly hotel (on points, of course), and go explore.
 
 **Want more posts about the places we eat and stay?** [Shoot me an email](mailto:woof@thepointspup.com) and let me know what you'd like to see.
 

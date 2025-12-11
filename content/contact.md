@@ -18,7 +18,7 @@ I do my best to respond within a few days. If you're asking about a specific hot
 
 **"Can you review [hotel/destination]?"**
 
-Always open to suggestions. If it's pet-friendly and accessible by road trip from Jacksonville, it's probably on my list already — but I'm happy to bump it up.
+Always open to suggestions. If it's dog-friendly and accessible by road trip from Jacksonville, it's probably on my list already — but I'm happy to bump it up.
 
 **"What credit card should I get?"**
 
@@ -26,7 +26,7 @@ Honestly? It depends. How often do you travel, which hotel brands do you like, a
 
 **"Can I send you free stuff?"**
 
-If it's relevant to pet travel — gear, products, hotel stays — I'm open to it. Reach out and let's talk. Just know that I only feature things I'd actually use with Ansel.
+If it's relevant to dog travel — gear, products, hotel stays — I'm open to it. Reach out and let's talk. Just know that I only feature things I'd actually use with Ansel.
 
 ---
 

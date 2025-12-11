@@ -10,7 +10,7 @@ tags:
   - Hotels
 ---
 
-When you're traveling with a small dog, finding pet-friendly hotels is pretty straightforward. But once your pup crosses that 50-pound threshold? Suddenly half your options disappear.
+When you're traveling with a small dog, finding dog-friendly hotels is pretty straightforward. But once your pup crosses that 50-pound threshold? Suddenly half your options disappear.
 
 I travel with Ansel, my 70-pound German Shorthaired Pointer/Lab mix. He's a lanky, well-behaved sweetheart—but on paper, he's "too big" for a lot of hotels. If you're in the same boat with your large dog, here's everything I've learned about navigating hotel weight limits.
 
@@ -87,7 +87,7 @@ Since I focus a lot on Hilton for points travel, here's the reality: most Hilton
 
 **Always call the specific property** before booking. The website might say 50 pounds, but the front desk often has discretion—especially for well-behaved dogs.
 
-If you're earning Hilton points for pet travel, check out my [Hilton credit card quiz](/posts/hilton-credit-card-quiz/) to find the right card for your travel style.
+If you're earning Hilton points for dog travel, check out my [Hilton credit card quiz](/posts/hilton-credit-card-quiz/) to find the right card for your travel style.
 
 ## Tips for When Your Dog Exceeds the Limit
 
@@ -140,4 +140,4 @@ Your big dog deserves adventures too. Don't let arbitrary weight limits keep you
 
 *Have a favorite hotel chain for large dogs? I'd love to hear about it— see my [contact page](/contact/) to reach out.*
 
-**Read next:** [Hotel Pet Policy Finder](/posts/hotel-pet-policy-finder/) | [Why Hilton Is the Best Hotel Chain for Pet Travelers](/posts/why-hilton-for-pet-travelers/) | [How to Book Kimpton Free with Points](/posts/kimpton-points-guide/)
+**Read next:** [Hotel Dog Policy Finder](/posts/hotel-pet-policy-finder/) | [Why Hilton Is the Best Hotel Chain for Dog Travelers](/posts/why-hilton-for-pet-travelers/) | [How to Book Kimpton Free with Points](/posts/kimpton-points-guide/)

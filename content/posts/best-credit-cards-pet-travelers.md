@@ -1,5 +1,5 @@
 ---
-title: "Best Credit Cards for Pet Travelers (2025)"
+title: "Best Credit Cards for Dog Travelers (2025)"
 description: "The cards I use to travel free with my dog — including sign-up bonuses and how the fees pay for themselves."
 date: 2025-12-02
 weight: 1
@@ -15,7 +15,7 @@ tags:
 
 If you travel with your dog and aren't using hotel credit cards, you're leaving money on the table. Pet fees, room rates, and all those extras add up fast — but the right cards can offset most of it with points, free nights, and elite status perks.
 
-Here's what I use and recommend for pet travelers.
+Here's what I use and recommend for dog travelers.
 
 {{< affiliate-disclosure >}}
 
@@ -31,9 +31,9 @@ Here's what I use and recommend for pet travelers.
 
 ---
 
-## Why Hotel Cards Make Sense for Pet Owners
+## Why Hotel Cards Make Sense for Dog Owners
 
-Most pet-friendly hotels charge $50–$150 per stay in pet fees. You can't avoid those (yet), but you *can* make the room itself free by booking with points. And with elite status, you get perks like room upgrades, late checkout, and free breakfast — all of which make traveling with a dog way easier.
+Most dog-friendly hotels charge $50–$150 per stay in pet fees. You can't avoid those (yet), but you *can* make the room itself free by booking with points. And with elite status, you get perks like room upgrades, late checkout, and free breakfast — all of which make traveling with a dog way easier.
 
 I haven't paid for a hotel room in years. I use Hilton points from my credit cards, and the free night certificates cover the rest.
 
@@ -85,7 +85,7 @@ Even if you only use half of these, you're coming out ahead.
 
 ### 🥇 Hilton Honors American Express Surpass
 
-**The sweet spot for most pet travelers.**
+**The sweet spot for most dog travelers.**
 
 | | |
 |---|---|
@@ -246,7 +246,7 @@ That sign-up bonus is huge — 3 free nights at properties up to 50,000 points e
 
 The free night certificate alone is worth at least double the annual fee at most Marriott properties. You can also top it off with up to 15,000 additional points to book nicer hotels.
 
-Marriott's pet policies vary more by property than Hilton's, so always check before booking. Some Marriott brands (like Residence Inn and TownePlace Suites) tend to be more consistently pet-friendly.
+Marriott's pet policies vary more by property than Hilton's, so always check before booking. Some Marriott brands (like Residence Inn and TownePlace Suites) tend to be more consistently dog-friendly.
 
 ---
 
@@ -292,7 +292,7 @@ I still paid the $125 pet fee (5+ nights), but that's a lot easier to stomach wh
 
 ## The Bottom Line
 
-Pet travel gets expensive fast. The right credit cards won't eliminate pet fees, but they can make the room free — and that's a huge win. 
+Dog travel gets expensive fast. The right credit cards won't eliminate pet fees, but they can make the room free — and that's a huge win. 
 
 The annual fees on these cards look scary at first, but once you factor in the credits and free nights, most of them pay you back more than you put in. Start with whichever card fits your budget and travel frequency, and build from there.
 
@@ -302,4 +302,4 @@ I've been running this setup for years, and it's saved me thousands. If you're r
 
 *Questions about which card is right for you? [Reach out](/contact) — happy to help.*
 
-**Read next:** [Quiz: Which Hilton Credit Card Is Best for Dog Travelers?](/posts/hilton-credit-card-quiz/) | [Why Hilton for Pet Travelers](/posts/why-hilton-for-pet-travelers/) | [How to Book Kimpton Free with Points](/posts/kimpton-points-guide/)
+**Read next:** [Quiz: Which Hilton Credit Card Is Best for Dog Travelers?](/posts/hilton-credit-card-quiz/) | [Why Hilton for Dog Travelers](/posts/why-hilton-for-pet-travelers/) | [How to Book Kimpton Free with Points](/posts/kimpton-points-guide/)
