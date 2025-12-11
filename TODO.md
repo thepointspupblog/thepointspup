@@ -22,7 +22,7 @@
 - [x] Leave Your Pawprint submission page
 - [x] Start Here page (updated with Who This Is For, prominent PDF CTA, jump links)
 
-### Posts Complete (14 total) ✅
+### Posts Complete (16 total) ✅
 1. [x] Panama City Beach Embassy Suites Review
 2. [x] Road Trip Essentials for Dogs
 3. [x] Best Credit Cards for Pet Travelers (2025)
@@ -37,6 +37,8 @@
 12. [x] Hotel Pet Policy Finder (interactive tool)
 13. [x] IHG Pet Policy Guide: Why Kimpton Is the Best Chain for Large Dogs
 14. [x] Best Credit Card Bonuses for Pet Travelers (December 2025)
+15. [x] Hilton Pet Policy 2025 (SEO-focused, targets "Hilton pet policy" searches)
+16. [x] Kimpton Pet Policy 2025 (SEO-focused, targets "Kimpton pet policy" searches)
 
 ### Styling Complete ✅
 - [x] Custom SCSS (earthy colors, dark mode removed)
@@ -45,6 +47,7 @@
 - [x] Footer customized and font size reduced
 - [x] Mobile responsive
 - [x] Favicon and logo created
+- [x] Category landing page styles (green section headers, card-style links)
 
 ### Site Organization ✅
 - [x] Categories: Guides, Credit Cards, Trip Reports, Tools
@@ -59,6 +62,17 @@
 - [x] Main quiz featured on homepage (all hotel cards)
 - [x] Free Guide added to main navigation
 - [x] Pawprints added to main navigation
+- [x] Category landing pages (curated Guides, Credit Cards, Trip Reports, Tools pages)
+
+### Category Landing Pages ✅
+- [x] Custom layout template (layouts/categories/category-landing.html)
+- [x] Guides landing page — organized by topic (Start Here, Hotel Policies, Hilton, IHG, Road Trips, Tools)
+- [x] Credit Cards landing page — organized by card type with comparison tables
+- [x] Trip Reports landing page — with Pawprints CTA
+- [x] Tools landing page — quizzes and policy finder highlighted
+- [x] Right sidebar included (search, categories, tags)
+- [x] Green section headers for visual hierarchy
+- [x] Card-style link lists with hover effects
 
 ### Interactive Tools ✅
 - [x] Hilton Credit Card Quiz (7 questions, 4 card results)
@@ -93,6 +107,7 @@
 - [x] Best Credit Cards post updated with IHG/Chase section
 - [x] Free Guide callout added to Start Here page
 - [x] December bonuses post links to quiz and Start Here
+- [x] New SEO posts link to quizzes, guides, and credit card content
 
 ### Deployment ✅
 - [x] Configure GitHub Actions Hugo workflow
@@ -123,6 +138,7 @@
 - [x] Social sharing image (og-default.jpg)
 - [x] Custom 404 page
 - [x] Page speed check (84 mobile score)
+- [x] SEO-focused posts created (Hilton Pet Policy, Kimpton Pet Policy)
 
 ### Outreach Prep ✅
 - [x] Pitch email templates created (points blogs, pet blogs, collaboration)
@@ -159,11 +175,6 @@
 ---
 
 ## Phase 3: Growth (In Progress)
-
-### SEO-Focused Content (In Progress)
-- [ ] Hilton Pet Policy 2025 (dedicated post targeting search)
-- [ ] Kimpton Pet Policy (dedicated post targeting search)
-- [ ] Category landing pages (curated Guides, Credit Cards pages)
 
 ### Outreach
 - [ ] Send 3-5 pitch emails to points/travel blogs
