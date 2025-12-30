@@ -11,6 +11,7 @@ These are real trips I've taken with Ansel, my 70-lb GSP/Lab mix. Each report co
 ### 🏖️ Florida Trips
 
 - **[Panama City Beach: Embassy Suites Review](/posts/pcb-embassy-suites-review/)** — 5 nights at Embassy Suites, booked entirely on Hilton points. Ocean-view suite upgrade, Dog Beach access, and Pier Park right next door. Pet fee: $125 for 5+ nights.
+- **[A Day Trip for Jacksonville Locals - Fernandina Beach](/posts/fernandina-beach-dog-guide/)** — Weekend getaway with everything you need to know about traveling with your dog in Amelia Island, Florida
 
 ### 📍 Coming Soon
 
