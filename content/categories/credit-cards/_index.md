@@ -26,6 +26,7 @@ Full breakdowns of every card worth considering:
 
 - **[Best Credit Cards for Pet Travelers (2025)](/posts/best-credit-cards-pet-travelers/)** — Complete comparison of Hilton, IHG, Marriott, and Chase cards
 - **[Best Credit Card Bonuses (December 2025)](/posts/december-2025-credit-card-bonuses/)** — This month's best sign-up offers
+- **[Hotel Card Bonuses Expiring Soon](/posts/credit-card-bonuses-expiring-jan-2026/)** — Hilton, IHG, Marriott & Chase bonuses compared
 
 ### 💎 Hilton Cards
 
