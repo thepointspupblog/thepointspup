@@ -19,7 +19,7 @@ Not because points aren't valuable — they absolutely are. I haven't paid for a
 
 The points are only free if you never pay a cent in interest. Period.
 
-If you can commit to that, this guide will show you exactly how to do it right. We'll use the [Hilton Surpass bonus (expiring January 14th)](/posts/hilton-amex-bonuses-expiring-january-2026/) as our working example, but these principles apply to any card.
+If you can commit to that, this guide will show you exactly how to do it right. We'll use the [Hilton Surpass bonus (expiring January 14th)](/posts/credit-card-bonuses-expiring-january-2026/) as our working example, but these principles apply to any card.
 
 {{< affiliate-disclosure >}}
 
@@ -262,4 +262,4 @@ If you're unsure whether a sign-up bonus is right for your situation, I'm happy 
 
 ---
 
-**Read next:** [Hotel Credit Card Bonuses Expiring January 14th](/posts/hilton-amex-bonuses-expiring-january-2026/) | [Best Credit Cards for Dog Travelers (2025)](/posts/best-credit-cards-pet-travelers/) | [Start Here: Credit Card Points for Dog Travel](/start-here/)
+**Read next:** [Hotel Credit Card Bonuses Expiring January 14th](/posts/credit-card-bonuses-expiring-january-2026/) | [Best Credit Cards for Dog Travelers (2025)](/posts/best-credit-cards-pet-travelers/) | [Start Here: Credit Card Points for Dog Travel](/start-here/)
