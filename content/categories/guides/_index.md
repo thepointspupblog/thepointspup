@@ -9,11 +9,10 @@ layout: "category-landing"
 These guides cover everything from choosing the right hotel chain to earning enough points for free stays. Start wherever makes sense for you.
 
 ### 🚀 Start Here
-
 New to points travel? Start with these:
-
 - **[Start Here](/start-here/)** — The complete step-by-step path for beginners
 - **[Free Guide (PDF)](/free-guide/)** — Download my 4-page quickstart guide
+- **[How to Spend Responsibly for Points](/posts/responsible-credit-card-spending-for-points/)** — Earn sign-up bonuses without paying interest
 
 ### 🏨 Hotel Pet Policies
 
