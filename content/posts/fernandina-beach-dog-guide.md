@@ -12,7 +12,7 @@ tags:
   - Amelia Island
 ---
 
-I mentioned Amelia Island in my [beach towns roundup](/posts/best-dog-friendly-beach-towns-jacksonville), but it deserves its own post. Fernandina Beach has become my default day trip with Ansel — close enough to be spontaneous, dog-friendly enough that I never have to check policies, and charming enough that it never feels routine.
+Fernandina Beach (also known as Amelia Island) has become my default day trip with Ansel — close enough to be spontaneous, dog-friendly enough that I never have to check policies, and charming enough that it never feels routine.
 
 Here's everything I've learned from our many trips up A1A.
 
