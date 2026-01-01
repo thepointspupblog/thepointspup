@@ -21,6 +21,7 @@ Know before you book — weight limits, fees, and what to expect:
 - **[Hilton Pet Policy 2025](/posts/hilton-pet-policy-2025/)** — Fees, weight limits & tips for every Hilton brand
 - **[Kimpton Pet Policy 2025](/posts/kimpton-pet-policy-2025/)** — No fees, no weight limits, no restrictions
 - **[IHG Pet Policy Guide](/posts/ihg-kimpton-pet-travel-guide/)** — Full breakdown of IHG brands including Kimpton
+- **[Marriot Pet Policy 2025](/posts/marriott-pet-policy-2025/)** — Fees by brand, weight limits, which brands are most dog-friendly, and how to book free stays
 - **[Traveling with a Large Dog](/posts/traveling-with-large-dogs-hotel-policies/)** — Hotel options when your dog is 50+ lbs
 - **[Hotel Pet Policy Finder](/posts/hotel-pet-policy-finder/)** — Interactive tool to check any chain
 
