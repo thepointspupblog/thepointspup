@@ -19,13 +19,13 @@ The Sunshine State has more dog-friendly hotels than almost anywhere, but qualit
 | City | Best Hotel | Pet Fee | Book Free With |
 |------|------------|---------|----------------|
 | [Orlando](/posts/dog-friendly-hotel-orlando/) | Home2 Suites Flamingo Crossings | $75-125 | Hilton points |
+| [St. Augustine](/posts/dog-friendly-hotel-st-augustine/) | Hilton Garden Inn | $50-75 | Hilton points |
+| [Panama City Beach](/posts/dog-friendly-hotel-panama-city-beach/) | Embassy Suites | $75-125 | Hilton points |
 | Tampa | *Coming soon* | — | — |
 | Miami | *Coming soon* | — | — |
-| Panama City Beach | *Coming soon* | — | — |
 | Key West | *Coming soon* | — | — |
 | Destin | *Coming soon* | — | — |
 | Naples | *Coming soon* | — | — |
-| St. Augustine | *Coming soon* | — | — |
 
 *More cities added regularly.*
 
@@ -49,7 +49,7 @@ I'm starting with Florida because I live here and can actually visit these place
 - North Carolina (Asheville, Charlotte)
 - Tennessee (Nashville)
 
-Have you stayed at any of these locations? [Leave your pawprint](/page/leave-your-pawprint/) and let me know.
+Traveled with your dog to any of these cities? [Leave your pawprint](/page/leave-your-pawprint/) and let me know.
 
 ---
 
