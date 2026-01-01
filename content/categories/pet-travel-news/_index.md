@@ -27,4 +27,4 @@ When hotels update their pet policies, I'll cover it here:
 
 ---
 
-*Want to know when something changes? [Leave your pawprint](/page/leave-your-pawprint/) and I'll keep you in the loop.*
+*Have questions about planning your first dog-friendly trip? [Reach out](/contact/) — happy to help.*
