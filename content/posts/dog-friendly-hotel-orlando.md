@@ -1,7 +1,7 @@
 ---
 title: "The Best Dog-Friendly Hotel in Orlando (And How to Book It Free)"
 description: "After a reader request, I researched the best dog-friendly hotel near Disney that you can book with points. Here's my pick."
-date: 2026-01-02
+date: 2026-01-01
 categories:
   - Destinations
 tags:
