@@ -1,7 +1,7 @@
 ---
 title: "The Best Dog-Friendly Hotel in St. Augustine (And How to Book It Free)"
 description: "My favorite Florida day trip is even better as an overnight. Here's where to stay with your dog in the nation's oldest city."
-date: 2026-01-03
+date: 2026-01-01
 categories:
   - Destinations
 tags:
