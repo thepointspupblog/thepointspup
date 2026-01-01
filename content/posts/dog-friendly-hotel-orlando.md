@@ -78,9 +78,39 @@ If you book 5 nights with points, you also get the **5th night free** — so you
 
 ---
 
+## Dog Daycare While You're at the Parks
+
+Look, I've lived in Florida my whole life. I've been to Disney more times than I can count. And the one thing that always bugged me once I got Ansel was that I couldn't bring him with me — no dogs allowed in the parks, period.
+
+So if you're spending a full day at Magic Kingdom or hopping between parks, you need a plan for your pup. Leaving them alone in the hotel room all day isn't an option (and most hotels don't allow it anyway).
+
+### Best Friends Pet Care at Walt Disney World
+
+This is the official Disney option — a 50,000 square foot facility right on Disney property, across from Port Orleans Riverside. I've driven past it a hundred times before I ever had a reason to care about it.
+
+| | |
+|---|---|
+| **Address** | 2510 Bonnet Creek Parkway, Lake Buena Vista |
+| **Distance from Home2 Suites** | ~15 minutes |
+| **Hours** | Opens 1 hour before parks, closes 1 hour after |
+| **Daycare** | Starting around $30-45/day |
+| **Reservations** | Recommended — call (407) 209-3126 |
+
+They offer daycare, overnight boarding, grooming, and even "Vacation Villas" with webcams so you can check on your dog from your phone. Dogs must be current on Rabies, DHPP, and Bordetella — bring written proof from your vet.
+
+**The convenience factor is huge.** You can drop off your dog in the morning, spend all day at Magic Kingdom, and pick them up after fireworks. No rushing back to the hotel mid-day, no guilt about leaving them alone.
+
+### Other Options
+
+**PetSuites Winter Garden** — About 10 minutes from Flamingo Crossings. Chain facility with daycare and boarding.
+
+**Hugs and Whiskers (Winter Garden)** — Smaller, more personalized option if your dog doesn't do well in big facilities.
+
+---
+
 ## What's Nearby for Dogs
 
-Orlando isn't exactly a "dog destination" — you can't bring your pup into the theme parks — but there's still plenty to do:
+On your non-park days (or if you're like me and you've done Disney enough times that you'd rather just hang out), there's still plenty to do with your dog:
 
 ### Dog Parks
 
