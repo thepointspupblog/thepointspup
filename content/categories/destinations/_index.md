@@ -33,12 +33,12 @@ The Sunshine State has more dog-friendly hotels than almost anywhere, but qualit
 
 ### 🍑 GEORGIA
 
-The Peach State has some of the most dog-friendly cities in the Southeast. Just watch out for beach restrictions.
+The Peach State has some of the most dog-friendly cities in the Southeast. Kimpton properties make Atlanta a standout.
 
 | City | Best Hotel | Pet Fee | Book Free With |
 |------|------------|---------|----------------|
 | [Savannah](/posts/dog-friendly-hotel-savannah/) | Kimpton Brice Hotel | None | IHG points |
-| Atlanta | *Coming soon* | — | — |
+| [Atlanta](/posts/dog-friendly-hotel-atlanta/) | Kimpton Sylvan Hotel | None | IHG points |
 
 *More cities added regularly.*
 
