@@ -268,9 +268,9 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
 // ===========================================
-// GLOBAL HEADING OVERRIDE - REMOVE ALL BORDERS
+// FORCE REMOVE STACK THEME HEADING BORDERS
 // ===========================================
-// Ultra-specific selectors to override Stack theme
+h2, h3, h4, h5, h6,
 .article-content h2,
 .article-content h3,
 .article-content h4,
@@ -279,129 +279,133 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 .article-page .article-content h2,
 .article-page .article-content h3,
 .article-page .article-content h4,
-main .article-content h2,
-main .article-content h3,
-main .article-content h4,
-section.main h2,
-section.main h3,
-section.main h4 {
-    border: none !important;
-    border-left: none !important;
-    border-bottom: none !important;
+.article-page h2,
+.article-page h3,
+.article-page h4,
+main h2, main h3, main h4,
+section h2, section h3, section h4,
+article h2, article h3, article h4 {
+    border: 0 none !important;
+    border-left: 0 none !important;
+    border-right: 0 none !important;
+    border-top: 0 none !important;
+    border-bottom: 0 none !important;
     padding-left: 0 !important;
     margin-left: 0 !important;
+    box-shadow: none !important;
 }
 
 // ===========================================
-// ARTICLE CONTENT STYLING
+// ARTICLE CONTENT - MAIN STYLING
 // ===========================================
 .article-content {
-    // h2 - Section headers with background
+    // h2 - Main section header - HIGH CONTRAST CARD
     h2 {
-        color: $brand-primary !important;
-        font-size: 1.4rem;
-        margin-top: 2.5rem;
-        margin-bottom: 1rem;
-        padding: 0.75rem 1rem !important;
-        background: rgba($brand-primary, 0.08);
-        border-radius: 8px;
+        color: white !important;
+        font-size: 1.3rem !important;
+        font-weight: 600 !important;
+        margin-top: 2rem !important;
+        margin-bottom: 1rem !important;
+        padding: 1rem 1.25rem !important;
+        background: $brand-primary !important;
+        border-radius: 10px !important;
     }
 
-    // h3 - Subsection headers
+    // h3 - Subsection header - CARD STYLE WITH CONTRAST
     h3 {
-        color: $brand-dark !important;
-        font-size: 1.15rem;
-        margin-top: 2rem;
-        margin-bottom: 0.75rem;
-        padding: 0.5rem 0 !important;
-        border-bottom: 2px solid rgba($brand-primary, 0.15) !important;
+        color: $brand-primary !important;
+        font-size: 1.1rem !important;
+        font-weight: 600 !important;
+        margin-top: 1.75rem !important;
+        margin-bottom: 0.75rem !important;
+        padding: 0.875rem 1rem !important;
+        background: #f5f5f5 !important;
+        border-left: 4px solid $brand-primary !important;
+        border-radius: 0 8px 8px 0 !important;
     }
 
-    // h4 - Minor headers
+    // h4 - Minor header
     h4 {
-        color: #444 !important;
-        font-size: 1rem;
-        margin-top: 1.5rem;
+        color: $brand-dark !important;
+        font-size: 1rem !important;
+        font-weight: 600 !important;
+        margin-top: 1.5rem !important;
+        margin-bottom: 0.5rem !important;
+        padding: 0 !important;
+        background: transparent !important;
     }
 
-    // Horizontal rules
+    // Horizontal rules - subtle separator
     hr {
-        border: none !important;
-        height: 1px;
-        background: #e0e0e0;
-        margin: 2rem 0;
+        border: 0 none !important;
+        height: 2px !important;
+        background: linear-gradient(to right, $brand-primary, #e0e0e0, transparent) !important;
+        margin: 2.5rem 0 !important;
     }
 
     // Blockquotes
     blockquote {
+        border: 0 none !important;
         border-left: 4px solid $brand-secondary !important;
-        background: $brand-light;
-        padding: 1rem 1.5rem;
-        margin: 1.5rem 0;
-        border-radius: 0 8px 8px 0;
+        background: $brand-light !important;
+        padding: 1rem 1.5rem !important;
+        margin: 1.5rem 0 !important;
+        border-radius: 0 8px 8px 0 !important;
 
         p {
             margin: 0;
         }
     }
 
-    // Lists - better spacing
+    // Lists - clean spacing
     ul, ol {
         margin: 1rem 0;
         padding-left: 1.5rem;
 
         li {
-            margin-bottom: 0.5rem;
-            line-height: 1.6;
+            margin-bottom: 0.625rem;
+            line-height: 1.65;
+            padding-left: 0.25rem;
         }
     }
 
     // Inline code
     code:not([class*="language-"]) {
         background: $brand-light;
-        padding: 0.2rem 0.4rem;
+        padding: 0.2rem 0.5rem;
         border-radius: 4px;
-        font-size: 0.9em;
+        font-size: 0.88em;
         color: $brand-primary;
+        font-weight: 500;
     }
 
-    // Links in content
+    // Links
     a {
         color: $brand-primary;
         text-decoration: underline;
-        text-decoration-color: rgba($brand-primary, 0.3);
-        text-underline-offset: 2px;
+        text-decoration-color: rgba($brand-primary, 0.4);
+        text-underline-offset: 3px;
         transition: all 0.2s ease;
 
         &:hover {
             text-decoration-color: $brand-primary;
+            color: darken($brand-primary, 10%);
         }
     }
-}
 
-// ===========================================
-// CATEGORY LANDING PAGE SECTIONS
-// ===========================================
-// Style sections as cards on category pages
-.article-content > h3 {
-    background: white;
-    padding: 0.75rem 1rem !important;
-    margin-top: 2rem;
-    border: 1px solid #e8e4df !important;
-    border-bottom: 2px solid $brand-primary !important;
-    border-radius: 8px 8px 0 0;
-}
+    // First paragraph - intro styling
+    > p:first-of-type {
+        font-size: 1.1rem;
+        color: #444;
+        line-height: 1.75;
+        margin-bottom: 1.5rem;
+    }
 
-// Content sections after h3 get a subtle background
-.article-content > h3 + ul,
-.article-content > h3 + p,
-.article-content > h3 + table {
-    background: #fafafa;
-    padding: 1rem;
-    margin-top: 0;
-    border: 1px solid #e8e4df;
-    border-top: none;
-    border-radius: 0 0 8px 8px;
+    // Strong text
+    strong {
+        color: $brand-dark;
+        font-weight: 600;
+    }
 }
 
 // ===========================================
@@ -435,13 +439,18 @@ section.main h4 {
 }
 
 // ===========================================
-// SPECIFIC PAGE TYPE STYLING
+// NOTE/CALLOUT BOXES
 // ===========================================
-// Category pages - intro paragraph styling
-.article-content > p:first-of-type {
-    font-size: 1.05rem;
-    color: #555;
-    line-height: 1.7;
+.article-content p:has(strong:first-child) {
+    background: #f8f9fa;
+    padding: 0.875rem 1rem;
+    border-radius: 6px;
+    border-left: 3px solid #dee2e6;
+}
+
+// Style "Note:" and "Important:" callouts
+.article-content p strong:first-child {
+    color: $brand-primary;
 }
 
 // ===========================================
