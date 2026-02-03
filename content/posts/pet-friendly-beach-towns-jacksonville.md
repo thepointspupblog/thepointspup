@@ -2,6 +2,7 @@
 title: "Best Dog-Friendly Beach Towns Near Jacksonville"
 description: "Quick weekend escapes that welcome your dog — from quiet islands to boardwalk vibes."
 date: 2025-12-08
+image: "/images/restaurantjax.jpeg"
 categories:
   - Guides
 tags:

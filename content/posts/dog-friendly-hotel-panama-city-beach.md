@@ -2,6 +2,7 @@
 title: "The Best Dog-Friendly Hotel in Panama City Beach (And How to Book It Free)"
 description: "I've stayed here with Ansel. Here's the full breakdown on Embassy Suites PCB — pet policy, what to do, and how to book it on points."
 date: 2025-12-19
+image: "/images/pcb-dog-beach.jpeg"
 categories:
   - Destinations
 tags:

@@ -4,7 +4,6 @@ date: 2026-01-08
 description: "Which hotel chains let you leave your dog unattended, which don't, and how to prepare your pup for alone time in a hotel room."
 categories: ["guides"]
 tags: ["hotel tips", "pet travel", "dog travel", "hotel policies"]
-image: "/images/dog-alone-hotel-room.jpg"
 ---
 
 You're traveling with your dog and want to grab dinner at a restaurant that doesn't allow pets. Or hit the hotel pool. Or just run to the grocery store without a 70-lb shadow.

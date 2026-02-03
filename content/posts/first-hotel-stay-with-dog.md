@@ -2,6 +2,7 @@
 title: "Your First Hotel Stay With Your Dog: What to Expect (And What Could Go Wrong)"
 date: 2026-01-11
 description: "Everything you need to know before your dog's first hotel stay—from booking and packing to preventing disasters and handling problems if they happen."
+image: "/images/pcb-ansel-bed.jpeg"
 categories: ["Guides"]
 tags: ["hotel tips", "first time", "dog travel", "pet etiquette"]
 ---

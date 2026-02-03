@@ -3,6 +3,7 @@ title: "Panama City Beach with My 70-Pound Dog: Embassy Suites Review"
 description: "Honest review of Embassy Suites Panama City Beach with a large dog — what worked, what didn't, and how I stayed 5 nights free."
 date: 2025-12-04
 draft: false
+image: "/images/balcony.jpeg"
 categories:
   - Trip Reports
 series:

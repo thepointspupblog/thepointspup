@@ -4,7 +4,6 @@ date: 2026-01-05
 description: "The ultimate guide to visiting Savannah, Georgia with your dog — including the best pet-friendly hotels, restaurants with patios, and things to do (plus one important beach warning)."
 categories: ["destinations"]
 tags: ["savannah", "georgia", "dog-friendly hotels", "pet travel", "large dogs"]
-image: "/images/savannah-dog-friendly.jpg"
 ---
 
 Savannah might be the most dog-friendly city I've researched. With 22 historic squares perfect for walks, outdoor dining everywhere, and hotels that actually welcome big dogs, it's basically designed for traveling with your pup.
