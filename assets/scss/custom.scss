@@ -1,731 +1,402 @@
-// ========== BASE FONT SIZE ==========
-html {
-  font-size: 17px !important;
-}
-
-// ========== COLORS ==========
-:root {
-  --accent-color: #2d5a47;
-  --accent-color-darker: #1e3d30;
-  --card-background: #ffffff;
-  --body-background: #faf9f7;
-}
-
-body {
-  background-color: #faf9f7;
-  line-height: 1.75;
-}
-
-// ========== SIDEBAR ==========
-.site-name {
-  color: #2d5a47 !important;
-  font-size: 24px !important;
-  font-weight: 700 !important;
-}
-
-.site-description {
-  font-size: 15px !important;
-  font-style: italic;
-  color: #666;
-}
-
-.menu a {
-  font-size: 17px !important;
-  transition: all 0.2s ease;
-  border-radius: 6px;
-  padding: 8px 12px;
-}
-
-.menu a:hover {
-  color: #2d5a47 !important;
-  background-color: rgba(45, 90, 71, 0.08);
-}
-
-.site-avatar .site-logo {
-  border: none !important;
-  transition: transform 0.3s ease;
-}
-
-.site-avatar:hover .site-logo {
-  transform: scale(1.05);
-}
-
-// Hide dark mode toggle
-.dark-mode-toggle {
-  display: none !important;
-}
-
-
-// ========== POST CARDS ==========
-.article-title {
-  font-size: 22px !important;
-  font-weight: 700 !important;
-  letter-spacing: -0.3px;
-  line-height: 1.3;
-}
-
-// Card description/subtitle text
-.article-subtitle {
-  font-size: 15px !important;
-  font-weight: 400 !important;
-  color: #666 !important;
-  line-height: 1.5 !important;
-}
-
-.article-list .article-details p {
-  font-size: 14px !important;
-  color: #777;
-  line-height: 1.5;
-  font-weight: 400;
-  margin-top: 8px;
-}
-
-.article-time,
-.article-time * {
-  font-size: 13px !important;
-  color: #999;
-}
-
-.article-category a {
-  background-color: #2d5a47 !important;
-  font-weight: 600;
-  text-transform: uppercase;
-  font-size: 11px !important;
-  letter-spacing: 0.5px;
-  padding: 4px 10px;
-}
-
-.article-list .article-image {
-  display: none;
-}
-
-.article-list article {
-  transition: all 0.3s ease;
-  border-left: 3px solid transparent;
-  border-radius: 8px;
-}
-
-.article-list article:hover {
-  transform: translateX(8px);
-  border-left-color: #2d5a47;
-  box-shadow: 0 4px 20px rgba(45, 90, 71, 0.12);
-}
-
-// ========== POST CARDS ==========
-.article-title {
-  font-size: 22px !important;
-  font-weight: 700 !important;
-  letter-spacing: -0.3px;
-  line-height: 1.3;
-}
-
-.article-list .article-content p,
-.article-list article p {
-  font-size: 13px !important;
-  color: #888;
-  line-height: 1.5;
-  font-weight: 400;
-  margin-top: 6px;
-}
-
-.article-time,
-.article-time * {
-  font-size: 13px !important;
-  color: #999;
-}
-
-.article-category a {
-  background-color: #2d5a47 !important;
-  font-weight: 600;
-  text-transform: uppercase;
-  font-size: 11px !important;
-  letter-spacing: 0.5px;
-  padding: 4px 10px;
-}
-
-.article-list .article-image {
-  display: none;
-}
-
-.article-list article {
-  transition: all 0.3s ease;
-  border-left: 3px solid transparent;
-  border-radius: 8px;
-}
-
-.article-list article:hover {
-  transform: translateX(8px);
-  border-left-color: #2d5a47;
-  box-shadow: 0 4px 20px rgba(45, 90, 71, 0.12);
-}
-
-// ========== ARTICLE CONTENT ==========
-.article-content {
-  font-size: 17px !important;
-  line-height: 1.8;
-}
-
-.article-content h2 {
-  font-size: 24px !important;
-}
-
-.article-content h3 {
-  font-size: 20px !important;
-}
-
-// ========== RIGHT SIDEBAR WIDGETS ==========
-.widget {
-  background: white;
-  border-radius: 12px;
-  padding: 20px;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
-  border-top: 3px solid #2d5a47;
-}
-
-.widget-title {
-  font-size: 16px !important;
-  font-weight: 600;
-  color: #2d5a47;
-  margin-bottom: 15px;
-}
-
-.tagCloud .tagCloud-tags a {
-  background-color: #f0ebe5 !important;
-  color: #2d5a47 !important;
-  border-radius: 20px;
-  padding: 6px 14px;
-  margin: 4px;
-  font-size: 14px !important;
-  transition: all 0.2s ease;
-  display: inline-block;
-}
-
-.tagCloud .tagCloud-tags a:hover {
-  background-color: #2d5a47 !important;
-  color: white !important;
-  transform: translateY(-2px);
-}
-
-.widget .categories-list a {
-  background: #f5f3ef;
-  border-radius: 20px;
-  padding: 8px 16px;
-  margin: 4px;
-  display: inline-block;
-  transition: all 0.2s ease;
-  font-size: 15px !important;
-}
-
-.widget .categories-list a:hover {
-  background: #2d5a47;
-  color: white;
-  transform: translateY(-2px);
-}
-
-// Search box
-.search-form input {
-  border-radius: 25px;
-  border: 2px solid #e0dcd5;
-  padding: 12px 20px;
-  font-size: 15px !important;
-  transition: all 0.3s ease;
-}
-
-.search-form input:focus {
-  border-color: #2d5a47;
-  outline: none;
-  box-shadow: 0 0 0 3px rgba(45, 90, 71, 0.1);
-}
-
-// ========== TABLES ==========
-table {
-  border-radius: 8px;
-  overflow: hidden;
-}
-
-table th {
-  background-color: #2d5a47;
-  color: white;
-  font-weight: 600;
-  padding: 12px;
-  font-size: 15px !important;
-}
-
-table td {
-  padding: 10px 12px;
-  font-size: 15px !important;
-}
-
-table tr:nth-child(even) {
-  background-color: #f5f3ef;
-}
-
-// ========== LINKS ==========
-.article-content a {
-  color: #2d5a47;
-  text-decoration: underline;
-  text-underline-offset: 3px;
-}
-
-.article-content a:hover {
-  color: #1e3d30;
-}
-
-// ========== BLOCKQUOTES ==========
-blockquote {
-  border-left: 4px solid #2d5a47;
-  background: #f5f3ef;
-  padding: 15px 20px;
-  border-radius: 0 8px 8px 0;
-  font-style: italic;
-}
-
-// Fix search label overlap on search page only
-.template-search .search-form label {
-  display: none !important;
-}
-
-// ========== FOOTER ==========
-footer,
-footer *,
-.site-footer,
-.site-footer *,
-.copyright,
-.copyright * {
-  font-size: 13px !important;
-  line-height: 1.6;
-}
-
-// ========== HOMEPAGE INTRO ==========
-.homepage-intro {
-  background: white;
-  border-radius: 12px;
-  padding: 28px 32px;
-  margin-bottom: 24px;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
-  border-left: 4px solid #2d5a47;
-}
-
-.homepage-intro h2 {
-  font-size: 22px;
-  margin: 0 0 12px 0;
-  color: #2d3d2f;
-}
-
-.homepage-intro p {
-  font-size: 16px;
-  line-height: 1.6;
-  color: #555;
-  margin: 0 0 16px 0;
-}
-
-.homepage-intro .intro-link {
-  color: #2d5a47;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.homepage-intro .intro-link:hover {
-  text-decoration: underline;
-}
-
-.featured-section {
-  background: #f9f6f1;
-  border: 2px solid #2d5a47;
-  border-radius: 12px;
-  padding: 1.5rem;
-  margin: 2rem 0;
-  text-align: center;
-}
-
-.featured-section h3 {
-  margin-top: 0;
-  color: #2d5a47;
-}
-
-.quiz-button {
-  display: inline-block;
-  background: #2d5a47;
-  color: white;
-  padding: 0.75rem 1.5rem;
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: 600;
-  margin-top: 0.5rem;
-}
-
-.quiz-button:hover {
-  background: #234a39;
-  color: white;
-}
-
-.footer-nav {
-  margin-top: 0.5rem;
-}
-
-.footer-nav a {
-  color: #666;
-  font-size: 0.85rem;
-  margin: 0 0.5rem;
-  text-decoration: none;
-}
-
-.footer-nav a:hover {
-  color: #2d5a47;
-}
-
-.section-label {
-  color: #2d5a47;
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 2px solid #e8e4df;
-}
-
-.article-list article:first-child {
-  position: relative;
-}
-
-.article-list article:first-child::before {
-  content: "📌 Featured";
-  position: absolute;
-  top: 12px;
-  right: 12px;
-  background: #2d5a47;
-  color: white;
-  font-size: 0.75rem;
-  font-weight: 600;
-  padding: 4px 10px;
-  border-radius: 4px;
-  z-index: 10;
-}
-
-.error-page {
-  text-align: center;
-  padding: 4rem 2rem;
-}
-
-.error-page h1 {
-  font-size: 6rem;
-  color: #2d5a47;
-  margin: 0;
-}
-
-.error-page p {
-  font-size: 1.25rem;
-  color: #666;
-  margin: 1rem 0;
-}
-
-.error-links {
-  margin-top: 2rem;
-  display: flex;
-  gap: 1rem;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.error-links a {
-  background: #2d5a47;
-  color: white;
-  padding: 0.75rem 1.5rem;
-  border-radius: 8px;
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.error-links a:hover {
-  background: #234a39;
-}
-
-.posts-archive {
-  max-width: 800px;
-}
-
-.posts-archive h1 {
-  color: #2d5a47;
-  margin-bottom: 0.5rem;
-}
-
-.archive-description {
-  color: #666;
-  margin-bottom: 2rem;
-}
-
-.posts-list {
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-}
-
-.post-item {
-  padding: 1.5rem;
-  background: #fff;
-  border-radius: 12px;
-  border: 1px solid #e8e4df;
-}
-
-.post-item:hover {
-  border-color: #2d5a47;
-}
-
-.post-category {
-  font-size: 0.75rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  color: #2d5a47;
-  background: #e8f5e9;
-  padding: 4px 8px;
-  border-radius: 4px;
-}
-
-.post-item h2 {
-  margin: 0.75rem 0 0.5rem;
-  font-size: 1.25rem;
-}
-
-.post-item h2 a {
-  color: #333;
-  text-decoration: none;
-}
-
-.post-item h2 a:hover {
-  color: #2d5a47;
-}
-
-.post-description {
-  color: #666;
-  font-size: 0.95rem;
-  margin: 0 0 0.5rem;
-}
-
-.post-item time {
-  font-size: 0.85rem;
-  color: #999;
-}
-
-#pet-policy-finder select {
-  width: 100%;
-  padding: 0.75rem;
-  font-size: 1rem;
-  border: 2px solid #2d5a47;
-  border-radius: 8px;
-  margin-top: 0.5rem;
-  background: white;
-  cursor: pointer;
-}
-
-#pet-policy-finder select:focus {
-  outline: none;
-  border-color: #234a39;
-}
-
-// ========== CATEGORY LANDING PAGES ==========
-.category-landing {
-  max-width: 800px;
-}
-
-.category-landing .category-header {
-  margin-bottom: 2rem;
-}
-
-.category-landing .category-header h1 {
-  color: #2d5a47;
-  font-size: 2rem;
-  margin-bottom: 0.75rem;
-}
-
-.category-landing .category-description {
-  font-size: 1.1rem;
-  color: #555;
-  margin: 0;
-  padding-bottom: 1.5rem;
-  border-bottom: 3px solid #2d5a47;
-}
-
-// Main intro heading (h2)
-.category-landing .category-content h2 {
-  color: #2d5a47;
-  font-size: 1.5rem;
-  font-weight: 700;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  border: none !important;
-}
-
-// Section headers (h3) - make these stand out
-.category-landing .category-content h3 {
-  font-size: 1rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  color: #ffffff;
-  background: #2d5a47;
-  padding: 10px 16px;
-  border-radius: 6px;
-  border: none !important;
-}
-
-.category-landing .category-content > p {
-  color: #444;
-  line-height: 1.7;
-}
-
-.category-landing .category-content ul {
-  list-style: none;
-  padding-left: 0;
-  margin: 0.75rem 0 1.5rem 0;
-}
-
-.category-landing .category-content ul li {
-  padding: 12px 16px;
-  margin-bottom: 8px;
-  background: #ffffff;
-  border-radius: 8px;
-  border: 1px solid #e0dcd5;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
-  transition: all 0.2s ease;
-}
-
-.category-landing .category-content ul li:hover {
-  border-color: #2d5a47;
-  box-shadow: 0 2px 8px rgba(45, 90, 71, 0.12);
-  transform: translateX(4px);
-}
-
-.category-landing .category-content ul li a {
-  color: #2d5a47;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.category-landing .category-content ul li a:hover {
-  text-decoration: underline;
-}
-
-.category-landing .category-content table {
-  width: 100%;
-  margin: 1rem 0;
-}
-
-.category-landing .category-content hr {
-  border: none;
-  border-top: 1px solid #e8e4df;
-  margin: 2rem 0;
-}
-
-// ========== MOBILE RESPONSIVE ==========
-@media (max-width: 768px) {
-  html {
-    font-size: 16px !important;
-  }
-  
-  .site-name {
-    font-size: 20px !important;
-  }
-  
-  .article-title {
-    font-size: 19px !important;
-  }
-  
-  .menu a {
-    font-size: 16px !important;
-  }
-}
-
-// ========== MOBILE: SHOW SIDEBAR WIDGETS ==========
-@media (max-width: 1024px) {
-  // Make the right sidebar visible on mobile (shows below content)
-  .sidebar.right-sidebar,
-  aside.sidebar {
-    display: block !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    order: 2;
-    margin-top: 2rem;
-    padding: 0 1rem;
-  }
-  
-  // Stack the widgets nicely
-  .sidebar.right-sidebar .widget,
-  aside.sidebar .widget {
-    margin-bottom: 1.5rem;
-  }
-  
-  // Make category/tag pills wrap nicely on mobile
-  .widget .categories-list,
-  .tagCloud .tagCloud-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-  }
-  
-  .widget .categories-list a,
-  .tagCloud .tagCloud-tags a {
-    margin: 0 !important;
-  }
-}
-
-// ========== CATEGORY BAR (add this to your existing custom.scss) ==========
-.category-bar {
-  background: white;
-  border-radius: 12px;
-  padding: 24px 28px;
-  margin-bottom: 24px;
-  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
-  text-align: center;
-}
-
-.category-bar h3 {
-  font-size: 14px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  color: #888;
-  margin: 0 0 16px 0;
-}
-
-.category-pills {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  justify-content: center;
-}
-
-.category-pill {
-  display: inline-block;
-  background: #f5f3ef;
-  color: #2d5a47;
-  padding: 10px 18px;
-  border-radius: 25px;
-  text-decoration: none;
-  font-weight: 600;
-  font-size: 15px;
-  transition: all 0.2s ease;
-  border: 2px solid transparent;
-}
-
-.category-pill:hover {
-  background: #2d5a47;
-  color: white;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(45, 90, 71, 0.25);
-}
-
-// Mobile: stack pills vertically if needed
-@media (max-width: 480px) {
-  .category-pills {
-    flex-direction: column;
-    gap: 8px;
-  }
-  
-  .category-pill {
+/* ThePointsPup Custom Styles */
+
+// ===========================================
+// VARIABLES
+// ===========================================
+$brand-primary: #2d5a47;      // Forest green
+$brand-secondary: #f4a261;    // Warm orange accent
+$brand-light: #f9f6f1;        // Cream background
+$brand-dark: #1a1a1a;         // Near black
+$border-radius: 12px;
+$box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+$box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
+
+// ===========================================
+// TABLES - Much cleaner styling
+// ===========================================
+.article-content table {
     width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.95rem;
+    border-radius: $border-radius;
+    overflow: hidden;
+    box-shadow: $box-shadow;
+
+    thead {
+        background: $brand-primary;
+        color: white;
+
+        th {
+            padding: 0.875rem 1rem;
+            text-align: left;
+            font-weight: 600;
+            border: none;
+        }
+    }
+
+    tbody {
+        tr {
+            background: white;
+            transition: background 0.2s ease;
+
+            &:nth-child(even) {
+                background: $brand-light;
+            }
+
+            &:hover {
+                background: darken($brand-light, 3%);
+            }
+        }
+
+        td {
+            padding: 0.75rem 1rem;
+            border: none;
+            border-bottom: 1px solid #e8e4df;
+
+            &:first-child {
+                font-weight: 500;
+            }
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+    }
+}
+
+// ===========================================
+// HOMEPAGE STYLES
+// ===========================================
+.homepage-content {
+    margin-bottom: 2rem;
+}
+
+// Intro section
+.homepage-intro {
+    background: linear-gradient(135deg, $brand-primary 0%, darken($brand-primary, 8%) 100%);
+    color: white;
+    padding: 2rem;
+    border-radius: $border-radius;
+    margin-bottom: 2rem;
+
+    h2 {
+        color: white;
+        margin-top: 0;
+        font-size: 1.5rem;
+    }
+
+    p {
+        margin-bottom: 1rem;
+        opacity: 0.95;
+        line-height: 1.6;
+    }
+
+    .intro-link {
+        display: inline-block;
+        background: white;
+        color: $brand-primary;
+        padding: 0.625rem 1.25rem;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: 600;
+        transition: all 0.2s ease;
+
+        &:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+    }
+}
+
+// Featured section (quiz CTA)
+.featured-section {
+    background: $brand-light;
+    border: 2px solid darken($brand-light, 8%);
+    padding: 1.5rem 2rem;
+    border-radius: $border-radius;
+    margin-bottom: 2rem;
     text-align: center;
-  }
+
+    h3 {
+        margin-top: 0;
+        color: $brand-primary;
+    }
+
+    p {
+        color: #555;
+        margin-bottom: 1rem;
+    }
+
+    .quiz-button {
+        display: inline-block;
+        background: $brand-secondary;
+        color: white;
+        padding: 0.75rem 1.5rem;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1rem;
+        transition: all 0.2s ease;
+
+        &:hover {
+            background: darken($brand-secondary, 8%);
+            transform: translateY(-2px);
+            box-shadow: $box-shadow-hover;
+        }
+    }
+}
+
+// Category bar
+.category-bar {
+    margin-bottom: 2rem;
+
+    h3 {
+        color: $brand-dark;
+        margin-bottom: 1rem;
+        font-size: 1.1rem;
+    }
+}
+
+// Category pills - upgraded to cards
+.category-pills {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 0.75rem;
+
+    .category-pill {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+        background: white;
+        border: 2px solid #e8e4df;
+        padding: 1rem;
+        border-radius: $border-radius;
+        text-decoration: none;
+        color: $brand-dark;
+        font-weight: 500;
+        font-size: 0.95rem;
+        transition: all 0.2s ease;
+
+        &:hover {
+            border-color: $brand-primary;
+            background: rgba($brand-primary, 0.03);
+            transform: translateY(-2px);
+            box-shadow: $box-shadow;
+        }
+    }
+}
+
+// Section labels
+.section-label {
+    color: $brand-dark;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid $brand-primary;
+    display: inline-block;
+}
+
+// ===========================================
+// PET POLICY FINDER TOOL
+// ===========================================
+#pet-policy-finder {
+    background: white;
+    padding: 1.5rem;
+    border-radius: $border-radius;
+    box-shadow: $box-shadow;
+    margin: 1.5rem 0;
+
+    label {
+        display: block;
+        margin-bottom: 0.75rem;
+        font-weight: 600;
+        color: $brand-dark;
+    }
+
+    select {
+        width: 100%;
+        padding: 0.875rem 1rem;
+        font-size: 1rem;
+        border: 2px solid #e8e4df;
+        border-radius: 8px;
+        background: white;
+        color: $brand-dark;
+        cursor: pointer;
+        transition: border-color 0.2s ease;
+
+        &:hover, &:focus {
+            border-color: $brand-primary;
+            outline: none;
+        }
+    }
+}
+
+#policy-result {
+    background: $brand-light !important;
+    border: 2px solid $brand-primary !important;
+    border-radius: $border-radius !important;
+    padding: 1.5rem !important;
+    margin-top: 1.5rem !important;
+
+    h3 {
+        color: $brand-primary !important;
+        margin-top: 0 !important;
+        padding-bottom: 0.5rem;
+        border-bottom: 1px solid darken($brand-light, 10%);
+    }
+
+    p {
+        margin: 0.75rem 0;
+        line-height: 1.6;
+
+        strong {
+            color: $brand-dark;
+        }
+    }
+
+    a {
+        color: $brand-primary;
+        font-weight: 500;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+// ===========================================
+// ARTICLE CONTENT IMPROVEMENTS
+// ===========================================
+.article-content {
+    // Better heading styles
+    h2 {
+        color: $brand-primary;
+        margin-top: 2.5rem;
+        padding-bottom: 0.5rem;
+        border-bottom: 2px solid lighten($brand-primary, 45%);
+    }
+
+    h3 {
+        color: darken($brand-primary, 5%);
+        margin-top: 2rem;
+    }
+
+    // Horizontal rules
+    hr {
+        border: none;
+        height: 2px;
+        background: linear-gradient(to right, $brand-primary, transparent);
+        margin: 2.5rem 0;
+    }
+
+    // Blockquotes
+    blockquote {
+        border-left: 4px solid $brand-primary;
+        background: $brand-light;
+        padding: 1rem 1.5rem;
+        margin: 1.5rem 0;
+        border-radius: 0 $border-radius $border-radius 0;
+
+        p {
+            margin: 0;
+        }
+    }
+
+    // Lists
+    ul, ol {
+        li {
+            margin-bottom: 0.5rem;
+            line-height: 1.6;
+        }
+    }
+
+    // Inline code
+    code:not([class*="language-"]) {
+        background: $brand-light;
+        padding: 0.2rem 0.4rem;
+        border-radius: 4px;
+        font-size: 0.9em;
+        color: $brand-primary;
+    }
+
+    // Links in content
+    a {
+        color: $brand-primary;
+        text-decoration: underline;
+        text-decoration-color: rgba($brand-primary, 0.3);
+        text-underline-offset: 2px;
+        transition: all 0.2s ease;
+
+        &:hover {
+            text-decoration-color: $brand-primary;
+        }
+    }
+}
+
+// ===========================================
+// AFFILIATE DISCLOSURE BOX
+// ===========================================
+.affiliate-disclosure {
+    background: #fff8e7;
+    border: 1px solid #f0e6d0;
+    border-left: 4px solid $brand-secondary;
+    padding: 1rem 1.25rem;
+    border-radius: 0 8px 8px 0;
+    margin: 1.5rem 0;
+    font-size: 0.9rem;
+    color: #666;
+
+    p {
+        margin: 0;
+    }
+}
+
+// ===========================================
+// MOBILE RESPONSIVE
+// ===========================================
+@media (max-width: 768px) {
+    .homepage-intro {
+        padding: 1.5rem;
+
+        h2 {
+            font-size: 1.3rem;
+        }
+    }
+
+    .featured-section {
+        padding: 1.25rem;
+    }
+
+    .category-pills {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.5rem;
+
+        .category-pill {
+            padding: 0.75rem;
+            font-size: 0.85rem;
+        }
+    }
+
+    .article-content table {
+        font-size: 0.85rem;
+        display: block;
+        overflow-x: auto;
+
+        thead th,
+        tbody td {
+            padding: 0.625rem 0.75rem;
+        }
+    }
+
+    #pet-policy-finder {
+        padding: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .category-pills {
+        grid-template-columns: 1fr;
+    }
 }
