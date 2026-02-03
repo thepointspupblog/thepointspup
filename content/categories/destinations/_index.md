@@ -4,129 +4,84 @@ description: "The best dog-friendly hotel in each city — and how to book it fr
 layout: "category-landing"
 ---
 
-## Dog-Friendly Hotels by City 🐾
+<div class="page-intro">
+<p>Each guide covers one city, one hotel pick, and exactly how to book it without paying for the room. Finding a hotel that welcomes your dog is one thing — finding the <em>best</em> one and booking it free with points is what this section is for.</p>
+</div>
 
-Finding a hotel that welcomes your dog is one thing. Finding the *best* one — and booking it free with points — is what this section is for.
+<div class="guide-grid">
 
-Each guide covers one city, one hotel pick, and exactly how to book it without paying for the room.
+<div class="guide-card featured">
+<h3>🌴 Florida</h3>
+<p class="card-desc">The Sunshine State has more dog-friendly hotels than almost anywhere.</p>
+<ul>
+<li><a href="/posts/dog-friendly-hotel-orlando/">Orlando</a> — Home2 Suites, Hilton points</li>
+<li><a href="/posts/dog-friendly-hotel-st-augustine/">St. Augustine</a> — Hilton Garden Inn</li>
+<li><a href="/posts/dog-friendly-hotel-panama-city-beach/">Panama City Beach</a> — Embassy Suites</li>
+<li><a href="/posts/dog-friendly-hotel-key-west/">Key West</a> — DoubleTree Grand Key</li>
+</ul>
+</div>
 
----
+<div class="guide-card">
+<h3>🍑 Georgia</h3>
+<p class="card-desc">Kimpton properties make Atlanta a standout for large dogs.</p>
+<ul>
+<li><a href="/posts/dog-friendly-hotel-savannah/">Savannah</a> — Kimpton Brice, no pet fee</li>
+<li><a href="/posts/dog-friendly-hotel-atlanta/">Atlanta</a> — Kimpton Sylvan, no pet fee</li>
+</ul>
+</div>
 
-### 🌴 FLORIDA
+<div class="guide-card">
+<h3>🌲 North Carolina</h3>
+<p class="card-desc">From mountain towns to the Queen City.</p>
+<ul>
+<li><a href="/posts/dog-friendly-hotel-charlotte/">Charlotte</a> — Kimpton Tryon Park</li>
+<li><a href="/posts/dog-friendly-hotel-asheville/">Asheville</a> — Kimpton Hotel Arras</li>
+</ul>
+</div>
 
-The Sunshine State has more dog-friendly hotels than almost anywhere, but quality varies wildly. These are the ones worth booking.
+<div class="guide-card">
+<h3>🎸 Tennessee</h3>
+<p class="card-desc">Music City is surprisingly dog-friendly.</p>
+<ul>
+<li><a href="/posts/dog-friendly-hotel-nashville/">Nashville</a> — Kimpton Aertson Hotel</li>
+</ul>
+</div>
 
-| City | Best Hotel | Pet Fee | Book Free With |
-|------|------------|---------|----------------|
-| [Orlando](/posts/dog-friendly-hotel-orlando/) | Home2 Suites Flamingo Crossings | $75-125 | Hilton points |
-| [St. Augustine](/posts/dog-friendly-hotel-st-augustine/) | Hilton Garden Inn | $50-75 | Hilton points |
-| [Panama City Beach](/posts/dog-friendly-hotel-panama-city-beach/) | Embassy Suites | $75-125 | Hilton points |
-| [Key West](/posts/dog-friendly-hotel-key-west/) | DoubleTree Grand Key | $75/night | Hilton points |
-| Tampa | *Coming soon* | — | — |
-| Miami | *Coming soon* | — | — |
-| Destin | *Coming soon* | — | — |
-| Naples | *Coming soon* | — | — |
+<div class="guide-card">
+<h3>🤠 Texas</h3>
+<p class="card-desc">Some of the most dog-friendly cities in America.</p>
+<ul>
+<li><a href="/posts/dog-friendly-hotel-austin/">Austin</a> — Kimpton Hotel Van Zandt</li>
+</ul>
+</div>
 
-*More cities added regularly.*
+<div class="guide-card">
+<h3>🌴 South Carolina</h3>
+<p class="card-desc">Southern charm meets dog-friendly hospitality.</p>
+<ul>
+<li><a href="/posts/dog-friendly-hotel-charleston/">Charleston</a> — The Spectator Hotel</li>
+</ul>
+</div>
 
----
+<div class="guide-card">
+<h3>🚗 Near Jacksonville?</h3>
+<p class="card-desc">Close enough for a day trip — no hotel needed.</p>
+<ul>
+<li><a href="/posts/fernandina-beach-dog-guide/">Fernandina Beach</a> — 45 min drive</li>
+<li><a href="/posts/pet-friendly-beach-towns-jacksonville/">Beach Towns Guide</a> — Jax Beach, Flagler & more</li>
+</ul>
+</div>
 
-### 🍑 GEORGIA
+<div class="guide-card tools">
+<h3>💳 Book These Free</h3>
+<p class="card-desc">New to points? Start here.</p>
+<ul>
+<li><a href="/start-here/">Start Here</a> — The basics</li>
+<li><a href="/posts/best-credit-cards-pet-travelers/">Best Credit Cards</a> — Which cards to get</li>
+<li><a href="/free-guide/">Free Guide (PDF)</a> — 4-page quickstart</li>
+</ul>
+</div>
 
-The Peach State has some of the most dog-friendly cities in the Southeast. Kimpton properties make Atlanta a standout.
-
-| City | Best Hotel | Pet Fee | Book Free With |
-|------|------------|---------|----------------|
-| [Savannah](/posts/dog-friendly-hotel-savannah/) | Kimpton Brice Hotel | None | IHG points |
-| [Atlanta](/posts/dog-friendly-hotel-atlanta/) | Kimpton Sylvan Hotel | None | IHG points |
-
-*More cities added regularly.*
-
----
-
-### 🌲 NORTH CAROLINA
-
-From mountain towns to the Queen City, North Carolina has solid dog-friendly options — especially if you know where to look.
-
-| City | Best Hotel | Pet Fee | Book Free With |
-|------|------------|---------|----------------|
-| [Charlotte](/posts/dog-friendly-hotel-charlotte/) | Kimpton Tryon Park Hotel | None | IHG points |
-| [Asheville](/posts/dog-friendly-hotel-asheville/) | Kimpton Hotel Arras | None | IHG points |
-
-*More cities added regularly.*
-
----
-
-### 🎸 TENNESSEE
-
-Music City is surprisingly dog-friendly, with massive dog parks and patios everywhere.
-
-| City | Best Hotel | Pet Fee | Book Free With |
-|------|------------|---------|----------------|
-| [Nashville](/posts/dog-friendly-hotel-nashville/) | Kimpton Aertson Hotel | None | IHG points |
-
-*More cities added regularly.*
-
----
-
-### 🤠 TEXAS
-
-The Lone Star State has some of the most dog-friendly cities in America. Austin in particular is a must-visit.
-
-| City | Best Hotel | Pet Fee | Book Free With |
-|------|------------|---------|----------------|
-| [Austin](/posts/dog-friendly-hotel-austin/) | Kimpton Hotel Van Zandt | None | IHG points |
-| Houston | *Coming soon* | — | — |
-| San Antonio | *Coming soon* | — | — |
-
-*More cities added regularly.*
-
----
-
-### 🌴 SOUTH CAROLINA
-
-Southern charm meets dog-friendly hospitality. Charleston is a gem.
-
-| City | Best Hotel | Pet Fee | Book Free With |
-|------|------------|---------|----------------|
-| [Charleston](/posts/dog-friendly-hotel-charleston/) | The Spectator Hotel | $75/stay | Marriott points |
-
-*More cities added regularly.*
-
----
-
-### 🚗 ALREADY NEAR JACKSONVILLE?
-
-If you're local to Northeast Florida, these spots are close enough for a day trip — no hotel needed:
-
-- **[Fernandina Beach / Amelia Island](/posts/fernandina-beach-dog-guide/)** — 45 min, full guide with beaches, restaurants, and patios
-- **[Best Dog-Friendly Beach Towns Near Jacksonville](/posts/pet-friendly-beach-towns-jacksonville/)** — Jacksonville Beach, Flagler Beach, New Smyrna, and more
-
----
-
-### 📍 MORE STATES COMING
-
-I'm starting with the Southeast because I live here and can actually visit these places. Expanding to:
-
-- More Texas cities (Houston, San Antonio, Dallas)
-- Colorado (Denver)
-- Arizona (Scottsdale, Sedona)
-- California (San Diego, Los Angeles)
-
-Traveled with your dog to any of these cities? [Leave your pawprint](/page/leave-your-pawprint/) and let me know.
-
----
-
-### 💳 HOW TO BOOK THESE FREE
-
-Every hotel in this section is bookable with points. If you're new to this:
-
-1. **[Start Here](/start-here/)** — The basics of earning hotel points
-2. **[Best Credit Cards for Dog Travelers](/posts/best-credit-cards-pet-travelers/)** — Which cards to get
-3. **[Free Guide (PDF)](/free-guide/)** — Download my 4-page quickstart
-
-The short version: get a hotel credit card, hit the sign-up bonus, book award nights, pay only the pet fee.
-
----
+</div>
 
 *Have a hotel recommendation for a city I haven't covered? [Email me](mailto:woof@thepointspup.com) — I'm always looking for the next trip.*
