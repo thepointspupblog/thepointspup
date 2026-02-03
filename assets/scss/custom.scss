@@ -268,53 +268,88 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
 // ===========================================
-// CATEGORY LANDING PAGES
+// GLOBAL HEADING OVERRIDE - REMOVE ALL BORDERS
+// ===========================================
+// Ultra-specific selectors to override Stack theme
+.article-content h2,
+.article-content h3,
+.article-content h4,
+.article-content h5,
+.article-content h6,
+.article-page .article-content h2,
+.article-page .article-content h3,
+.article-page .article-content h4,
+main .article-content h2,
+main .article-content h3,
+main .article-content h4,
+section.main h2,
+section.main h3,
+section.main h4 {
+    border: none !important;
+    border-left: none !important;
+    border-bottom: none !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+}
+
+// ===========================================
+// ARTICLE CONTENT STYLING
 // ===========================================
 .article-content {
-    // Remove Stack theme's default left border on headings
-    h2, h3, h4 {
-        border-left: none !important;
-        padding-left: 0 !important;
-    }
-
-    // Style h2 with bottom border instead
+    // h2 - Section headers with background
     h2 {
-        color: $brand-primary;
+        color: $brand-primary !important;
+        font-size: 1.4rem;
         margin-top: 2.5rem;
-        padding-bottom: 0.5rem;
-        border-bottom: 2px solid rgba($brand-primary, 0.2);
+        margin-bottom: 1rem;
+        padding: 0.75rem 1rem !important;
+        background: rgba($brand-primary, 0.08);
+        border-radius: 8px;
     }
 
-    // h3 - clean style, no borders
+    // h3 - Subsection headers
     h3 {
-        color: $brand-dark;
+        color: $brand-dark !important;
+        font-size: 1.15rem;
         margin-top: 2rem;
-        font-size: 1.25rem;
+        margin-bottom: 0.75rem;
+        padding: 0.5rem 0 !important;
+        border-bottom: 2px solid rgba($brand-primary, 0.15) !important;
+    }
+
+    // h4 - Minor headers
+    h4 {
+        color: #444 !important;
+        font-size: 1rem;
+        margin-top: 1.5rem;
     }
 
     // Horizontal rules
     hr {
-        border: none;
-        height: 2px;
-        background: linear-gradient(to right, $brand-primary, transparent);
-        margin: 2.5rem 0;
+        border: none !important;
+        height: 1px;
+        background: #e0e0e0;
+        margin: 2rem 0;
     }
 
     // Blockquotes
     blockquote {
-        border-left: 4px solid $brand-primary;
+        border-left: 4px solid $brand-secondary !important;
         background: $brand-light;
         padding: 1rem 1.5rem;
         margin: 1.5rem 0;
-        border-radius: 0 $border-radius $border-radius 0;
+        border-radius: 0 8px 8px 0;
 
         p {
             margin: 0;
         }
     }
 
-    // Lists
+    // Lists - better spacing
     ul, ol {
+        margin: 1rem 0;
+        padding-left: 1.5rem;
+
         li {
             margin-bottom: 0.5rem;
             line-height: 1.6;
@@ -345,6 +380,31 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
 // ===========================================
+// CATEGORY LANDING PAGE SECTIONS
+// ===========================================
+// Style sections as cards on category pages
+.article-content > h3 {
+    background: white;
+    padding: 0.75rem 1rem !important;
+    margin-top: 2rem;
+    border: 1px solid #e8e4df !important;
+    border-bottom: 2px solid $brand-primary !important;
+    border-radius: 8px 8px 0 0;
+}
+
+// Content sections after h3 get a subtle background
+.article-content > h3 + ul,
+.article-content > h3 + p,
+.article-content > h3 + table {
+    background: #fafafa;
+    padding: 1rem;
+    margin-top: 0;
+    border: 1px solid #e8e4df;
+    border-top: none;
+    border-radius: 0 0 8px 8px;
+}
+
+// ===========================================
 // AFFILIATE DISCLOSURE BOX
 // ===========================================
 .affiliate-disclosure {
@@ -369,22 +429,19 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
     margin-top: 1rem;
 }
 
-// ===========================================
-// GLOBAL THEME OVERRIDES
-// ===========================================
-// Remove left borders Stack theme adds to headings
-.article-page .article-content,
-.article-content {
-    h2, h3, h4, h5, h6 {
-        border-left: none !important;
-        padding-left: 0 !important;
-        margin-left: 0 !important;
-    }
-}
-
 // Page titles
 .article-header h1 {
     color: $brand-dark;
+}
+
+// ===========================================
+// SPECIFIC PAGE TYPE STYLING
+// ===========================================
+// Category pages - intro paragraph styling
+.article-content > p:first-of-type {
+    font-size: 1.05rem;
+    color: #555;
+    line-height: 1.7;
 }
 
 // ===========================================
