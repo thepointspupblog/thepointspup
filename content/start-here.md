@@ -56,7 +56,7 @@ Not sure which hotel credit card fits your travel style? Take the quiz — it co
 
 The right credit card can get you 2-3 free nights just from the sign-up bonus. This guide breaks down all your options — annual fees, perks, and which cards actually pay for themselves.
 
-**Read:** [Best Credit Cards for Dog Travelers (2025)](/posts/best-credit-cards-pet-travelers/)
+**Read:** [Best Credit Cards for Dog Travelers (2026)](/posts/best-credit-cards-pet-travelers/)
 
 ---
 

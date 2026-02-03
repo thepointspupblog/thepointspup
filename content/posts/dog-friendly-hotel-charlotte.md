@@ -60,7 +60,7 @@ Kimpton is part of IHG, so you can book with IHG One Rewards points. Charlotte t
 
 **The math:**
 
-- The [IHG One Rewards Premier card](/posts/best-credit-cards-pet-travelers/) has an 140,000 point sign-up bonus
+- The [IHG One Rewards Premier card](/posts/best-credit-cards-pet-travelers/) has a 175,000 point sign-up bonus
 - That's 2-3 free nights at this property
 - You'd pay $0 in pet fees
 
@@ -265,4 +265,4 @@ And the Kimpton Tryon Park makes it easy: no pet fee, no weight limit, and you c
 
 {{< affiliate-disclosure >}}
 
-**Read next:** [Best Credit Cards for Dog Travelers](/posts/best-credit-cards-pet-travelers/) | [IHG Pet Policy 2025](/posts/ihg-pet-policy-2025/) | [Dog-Friendly Hotel in Savannah](/posts/dog-friendly-hotel-savannah/)
+**Read next:** [Best Credit Cards for Dog Travelers](/posts/best-credit-cards-pet-travelers/) | [IHG Pet Policy Guide](/posts/ihg-kimpton-pet-travel-guide/) | [Dog-Friendly Hotel in Savannah](/posts/dog-friendly-hotel-savannah/)

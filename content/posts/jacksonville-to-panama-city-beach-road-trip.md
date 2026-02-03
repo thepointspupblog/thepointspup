@@ -12,7 +12,7 @@ tags:
 
 The drive from Jacksonville to Panama City Beach is about 5-7 hours depending on how many stops you make — and if you're traveling with a dog, you're going to make a lot of stops. Here's what I learned driving this route with Ansel, my 70-pound GSP/Lab mix.
 
-*(Planning a PCB trip? Check out my full [Embassy Suites Panama City Beach review](/posts/embassy-suites-pcb-review/) for the hotel details.)*
+*(Planning a PCB trip? Check out my full [Embassy Suites Panama City Beach review](/posts/pcb-embassy-suites-review/) for the hotel details.)*
 
 ---
 
@@ -93,4 +93,4 @@ Either way, your dog rides safer and you skip the rattling nightmare. I'm upgrad
 
 This is an easy drive if you plan for it. Pack smart, stop at Busy Bee, and invest in a proper travel crate. Your dog (and your sanity) will thank you.
 
-**Ready to book the hotel?** Check out my [Embassy Suites PCB review](/posts/embassy-suites-pcb-review/) — it's one of the best pet-friendly options in the area, and I booked it entirely on points.
+**Ready to book the hotel?** Check out my [Embassy Suites PCB review](/posts/pcb-embassy-suites-review/) — it's one of the best pet-friendly options in the area, and I booked it entirely on points.

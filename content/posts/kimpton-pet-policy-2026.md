@@ -1,5 +1,5 @@
 ---
-title: "Kimpton Pet Policy 2025: No Fees, No Weight Limits, No Restrictions"
+title: "Kimpton Pet Policy 2026: No Fees, No Weight Limits, No Restrictions"
 description: "Complete guide to Kimpton's industry-leading pet policy — why they're the best hotel chain for large dogs, and how to book free stays with points."
 date: 2025-12-10
 categories:
@@ -134,8 +134,8 @@ Kimpton is part of **IHG One Rewards** (InterContinental Hotels Group). You can 
 
 | Card | Annual Fee | Sign-Up Bonus | Best For |
 |------|------------|---------------|----------|
-| IHG One Rewards Traveler | $0 | 80,000 points | No-risk starting point |
-| IHG One Rewards Premier | $99 | 140,000 points | Regular Kimpton stays |
+| IHG One Rewards Traveler | $0 | 120,000 points | No-risk starting point |
+| IHG One Rewards Premier | $99 | 175,000 points | Regular Kimpton stays |
 
 The Premier card also gives you:
 - **4th night free on award stays** — book 4 nights, pay for 3 with points

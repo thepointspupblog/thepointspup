@@ -301,4 +301,4 @@ Drop me a line at [woof@thepointspup.com](mailto:woof@thepointspup.com) — I re
 
 ---
 
-**Read next:** [Best Credit Cards for Dog Travelers (2025)](/posts/best-credit-cards-pet-travelers/) | [Kimpton Pet Policy: No Fees, No Weight Limits](/posts/kimpton-pet-policy-2025/) | [Hilton Pet Policy: Fees, Weight Limits & What to Know](/posts/hilton-pet-policy-2025/)
+**Read next:** [Best Credit Cards for Dog Travelers (2026)](/posts/best-credit-cards-pet-travelers/) | [Kimpton Pet Policy: No Fees, No Weight Limits](/posts/kimpton-pet-policy-2026/) | [Hilton Pet Policy: Fees, Weight Limits & What to Know](/posts/hilton-pet-policy-2026/)

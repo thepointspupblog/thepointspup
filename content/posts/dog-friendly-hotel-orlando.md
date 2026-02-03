@@ -68,7 +68,7 @@ This is a Hilton property, so you can book it with Hilton Honors points. Rates v
 
 **The math:**
 
-- The [Hilton Surpass card](/posts/best-credit-cards-pet-travelers/#-hilton-honors-american-express-surpass) has a 155,000 point sign-up bonus
+- The [Hilton Surpass card](/posts/best-credit-cards-pet-travelers/#-hilton-honors-american-express-surpass) has a 130,000 point sign-up bonus
 - That's 3-5 free nights at this property
 - You'd only pay the $75-125 pet fee out of pocket
 
@@ -174,4 +174,4 @@ Just don't expect to bring your pup into Magic Kingdom. Plan some dog park visit
 
 {{< affiliate-disclosure >}}
 
-**Read next:** [Best Credit Cards for Dog Travelers](/posts/best-credit-cards-pet-travelers/) | [Hilton Pet Policy 2025](/posts/hilton-pet-policy-2025/) | [More Florida Destinations](/categories/destinations/)
+**Read next:** [Best Credit Cards for Dog Travelers](/posts/best-credit-cards-pet-travelers/) | [Hilton Pet Policy 2026](/posts/hilton-pet-policy-2026/) | [More Florida Destinations](/categories/destinations/)

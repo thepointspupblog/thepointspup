@@ -62,7 +62,7 @@ Kimpton Sylvan is bookable with IHG One Rewards points. Atlanta rates vary a lot
 
 **The math:**
 
-- The [IHG One Rewards Premier card](/posts/best-credit-cards-pet-travelers/) has a 140,000 point sign-up bonus
+- The [IHG One Rewards Premier card](/posts/best-credit-cards-pet-travelers/) has a 175,000 point sign-up bonus
 - That's 1-2 free nights at this property
 - You'd pay $0 in pet fees
 
@@ -312,4 +312,4 @@ Between Piedmont Park, the BeltLine, Fetch Park, and dozens of dog-friendly brew
 
 {{< affiliate-disclosure >}}
 
-**Read next:** [Best Credit Cards for Dog Travelers](/posts/best-credit-cards-pet-travelers/) | [IHG Pet Policy 2025](/posts/ihg-pet-policy-2025/) | [Dog-Friendly Hotel in Savannah](/posts/dog-friendly-hotel-savannah/)
+**Read next:** [Best Credit Cards for Dog Travelers](/posts/best-credit-cards-pet-travelers/) | [IHG Pet Policy Guide](/posts/ihg-kimpton-pet-travel-guide/) | [Dog-Friendly Hotel in Savannah](/posts/dog-friendly-hotel-savannah/)

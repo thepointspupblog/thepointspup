@@ -16,8 +16,9 @@ The pet travel world moves fast — hotel policies change, credit card bonuses e
 
 Limited-time offers and expiring bonuses:
 
-- **[Hotel Card Bonuses Expiring Soon](/posts/credit-card-bonuses-expiring-jan-2026/)** — Hilton bonuses expire January 14th
-- **[Best Credit Card Bonuses (December 2025)](/posts/december-2025-credit-card-bonuses/)** — This month's best sign-up offers
+- **[Best Credit Card Bonuses (February 2026)](/posts/february-2026-credit-card-bonuses/)** — Marriott 5 free nights + IHG 175K offer
+- **[Hotel Card Bonuses Expiring Soon](/posts/credit-card-bonuses-expiring-jan-2026/)** — Hilton bonuses expired January 14th
+- **[Best Credit Card Bonuses (December 2025)](/posts/december-2025-credit-card-bonuses/)** — Archive
 
 ### 🏨 Policy Changes
 

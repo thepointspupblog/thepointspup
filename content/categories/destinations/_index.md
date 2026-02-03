@@ -61,7 +61,7 @@ From mountain towns to the Queen City, North Carolina has solid dog-friendly opt
 
 If you're local to Northeast Florida, these spots are close enough for a day trip — no hotel needed:
 
-- **[Fernandina Beach / Amelia Island](/posts/fernandina-beach-dog-friendly-guide/)** — 45 min, full guide with beaches, restaurants, and patios
+- **[Fernandina Beach / Amelia Island](/posts/fernandina-beach-dog-guide/)** — 45 min, full guide with beaches, restaurants, and patios
 - **[Best Dog-Friendly Beach Towns Near Jacksonville](/posts/pet-friendly-beach-towns-jacksonville/)** — Jacksonville Beach, Flagler Beach, New Smyrna, and more
 
 ---

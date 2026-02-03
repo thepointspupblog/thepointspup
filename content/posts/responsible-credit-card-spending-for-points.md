@@ -19,7 +19,7 @@ Not because points aren't valuable — they absolutely are. I haven't paid for a
 
 The points are only free if you never pay a cent in interest. Period.
 
-If you can commit to that, this guide will show you exactly how to do it right. We'll use the [Hilton Surpass bonus (expiring January 14th)](/posts/credit-card-bonuses-expiring-jan-2026/) as our working example, but these principles apply to any card.
+If you can commit to that, this guide will show you exactly how to do it right. We'll use the [Hilton Surpass bonus](/posts/february-2026-credit-card-bonuses/) as our working example, but these principles apply to any card.
 
 {{< affiliate-disclosure >}}
 
@@ -45,7 +45,7 @@ If you don't do this — if you pay the minimum, or pay "most" of it, or pay it 
 
 Let's do the math on the Hilton Surpass:
 
-- **Sign-up bonus:** 155,000 points (worth roughly $775-$930 in hotel stays)
+- **Sign-up bonus:** 130,000 points (worth roughly $650-$780 in hotel stays)
 - **Spend requirement:** $3,000 in 6 months
 - **If you carry that $3,000 balance for 6 months at 24% APR:** You'd pay roughly $360 in interest
 
@@ -92,7 +92,7 @@ Always pay the full statement balance.
 
 ## Step-by-Step: Hitting the Hilton Surpass Bonus Responsibly
 
-Let's walk through exactly how to earn 155,000 Hilton points without paying interest.
+Let's walk through exactly how to earn 130,000 Hilton points without paying interest.
 
 ### The Goal
 - Spend $3,000 in 6 months
@@ -151,7 +151,7 @@ When your first statement closes (usually about 30 days after you open the card)
 3. Pay that exact amount before the due date
 4. Repeat every month
 
-That's it. Do this consistently and you'll earn 155,000 points without paying a penny in interest.
+That's it. Do this consistently and you'll earn 130,000 points without paying a penny in interest.
 
 ---
 
@@ -250,7 +250,7 @@ But the game only works if you play it right:
 3. **Set up autopay for the full balance**
 4. **If you can't do these things consistently, don't play**
 
-The Hilton Surpass bonus expires January 14th. That's 155,000 points — enough for 3-4 free nights at most Hilton properties. If you can spend $500/month without changing your habits and pay it off every month, it's a great deal.
+The Hilton Surpass bonus is currently 130,000 points — enough for 2-3 free nights at most Hilton properties. If you can spend $500/month without changing your habits and pay it off every month, it's a great deal.
 
 If you can't, that's okay. There's no shame in using a debit card. Paying cash for a hotel room is better than paying interest for a "free" one.
 
@@ -262,4 +262,4 @@ If you're unsure whether a sign-up bonus is right for your situation, I'm happy 
 
 ---
 
-**Read next:** [Hotel Credit Card Bonuses Expiring January 14th](/posts/credit-card-bonuses-expiring-jan-2026/) | [Best Credit Cards for Dog Travelers (2025)](/posts/best-credit-cards-pet-travelers/) | [Start Here: Credit Card Points for Dog Travel](/start-here/)
+**Read next:** [Best Credit Card Bonuses (February 2026)](/posts/february-2026-credit-card-bonuses/) | [Best Credit Cards for Dog Travelers](/posts/best-credit-cards-pet-travelers/) | [Start Here: Credit Card Points for Dog Travel](/start-here/)

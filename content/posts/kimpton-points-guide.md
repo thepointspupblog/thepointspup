@@ -65,11 +65,11 @@ If you stay at IHG properties regularly, their co-branded Chase cards make sense
 | | |
 |---|---|
 | **Annual Fee** | $99 |
-| **Sign-Up Bonus** | 140,000 points after $3,000 spend in 3 months |
+| **Sign-Up Bonus** | 175,000 points after $5,000 spend in 3 months |
 | **Free Night** | 1/year at properties up to 40,000 points |
 | **Status** | Platinum Elite |
 
-That 140,000-point bonus is enough for 2-4 free nights at most Kimptons, depending on the property and dates.
+That 175,000-point bonus is enough for 3-5 free nights at most Kimptons, depending on the property and dates.
 
 **Key perks:**
 - 💳 26x points at IHG properties
@@ -96,11 +96,11 @@ That 140,000-point bonus is enough for 2-4 free nights at most Kimptons, dependi
 | | |
 |---|---|
 | **Annual Fee** | $0 |
-| **Sign-Up Bonus** | 80,000 points after $2,000 spend in 3 months |
+| **Sign-Up Bonus** | 120,000 points after $2,000 spend in 3 months |
 | **Free Night** | None |
 | **Status** | None |
 
-If you're not sure how often you'll stay at IHG properties, this is a safe way to start earning points. 80,000 points for $2,000 in spending with no annual fee is solid.
+If you're not sure how often you'll stay at IHG properties, this is a safe way to start earning points. 120,000 points for $2,000 in spending with no annual fee is excellent.
 
 **Key perks:**
 - 💳 17x points at IHG properties
@@ -120,7 +120,7 @@ Cards that earn transferable Ultimate Rewards:
 | | |
 |---|---|
 | **Annual Fee** | $95 |
-| **Sign-Up Bonus** | 60,000 points after $4,000 spend in 3 months |
+| **Sign-Up Bonus** | 75,000 points after $4,000 spend in 3 months |
 
 - 3x on dining, select streaming, and online groceries
 - 2x on travel
@@ -183,8 +183,8 @@ Dedicated pet-friendly floors. Good urban location for exploring with your dog.
 
 | You... | Get This | Why |
 |--------|----------|-----|
-| 🆕 New to points | IHG Traveler | 80k bonus, no fee, no risk |
-| 🏨 Stay at IHG often | IHG Premier | 140k bonus, free night, 4th night free |
+| 🆕 New to points | IHG Traveler | 120k bonus, no fee, no risk |
+| 🏨 Stay at IHG often | IHG Premier | 175k bonus, free night, 4th night free |
 | ✈️ Want flexibility | Chase Sapphire Preferred | Transfer to IHG + 13 other partners |
 | 💎 Already have Hilton cards | Chase Sapphire Preferred | Add IHG as a transfer option |
 

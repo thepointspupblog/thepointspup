@@ -93,6 +93,6 @@ If you signed up but can't find the email, check your spam folder. Still nothing
 
 The guide gives you the quick version. For the full breakdown:
 
-- **[Best Credit Cards for Dog Travelers (2025)](/posts/best-credit-cards-pet-travelers/)** — Complete comparison of every card
+- **[Best Credit Cards for Dog Travelers (2026)](/posts/best-credit-cards-pet-travelers/)** — Complete comparison of every card
 - **[Take the Quiz](/posts/hotel-credit-card-quiz/)** — Find your perfect card in 2 minutes
 - **[Start Here](/start-here/)** — The full step-by-step path

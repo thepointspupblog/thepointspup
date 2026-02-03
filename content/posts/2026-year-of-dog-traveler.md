@@ -64,7 +64,7 @@ If you're traveling with a dog under 75 lbs, Hilton's 7,000+ properties mean you
 
 **My setup:** I use the [Hilton Surpass](/posts/best-credit-cards-pet-travelers/#-hilton-honors-american-express-surpass) for everyday spending and the Hilton Aspire for Diamond status and free night certificates. Between them, I haven't paid for a hotel room in years.
 
-👉 [Full Hilton pet policy breakdown](/posts/hilton-pet-policy-2025/)
+👉 [Full Hilton pet policy breakdown](/posts/hilton-pet-policy-2026/)
 
 ### Kimpton Is Still Unbeatable for Large Dogs
 
@@ -83,8 +83,8 @@ Pet fees are unavoidable. But room rates don't have to be.
 The math is simple: if a hotel room costs $200/night and the pet fee is $75, you're looking at $275+ per night. But if you book that same room with points and just pay the pet fee? That's $75 total. Much easier to stomach.
 
 The best credit cards for dog travelers are still:
-- **[Hilton Surpass](/posts/best-credit-cards-pet-travelers/#-hilton-honors-american-express-surpass)** — 155,000 point bonus, $150/year, $200 in annual credits
-- **[IHG Premier](/posts/best-credit-cards-pet-travelers/#-ihg-one-rewards-premier-credit-card)** — 140,000 point bonus, $99/year, free night certificate
+- **[Hilton Surpass](/posts/best-credit-cards-pet-travelers/#-hilton-honors-american-express-surpass)** — 130,000 point bonus, $150/year, $200 in annual credits
+- **[IHG Premier](/posts/best-credit-cards-pet-travelers/#-ihg-one-rewards-premier-credit-card)** — 175,000 point bonus, $99/year, free night certificate
 - **[Chase Sapphire Preferred](/posts/best-credit-cards-pet-travelers/#-chase-sapphire-preferred)** — Flexible points that transfer to IHG, Hyatt, and more
 
 👉 [Full credit card guide](/posts/best-credit-cards-pet-travelers/)
@@ -101,7 +101,7 @@ I don't have a rigid travel calendar, but here's what's on my radar:
 
 **At least one Kimpton stay.** I use Hilton most of the time because of the footprint, but I want to hit a Kimpton this year just to experience their pet program firsthand.
 
-**More local exploration.** [Fernandina Beach](/posts/fernandina-beach-dog-friendly-guide/) is so close to Jacksonville and so dog-friendly. I want to do more day trips like that — low-effort, high-reward outings with Ansel.
+**More local exploration.** [Fernandina Beach](/posts/fernandina-beach-dog-guide/) is so close to Jacksonville and so dog-friendly. I want to do more day trips like that — low-effort, high-reward outings with Ansel.
 
 ---
 
@@ -139,4 +139,4 @@ Here's to a year of adventures with our pups. 🐾
 
 {{< affiliate-disclosure >}}
 
-**Read next:** [Best Credit Cards for Dog Travelers (2025)](/posts/best-credit-cards-pet-travelers/) | [Hilton Pet Policy 2025](/posts/hilton-pet-policy-2025/) | [Why Hilton Is the Best Hotel Chain for Pet Travelers](/posts/why-hilton-for-pet-travelers/)
+**Read next:** [Best Credit Cards for Dog Travelers (2026)](/posts/best-credit-cards-pet-travelers/) | [Hilton Pet Policy 2026](/posts/hilton-pet-policy-2026/) | [Why Hilton Is the Best Hotel Chain for Pet Travelers](/posts/why-hilton-for-pet-travelers/)

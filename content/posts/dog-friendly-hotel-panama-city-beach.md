@@ -66,7 +66,7 @@ I used Hilton Honors points plus a free night certificate to book 5 nights. Here
 The only thing I paid out of pocket? Tipping the valet.
 
 **The math:**
-- The [Hilton Surpass card](/posts/best-credit-cards-pet-travelers/#-hilton-honors-american-express-surpass) has a 155,000 point sign-up bonus
+- The [Hilton Surpass card](/posts/best-credit-cards-pet-travelers/#-hilton-honors-american-express-surpass) has a 130,000 point sign-up bonus
 - Embassy Suites typically runs 40,000-60,000 points per night
 - That's 3-4 free nights from one sign-up bonus
 - Add the 5th night free benefit and you're looking at a full week for minimal cost

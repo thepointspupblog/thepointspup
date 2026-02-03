@@ -1,5 +1,5 @@
 ---
-title: "Marriott Pet Policy 2025: Fees, Weight Limits & Best Brands for Dog Travelers"
+title: "Marriott Pet Policy 2026: Fees, Weight Limits & Best Brands for Dog Travelers"
 date: 2025-12-11
 draft: false
 description: "Complete guide to Marriott's pet policy — fees by brand, weight limits, which brands are most dog-friendly, and how to book free stays with Bonvoy points."
@@ -67,7 +67,7 @@ If you have a dog over 50 lbs, focus on these brands:
 
 **Element by Westin** — Extended-stay brand with pet-friendly policies at all locations. Weight limits vary, so call ahead.
 
-If your dog is over 75 lbs, you might have better luck with [Kimpton (no weight limits, no fees)](/posts/kimpton-pet-policy-2025/) or certain [Hilton brands](/posts/hilton-pet-policy-2025/).
+If your dog is over 75 lbs, you might have better luck with [Kimpton (no weight limits, no fees)](/posts/kimpton-pet-policy-2026/) or certain [Hilton brands](/posts/hilton-pet-policy-2026/).
 
 ## How to Find Pet-Friendly Marriott Hotels
 
@@ -155,7 +155,7 @@ Three free nights can get you a week at a TownePlace Suites or Residence Inn —
 | **Weight limits** | 25–100 lbs | 75 lbs typical | **No limit** |
 | **Best for** | Extended stays | Most travelers | Large dogs |
 
-**My take:** Marriott is great for extended stays (TownePlace, Residence Inn) and has an excellent sign-up bonus. But if you want consistent policies and lower fees, [Hilton](/posts/hilton-pet-policy-2025/) is usually easier. And if you have a large dog, [Kimpton](/posts/kimpton-pet-policy-2025/) is unbeatable.
+**My take:** Marriott is great for extended stays (TownePlace, Residence Inn) and has an excellent sign-up bonus. But if you want consistent policies and lower fees, [Hilton](/posts/hilton-pet-policy-2026/) is usually easier. And if you have a large dog, [Kimpton](/posts/kimpton-pet-policy-2026/) is unbeatable.
 
 ## Frequently Asked Questions
 
@@ -191,7 +191,7 @@ Just remember: **always call the specific property** before booking. Marriott's 
 ---
 
 **Read Next:**
-- [Hilton Pet Policy 2025](/posts/hilton-pet-policy-2025/) — More consistent policies, lower fees
-- [Kimpton Pet Policy 2025](/posts/kimpton-pet-policy-2025/) — No fees, no weight limits
+- [Hilton Pet Policy 2026](/posts/hilton-pet-policy-2026/) — More consistent policies, lower fees
+- [Kimpton Pet Policy 2026](/posts/kimpton-pet-policy-2026/) — No fees, no weight limits
 - [Best Credit Cards for Pet Travelers](/posts/best-credit-cards-pet-travelers/) — Compare all your options
 - [Which Hotel Credit Card Is Right for You? (Quiz)](/posts/hotel-credit-card-quiz/)

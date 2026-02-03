@@ -97,13 +97,13 @@ For most people, the credit card path is the easiest. Unless you're traveling fo
 - Annual free night certificate
 - $400/year in Hilton resort credits
 - $200/year in flight credits (buy airline gift cards — they count!)
-- 175,000 point sign-up bonus
+- 150,000 point sign-up bonus
 
 ### Hilton Surpass ($150/year)
 - **Gold status** automatic, **Diamond at $40k spend**
 - $200/year in Hilton credits ($50/quarter — use at any Hilton property, even just for dinner)
 - Free night after $15k spend
-- 155,000 point sign-up bonus
+- 130,000 point sign-up bonus
 
 If you want Diamond without the $550 Aspire fee, the Surpass path works — it just takes more spending. I did it for a couple years before upgrading to the Aspire.
 

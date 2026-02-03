@@ -64,7 +64,7 @@ This is a boutique inn at the start of St. George Street, across from Castillo d
 The Hilton Garden Inn runs around 30,000-50,000 Hilton Honors points per night depending on dates.
 
 **The math:**
-- The [Hilton Surpass card](/posts/best-credit-cards-pet-travelers/#-hilton-honors-american-express-surpass) has a 155,000 point sign-up bonus
+- The [Hilton Surpass card](/posts/best-credit-cards-pet-travelers/#-hilton-honors-american-express-surpass) has a 130,000 point sign-up bonus
 - That's 3-5 free nights at this property
 - You'd only pay the $50-75 pet fee out of pocket
 
@@ -153,4 +153,4 @@ And if you have a smaller dog and want the full boutique experience, the **St. G
 
 {{< affiliate-disclosure >}}
 
-**Read next:** [Best Credit Cards for Dog Travelers](/posts/best-credit-cards-pet-travelers/) | [Hilton Pet Policy 2025](/posts/hilton-pet-policy-2025/) | [More Florida Destinations](/categories/destinations/)
+**Read next:** [Best Credit Cards for Dog Travelers](/posts/best-credit-cards-pet-travelers/) | [Hilton Pet Policy 2026](/posts/hilton-pet-policy-2026/) | [More Florida Destinations](/categories/destinations/)

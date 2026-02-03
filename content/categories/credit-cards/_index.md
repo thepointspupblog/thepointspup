@@ -24,8 +24,8 @@ Take the quiz — it matches you with the right card based on your dog's size, t
 
 Full breakdowns of every card worth considering:
 
-- **[Best Credit Cards for Pet Travelers (2025)](/posts/best-credit-cards-pet-travelers/)** — Complete comparison of Hilton, IHG, Marriott, and Chase cards
-- **[Best Credit Card Bonuses (December 2025)](/posts/december-2025-credit-card-bonuses/)** — This month's best sign-up offers
+- **[Best Credit Card Bonuses (February 2026)](/posts/february-2026-credit-card-bonuses/)** — Marriott 5 free nights + IHG 175K offer
+- **[Best Credit Cards for Pet Travelers (2026)](/posts/best-credit-cards-pet-travelers/)** — Complete comparison of Hilton, IHG, Marriott, and Chase cards
 - **[Hotel Card Bonuses Expiring Soon](/posts/credit-card-bonuses-expiring-jan-2026/)** — Hilton, IHG, Marriott & Chase bonuses compared
 
 ### 💎 Hilton Cards
@@ -40,9 +40,9 @@ Hilton has the best credit card lineup for pet travelers:
 
 | Card | Annual Fee | Sign-Up Bonus | Best For |
 |------|------------|---------------|----------|
-| Hilton Honors (No Fee) | $0 | 100,000 pts | Beginners |
-| Hilton Surpass | $150 | 155,000 pts | Most travelers |
-| Hilton Aspire | $550 | 175,000 pts | Frequent travelers |
+| Hilton Honors (No Fee) | $0 | ~80,000 pts | Beginners |
+| Hilton Surpass | $150 | 130,000 pts | Most travelers |
+| Hilton Aspire | $550 | 150,000 pts | Frequent travelers |
 
 ### 🏨 IHG Cards (For Kimpton)
 
@@ -54,20 +54,20 @@ If you have a large dog, IHG cards get you free stays at Kimpton — the only ma
 
 | Card | Annual Fee | Sign-Up Bonus | Best For |
 |------|------------|---------------|----------|
-| IHG Traveler | $0 | 80,000 pts | No commitment |
-| IHG Premier | $99 | 140,000 pts | Regular Kimpton stays |
+| IHG Traveler | $0 | 120,000 pts | No commitment |
+| IHG Premier | $99 | 175,000 pts | Regular Kimpton stays |
 
 ### 🔄 Flexible Points (Chase)
 
 Want flexibility across multiple hotel chains? Chase points transfer to IHG, Hyatt, Marriott, and airlines:
 
-- **Chase Sapphire Preferred** — $95/year, 60,000 point bonus, transfers 1:1 to IHG
+- **Chase Sapphire Preferred** — $95/year, 75,000 point bonus, transfers 1:1 to IHG
 
 ### 🏢 Marriott Cards
 
-Marriott has the best sign-up bonus — 3 free nights right out of the gate:
+Marriott currently has the best sign-up bonus — 5 free nights (expires March 11, 2026):
 
-- **Marriott Bonvoy Boundless** — $95/year, 3 free nights (up to 50K points each)
+- **Marriott Bonvoy Boundless** — $95/year, 5 free nights (up to 50K points each = 250K value)
 
 *Note: Marriott pet policies vary more by property than Hilton. Always call ahead.*
 
@@ -75,12 +75,12 @@ Marriott has the best sign-up bonus — 3 free nights right out of the gate:
 
 Sign-up bonuses change frequently. I track the best current offers:
 
-- **[Best Credit Card Bonuses (December 2025)](/posts/december-2025-credit-card-bonuses/)** — Updated monthly
+- **[Best Credit Card Bonuses (February 2026)](/posts/february-2026-credit-card-bonuses/)** — Current offers
 
 ### ❓ Common Questions
 
 **Which card should I get first?**
-If you're new to points, start with the no-annual-fee Hilton card. Zero risk, 100,000 points, and you can upgrade later.
+If you're new to points, start with the no-annual-fee Hilton card. Zero risk, decent bonus, and you can upgrade later.
 
 **Are annual fees worth it?**
 Usually yes. The Hilton Surpass costs $150/year but gives you $200 in Hilton credits — you come out ahead before counting the points.

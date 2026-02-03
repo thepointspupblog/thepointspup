@@ -113,13 +113,13 @@ Here's where it gets good. You can stay at Kimpton for free using IHG One Reward
 ### The IHG Credit Cards
 
 **IHG One Rewards Premier Credit Card** ($99/year)
-- 140,000 bonus points after $3,000 spend
+- 175,000 bonus points after $5,000 spend
 - Free night certificate every year (up to 40,000 points value)
 - 4th night free on award stays
 - Automatic Platinum Elite status
 
 **IHG One Rewards Traveler Credit Card** ($0/year)
-- 80,000 bonus points after $2,000 spend
+- 120,000 bonus points after $2,000 spend
 - No annual fee
 - Silver Elite status
 

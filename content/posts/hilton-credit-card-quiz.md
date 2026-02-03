@@ -23,7 +23,7 @@ With the right credit card, you can earn free nights at dog-friendly properties 
 
 **Related reads:**
 
-- [Best Credit Cards for Dog Travelers (2025)](/posts/best-credit-cards-pet-travelers/) — Full comparison of all the top options
+- [Best Credit Cards for Dog Travelers (2026)](/posts/best-credit-cards-pet-travelers/) — Full comparison of all the top options
 - [Hilton Diamond Status: How to Get It and Why It's Worth It](/posts/hilton-diamond-status-guide/) — The perks that matter most when traveling with a dog
 - [Traveling with a Large Dog: Hotel Policies You Need to Know](/posts/traveling-with-large-dogs-hotel-policies/) — What to know before booking if your pup is over 50 lbs
 

@@ -1,5 +1,5 @@
 ---
-title: "Hilton Pet Policy 2025: Fees, Weight Limits & What to Know Before You Book"
+title: "Hilton Pet Policy 2026: Fees, Weight Limits & What to Know Before You Book"
 description: "Complete guide to Hilton's pet policy — including fees by brand, weight limits, which properties are most dog-friendly, and tips for booking with your pup."
 date: 2025-12-10
 categories:
@@ -14,7 +14,7 @@ tags:
 
 Planning a Hilton stay with your dog? Good news: **every Hilton brand in the U.S. accepts pets**. But the details — fees, weight limits, and which properties are best for dogs — vary more than you might expect.
 
-Here's everything you need to know about Hilton's pet policy in 2025.
+Here's everything you need to know about Hilton's pet policy in 2026.
 
 {{< affiliate-disclosure >}}
 
@@ -161,7 +161,7 @@ Most Hilton properties require:
 
 Pet fees are unavoidable, but the room itself can be free. I use Hilton credit cards to earn points on everyday spending, then book award nights at pet-friendly properties.
 
-**The math:** A typical Hilton stay costs 30,000–60,000 points per night. The Hilton Surpass card has a 155,000-point sign-up bonus — enough for 2-5 free nights right out of the gate.
+**The math:** A typical Hilton stay costs 30,000–60,000 points per night. The Hilton Surpass card has a 130,000-point sign-up bonus — enough for 2-4 free nights right out of the gate.
 
 **My approach:**
 1. Earn Hilton points from a credit card (groceries, gas, dining all count)

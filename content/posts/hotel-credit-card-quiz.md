@@ -47,7 +47,7 @@ If weight limits are a constant headache, IHG cards or Chase Sapphire (which tra
 
 ## Related Reads
 
-- [Best Credit Cards for Dog Travelers (2025)](/posts/best-credit-cards-pet-travelers/) — Full breakdown of every card
+- [Best Credit Cards for Dog Travelers (2026)](/posts/best-credit-cards-pet-travelers/) — Full breakdown of every card
 - [How to Book Kimpton Hotels Free with Points](/posts/kimpton-points-guide/) — The best chain for large dogs
 - [Traveling with a Large Dog: Hotel Policies You Need to Know](/posts/traveling-with-large-dogs-hotel-policies/) — Weight limits by chain
 - [Quiz: Which Hilton Credit Card Is Best for Dog Travelers?](/posts/hilton-credit-card-quiz/) — Hilton-specific quiz if you're already loyal

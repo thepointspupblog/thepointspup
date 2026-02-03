@@ -55,7 +55,7 @@ The DoubleTree Grand Key typically runs around **60,000-80,000 Hilton Honors poi
 
 **The math:**
 
-- The [Hilton Surpass card](/posts/best-credit-cards-pet-travelers/#-hilton-honors-american-express-surpass) has a 155,000 point sign-up bonus
+- The [Hilton Surpass card](/posts/best-credit-cards-pet-travelers/#-hilton-honors-american-express-surpass) has a 130,000 point sign-up bonus
 - That's 2-3 free nights at this property
 - Book 5 nights and the **5th night is free** — built-in 20% discount
 - You'd only pay the $75/night pet fee out of pocket
