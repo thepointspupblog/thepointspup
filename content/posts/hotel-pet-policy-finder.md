@@ -18,8 +18,9 @@ Not sure if your dog is welcome? Use this tool to quickly check pet policies for
     <option value="">-- Choose a chain --</option>
     <option value="hilton">Hilton</option>
     <option value="marriott">Marriott</option>
-    <option value="ihg">IHG (Holiday Inn, Kimpton, etc.)</option>
+    <option value="ihg">IHG (Holiday Inn, Staybridge, etc.)</option>
     <option value="hyatt">Hyatt</option>
+    <option value="kimpton">Kimpton Hotels (IHG)</option>
     <option value="wyndham">Wyndham (La Quinta, etc.)</option>
     <option value="bestwestern">Best Western</option>
     <option value="choice">Choice (Comfort Inn, Quality Inn, etc.)</option>
@@ -27,7 +28,10 @@ Not sure if your dog is welcome? Use this tool to quickly check pet policies for
     <option value="redroof">Red Roof Inn</option>
     <option value="drury">Drury Hotels</option>
     <option value="loews">Loews Hotels</option>
-    <option value="kimpton">Kimpton Hotels</option>
+    <option value="extendedstay">Extended Stay America</option>
+    <option value="sonesta">Sonesta</option>
+    <option value="omni">Omni Hotels</option>
+    <option value="fourseasons">Four Seasons</option>
   </select>
 
   <div id="policy-result" style="display: none; margin-top: 1.5rem; padding: 1.5rem; background: #f9f6f1; border-radius: 12px; border: 2px solid #2d5a47;">
@@ -38,35 +42,35 @@ Not sure if your dog is welcome? Use this tool to quickly check pet policies for
 const policies = {
   hilton: {
     name: "Hilton",
-    weight: "Varies by property (typically 50-75 lbs)",
-    fee: "$50-$100 per stay (varies by brand)",
-    notes: "Most Hilton brands allow dogs. Home2 Suites, Homewood Suites, and Hilton Garden Inn tend to be most pet-friendly. Always call ahead to confirm.",
-    tip: "Use Hilton points to book free nights — you'll still pay the pet fee, but the room is free!",
-    verdict: "🟡 Good for most dogs under 75 lbs"
+    weight: "Typically 75 lbs (varies by brand/property)",
+    fee: "$50-$95 per stay (varies by brand)",
+    notes: "All Hilton brands accept pets. Home2 Suites, Homewood Suites, and Embassy Suites are most dog-friendly with more space. No corporate breed restrictions.",
+    tip: "Book free with Hilton Honors points — pay only the pet fee. <a href='/posts/hilton-pet-policy-2026/'>Full Hilton pet policy guide →</a>",
+    verdict: "🟢 Good for most dogs under 75 lbs"
   },
   marriott: {
     name: "Marriott",
-    weight: "Varies widely (25-75 lbs depending on brand)",
-    fee: "$75-$150 per stay",
-    notes: "Policies vary significantly by brand and location. Residence Inn and TownePlace Suites tend to be more pet-friendly. Some luxury brands don't allow pets.",
-    tip: "Always call the specific property before booking.",
-    verdict: "🟡 Hit or miss — call ahead"
+    weight: "Varies widely (25-100 lbs depending on brand)",
+    fee: "$50-$250 per stay (varies significantly)",
+    notes: "Policies vary by brand and location. TownePlace Suites (up to 100 lbs), Residence Inn, and Element are most pet-friendly. Always call the specific property.",
+    tip: "Book free with Marriott Bonvoy points. <a href='/posts/marriott-pet-policy-2026/'>Full Marriott pet policy guide →</a>",
+    verdict: "🟡 Varies widely — always call ahead"
   },
   ihg: {
-    name: "IHG (Holiday Inn, Kimpton, etc.)",
-    weight: "Varies by brand (Kimpton has NO weight limit)",
-    fee: "$0-$100 depending on brand",
-    notes: "Kimpton is the standout — no weight limits, no breed restrictions, no pet fees. Other IHG brands like Holiday Inn and Candlewood Suites typically cap at 50-80 lbs.",
-    tip: "Book Kimpton if you have a large dog — they're the most pet-friendly hotel brand in the industry.",
-    verdict: "🟢 Kimpton is excellent, others vary"
+    name: "IHG (Holiday Inn, Staybridge, etc.)",
+    weight: "Varies by brand (typically 40-80 lbs)",
+    fee: "$25-$100 depending on brand",
+    notes: "Staybridge Suites (50 lbs) and Candlewood Suites (80 lbs) are most pet-friendly non-Kimpton brands. Holiday Inn policies vary by location.",
+    tip: "For large dogs, book Kimpton instead (also IHG). <a href='/posts/ihg-kimpton-pet-travel-guide/'>Full IHG pet policy guide →</a>",
+    verdict: "🟡 Moderate — Kimpton is better for large dogs"
   },
   hyatt: {
     name: "Hyatt",
-    weight: "Varies (typically 50 lbs, some no limit)",
-    fee: "$75-$150 per stay",
-    notes: "Policies vary by property. Hyatt Place and Hyatt House tend to be more pet-friendly. Some allow up to 2 pets.",
-    tip: "Check the specific property's policy before booking.",
-    verdict: "🟡 Moderate — check specific property"
+    weight: "Typically 50 lbs (Thompson/Andaz may have no limit)",
+    fee: "$50-$150 per stay",
+    notes: "Hyatt Place and Hyatt House are most consistent. Thompson and Andaz are boutique brands with more flexible policies. Always call the specific property.",
+    tip: "Book free with Chase points (transfer to World of Hyatt). <a href='/posts/hyatt-pet-policy-2026/'>Full Hyatt pet policy guide →</a>",
+    verdict: "🟡 Good — Thompson/Andaz best for large dogs"
   },
   wyndham: {
     name: "Wyndham (La Quinta, etc.)",
@@ -128,9 +132,41 @@ const policies = {
     name: "Kimpton Hotels",
     weight: "No weight limit",
     fee: "$0 (free!)",
-    notes: "The gold standard for dog travel. If your dog fits through the door, they're welcome. No breed restrictions. Many have a Director of Pet Relations (a very good dog). Nightly wine hour often welcomes pups.",
-    tip: "Best hotel chain for large dogs, period. <a href='/posts/kimpton-points-guide/'>Learn how to book free with points.</a>",
+    notes: "The gold standard for dog travel. If your dog fits through the door, they're welcome. No breed restrictions. Every property has a Director of Pet Relations. Wine hour welcomes pups.",
+    tip: "Book free with IHG points. <a href='/posts/kimpton-pet-policy-2026/'>Full Kimpton guide →</a> | <a href='/posts/kimpton-points-guide/'>How to book free →</a>",
     verdict: "🟢 Best in class — no limits, no fees"
+  },
+  extendedstay: {
+    name: "Extended Stay America",
+    weight: "Up to 2 pets, combined weight under 50 lbs",
+    fee: "$25 per night (max $150 per stay)",
+    notes: "Budget extended-stay chain with kitchens in every room. Good for longer trips. Policies can vary by location — some franchise locations have different rules.",
+    tip: "Good budget option if your dogs are small. Always call to confirm the specific location's policy.",
+    verdict: "🟡 Budget-friendly but strict weight limit"
+  },
+  sonesta: {
+    name: "Sonesta",
+    weight: "No weight limit at most properties",
+    fee: "$75-$100 per stay",
+    notes: "Sonesta and Sonesta Simply Suites welcome dogs of all sizes at most locations. Royal Sonesta and other luxury tiers may have restrictions. Call to confirm.",
+    tip: "Good option for large dogs when Kimpton isn't available.",
+    verdict: "🟢 Good for large dogs — call to confirm"
+  },
+  omni: {
+    name: "Omni Hotels",
+    weight: "Up to 25 lbs (some locations 50 lbs)",
+    fee: "$50-$150 per stay",
+    notes: "Omni's 'Omni Sensational Pets' program provides beds, bowls, and treats. However, weight limits are strict and vary by property. Luxury chain with higher fees.",
+    tip: "Call ahead — weight limits are strictly enforced at most locations.",
+    verdict: "🟡 Nice amenities but strict weight limits"
+  },
+  fourseasons: {
+    name: "Four Seasons",
+    weight: "Varies by property (often no limit)",
+    fee: "$0-$50 per stay (many waive fees)",
+    notes: "Ultra-luxury chain that genuinely welcomes dogs. Many properties have no weight limits and provide luxury pet amenities — beds, treats, even room service menus for dogs.",
+    tip: "If budget allows, this is the most pampered pet experience. Call to confirm specific property policies.",
+    verdict: "🟢 Luxury experience — often no limits or fees"
   }
 };
 
