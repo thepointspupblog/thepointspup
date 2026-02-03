@@ -3,43 +3,84 @@ title: "Guides"
 description: "Everything you need to know about traveling with your dog — from hotel policies to earning points to hitting the road."
 layout: "category-landing"
 ---
-## Your Guide to Free Pet Travel 🐾
-These guides cover everything from choosing the right hotel chain to earning enough points for free stays. Start wherever makes sense for you.
-### 🚀 Start Here
-New to points travel? Start with these:
-- **[Start Here](/start-here/)** — The complete step-by-step path for beginners
-- **[Free Guide (PDF)](/free-guide/)** — Download my 4-page quickstart guide
-- **[How to Spend Responsibly for Points](/posts/responsible-credit-card-spending-for-points/)** — Earn sign-up bonuses without paying interest
-### 🏨 Hotel Pet Policies
-Know before you book — weight limits, fees, and what to expect:
-- **[Hilton Pet Policy 2026](/posts/hilton-pet-policy-2026/)** — Fees, weight limits & tips for every Hilton brand
-- **[Hyatt Pet Policy 2026](/posts/hyatt-pet-policy-2026/)** — Thompson, Andaz, Hyatt Place & how to book with Chase points
-- **[Kimpton Pet Policy 2026](/posts/kimpton-pet-policy-2026/)** — No fees, no weight limits, no restrictions
-- **[IHG Pet Policy Guide](/posts/ihg-kimpton-pet-travel-guide/)** — Full breakdown of IHG brands including Kimpton
-- **[Marriott Pet Policy 2026](/posts/marriott-pet-policy-2026/)** — Fees by brand, weight limits, which brands are most dog-friendly, and how to book free stays
-- **[Traveling with a Large Dog](/posts/traveling-with-large-dogs-hotel-policies/)** — Hotel options when your dog is 50+ lbs
-- **[Hotel Pet Policy Finder](/posts/hotel-pet-policy-finder/)** — Interactive tool to check any chain
-### 🐕 Hotel Tips & Etiquette
-Make your stay smooth for you, your dog, and the hotel:
-- **[Your First Hotel Stay With Your Dog](/posts/first-hotel-stay-with-dog/)** — What to expect, what to pack, and how to prevent disasters
-- **[Can You Leave Your Dog Alone in a Hotel Room?](/posts/leaving-dog-alone-hotel-room/)** — Which hotels allow it, how to prepare, and what to do if things go wrong
-### 💎 Hilton for Pet Travelers
-Hilton is my go-to for dog travel. Here's how to maximize it:
-- **[Why Hilton Is Best for Pet Travelers](/posts/why-hilton-for-pet-travelers/)** — Why I'm loyal to Hilton
-- **[Hilton Diamond Status Guide](/posts/hilton-diamond-status-guide/)** — How to get top-tier perks without staying 60 nights
-- **[Hilton Credit Card Quiz](/posts/hilton-credit-card-quiz/)** — Find your perfect Hilton card in 2 minutes
-### 🏝️ IHG & Kimpton for Large Dogs
-If your dog is over 75 lbs, Kimpton should be on your radar:
-- **[How to Book Kimpton Free with Points](/posts/kimpton-points-guide/)** — Step-by-step guide to free Kimpton stays
-- **[IHG Pet Policy Guide](/posts/ihg-kimpton-pet-travel-guide/)** — All IHG brands compared
-### 🚗 Road Trip Essentials
-Practical stuff for getting there with your pup:
-- **[Road Trip Essentials for Dogs](/posts/road-trip-essentials-dogs/)** — My packing list for traveling with a 70-lb dog
-- **[Jacksonville to Panama City Beach](/posts/jacksonville-to-panama-city-beach-road-trip/)** — A pet-friendly road trip guide
-- **[Best Pet-Friendly Beach Towns Near Jacksonville](/posts/pet-friendly-beach-towns-jacksonville/)** — Weekend getaways with your dog
-### 🔧 Tools
-Interactive tools to help you decide:
-- **[Hotel Credit Card Quiz](/posts/hotel-credit-card-quiz/)** — Find the best card for your dog's size and travel style
-- **[Hilton Credit Card Quiz](/posts/hilton-credit-card-quiz/)** — Hilton-specific recommendations
-- **[Hotel Pet Policy Finder](/posts/hotel-pet-policy-finder/)** — Check policies for any major chain
+
+<div class="page-intro">
+<p>These guides cover everything from choosing the right hotel chain to earning enough points for free stays. Start wherever makes sense for you.</p>
+</div>
+
+<div class="guide-grid">
+
+<div class="guide-card featured">
+<h3>🚀 New Here? Start Here</h3>
+<p class="card-desc">New to points travel with your dog? These three guides will get you started.</p>
+<ul>
+<li><a href="/start-here/">Start Here</a> — The complete step-by-step path</li>
+<li><a href="/free-guide/">Free Guide (PDF)</a> — Download my 4-page quickstart</li>
+<li><a href="/posts/responsible-credit-card-spending-for-points/">Spend Responsibly for Points</a> — Earn bonuses without debt</li>
+</ul>
+</div>
+
+<div class="guide-card">
+<h3>🏨 Hotel Pet Policies</h3>
+<p class="card-desc">Know before you book — weight limits, fees, and what to expect.</p>
+<ul>
+<li><a href="/posts/hilton-pet-policy-2026/">Hilton Pet Policy 2026</a></li>
+<li><a href="/posts/hyatt-pet-policy-2026/">Hyatt Pet Policy 2026</a></li>
+<li><a href="/posts/kimpton-pet-policy-2026/">Kimpton Pet Policy 2026</a></li>
+<li><a href="/posts/marriott-pet-policy-2026/">Marriott Pet Policy 2026</a></li>
+<li><a href="/posts/ihg-kimpton-pet-travel-guide/">IHG Pet Policy Guide</a></li>
+</ul>
+</div>
+
+<div class="guide-card">
+<h3>🐕 Hotel Tips</h3>
+<p class="card-desc">Make your stay smooth for you, your dog, and the hotel.</p>
+<ul>
+<li><a href="/posts/first-hotel-stay-with-dog/">Your First Hotel Stay</a></li>
+<li><a href="/posts/leaving-dog-alone-hotel-room/">Leaving Your Dog Alone</a></li>
+<li><a href="/posts/traveling-with-large-dogs-hotel-policies/">Large Dog Options (50+ lbs)</a></li>
+</ul>
+</div>
+
+<div class="guide-card">
+<h3>💎 Hilton for Pet Travelers</h3>
+<p class="card-desc">Hilton is my go-to for dog travel. Here's how to maximize it.</p>
+<ul>
+<li><a href="/posts/why-hilton-for-pet-travelers/">Why Hilton Is Best</a></li>
+<li><a href="/posts/hilton-diamond-status-guide/">Diamond Status Guide</a></li>
+<li><a href="/posts/hilton-credit-card-quiz/">Hilton Card Quiz</a></li>
+</ul>
+</div>
+
+<div class="guide-card">
+<h3>🏝️ Kimpton & IHG</h3>
+<p class="card-desc">If your dog is over 75 lbs, Kimpton should be on your radar.</p>
+<ul>
+<li><a href="/posts/kimpton-points-guide/">Book Kimpton Free with Points</a></li>
+<li><a href="/posts/ihg-kimpton-pet-travel-guide/">IHG Brands Compared</a></li>
+</ul>
+</div>
+
+<div class="guide-card">
+<h3>🚗 Road Trips</h3>
+<p class="card-desc">Practical stuff for getting there with your pup.</p>
+<ul>
+<li><a href="/posts/road-trip-essentials-dogs/">Road Trip Essentials</a></li>
+<li><a href="/posts/jacksonville-to-panama-city-beach-road-trip/">Jax to PCB Road Trip</a></li>
+<li><a href="/posts/pet-friendly-beach-towns-jacksonville/">Beach Towns Near Jax</a></li>
+</ul>
+</div>
+
+<div class="guide-card tools">
+<h3>🔧 Interactive Tools</h3>
+<p class="card-desc">Quizzes and tools to help you decide.</p>
+<ul>
+<li><a href="/posts/hotel-credit-card-quiz/">Hotel Credit Card Quiz</a></li>
+<li><a href="/posts/hilton-credit-card-quiz/">Hilton Card Quiz</a></li>
+<li><a href="/posts/hotel-pet-policy-finder/">Pet Policy Finder</a></li>
+</ul>
+</div>
+
+</div>
+
 *Have a question I haven't covered? [Reach out](/contact/) — I'm always adding new guides based on what people ask.*

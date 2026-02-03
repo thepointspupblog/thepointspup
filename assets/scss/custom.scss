@@ -454,6 +454,112 @@ article h2, article h3, article h4 {
 }
 
 // ===========================================
+// GUIDE SECTION CARDS (Category Landing Pages)
+// ===========================================
+.guide-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25rem;
+    margin: 1.5rem 0;
+}
+
+.guide-card {
+    background: white;
+    border: 1px solid #e8e4df;
+    border-radius: $border-radius;
+    padding: 1.25rem 1.5rem;
+    box-shadow: $box-shadow;
+    transition: all 0.2s ease;
+
+    &:hover {
+        box-shadow: $box-shadow-hover;
+        border-color: rgba($brand-primary, 0.3);
+    }
+
+    h3 {
+        color: $brand-primary !important;
+        font-size: 1.1rem !important;
+        font-weight: 600 !important;
+        margin: 0 0 0.5rem 0 !important;
+        padding: 0 !important;
+        background: none !important;
+        border: none !important;
+        border-radius: 0 !important;
+    }
+
+    .card-desc {
+        color: #666;
+        font-size: 0.9rem;
+        margin-bottom: 0.75rem;
+        line-height: 1.5;
+    }
+
+    ul {
+        margin: 0;
+        padding-left: 1.25rem;
+
+        li {
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+            line-height: 1.4;
+
+            a {
+                color: $brand-dark;
+                text-decoration: none;
+                font-weight: 500;
+
+                &:hover {
+                    color: $brand-primary;
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}
+
+// Featured/highlight card
+.guide-card.featured {
+    grid-column: span 2;
+    background: linear-gradient(135deg, $brand-primary 0%, darken($brand-primary, 8%) 100%);
+    border: none;
+
+    h3 {
+        color: white !important;
+    }
+
+    .card-desc {
+        color: rgba(255, 255, 255, 0.9);
+    }
+
+    ul li a {
+        color: white;
+
+        &:hover {
+            color: rgba(255, 255, 255, 0.8);
+        }
+    }
+}
+
+// Tool card with orange accent
+.guide-card.tools {
+    border-left: 4px solid $brand-secondary;
+}
+
+// Page intro for category pages
+.page-intro {
+    background: $brand-light;
+    padding: 1.25rem 1.5rem;
+    border-radius: $border-radius;
+    margin-bottom: 1.5rem;
+
+    p {
+        margin: 0;
+        color: #555;
+        line-height: 1.6;
+    }
+}
+
+// ===========================================
 // MOBILE RESPONSIVE
 // ===========================================
 @media (max-width: 900px) {
@@ -483,6 +589,18 @@ article h2, article h3, article h4 {
             padding: 0.625rem;
             font-size: 0.8rem;
         }
+    }
+
+    .guide-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .guide-card.featured {
+        grid-column: span 1;
+    }
+
+    .guide-card {
+        padding: 1rem 1.25rem;
     }
 
     .article-content table {
