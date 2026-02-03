@@ -13,6 +13,7 @@ New to points travel? Start with these:
 ### 🏨 Hotel Pet Policies
 Know before you book — weight limits, fees, and what to expect:
 - **[Hilton Pet Policy 2026](/posts/hilton-pet-policy-2026/)** — Fees, weight limits & tips for every Hilton brand
+- **[Hyatt Pet Policy 2026](/posts/hyatt-pet-policy-2026/)** — Thompson, Andaz, Hyatt Place & how to book with Chase points
 - **[Kimpton Pet Policy 2026](/posts/kimpton-pet-policy-2026/)** — No fees, no weight limits, no restrictions
 - **[IHG Pet Policy Guide](/posts/ihg-kimpton-pet-travel-guide/)** — Full breakdown of IHG brands including Kimpton
 - **[Marriott Pet Policy 2026](/posts/marriott-pet-policy-2026/)** — Fees by brand, weight limits, which brands are most dog-friendly, and how to book free stays
