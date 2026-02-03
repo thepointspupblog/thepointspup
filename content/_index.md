@@ -16,9 +16,10 @@
 <h3>Browse by Category</h3>
 <div class="category-pills">
 <a href="/categories/destinations/" class="category-pill">🗺️ Destinations</a>
+<a href="/categories/airlines/" class="category-pill">✈️ Airlines</a>
 <a href="/categories/credit-cards/" class="category-pill">💳 Credit Cards</a>
 <a href="/categories/guides/" class="category-pill">📖 Guides</a>
-<a href="/categories/trip-reports/" class="category-pill">✈️ Trip Reports</a>
+<a href="/categories/trip-reports/" class="category-pill">🧳 Trip Reports</a>
 </div>
 </div>
 
