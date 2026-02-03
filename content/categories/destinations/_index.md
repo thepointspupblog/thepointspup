@@ -51,7 +51,45 @@ From mountain towns to the Queen City, North Carolina has solid dog-friendly opt
 | City | Best Hotel | Pet Fee | Book Free With |
 |------|------------|---------|----------------|
 | [Charlotte](/posts/dog-friendly-hotel-charlotte/) | Kimpton Tryon Park Hotel | None | IHG points |
-| Asheville | *Coming soon* | — | — |
+| [Asheville](/posts/dog-friendly-hotel-asheville/) | Kimpton Hotel Arras | None | IHG points |
+
+*More cities added regularly.*
+
+---
+
+### 🎸 TENNESSEE
+
+Music City is surprisingly dog-friendly, with massive dog parks and patios everywhere.
+
+| City | Best Hotel | Pet Fee | Book Free With |
+|------|------------|---------|----------------|
+| [Nashville](/posts/dog-friendly-hotel-nashville/) | Kimpton Aertson Hotel | None | IHG points |
+
+*More cities added regularly.*
+
+---
+
+### 🤠 TEXAS
+
+The Lone Star State has some of the most dog-friendly cities in America. Austin in particular is a must-visit.
+
+| City | Best Hotel | Pet Fee | Book Free With |
+|------|------------|---------|----------------|
+| [Austin](/posts/dog-friendly-hotel-austin/) | Kimpton Hotel Van Zandt | None | IHG points |
+| Houston | *Coming soon* | — | — |
+| San Antonio | *Coming soon* | — | — |
+
+*More cities added regularly.*
+
+---
+
+### 🌴 SOUTH CAROLINA
+
+Southern charm meets dog-friendly hospitality. Charleston is a gem.
+
+| City | Best Hotel | Pet Fee | Book Free With |
+|------|------------|---------|----------------|
+| [Charleston](/posts/dog-friendly-hotel-charleston/) | The Spectator Hotel | $75/stay | Marriott points |
 
 *More cities added regularly.*
 
@@ -68,11 +106,12 @@ If you're local to Northeast Florida, these spots are close enough for a day tri
 
 ### 📍 MORE STATES COMING
 
-I'm starting with the Southeast because I live here and can actually visit these places. But I'm planning to expand to:
+I'm starting with the Southeast because I live here and can actually visit these places. Expanding to:
 
-- Texas (Austin, Houston, San Antonio)
-- Tennessee (Nashville)
-- South Carolina (Charleston)
+- More Texas cities (Houston, San Antonio, Dallas)
+- Colorado (Denver)
+- Arizona (Scottsdale, Sedona)
+- California (San Diego, Los Angeles)
 
 Traveled with your dog to any of these cities? [Leave your pawprint](/page/leave-your-pawprint/) and let me know.
 
