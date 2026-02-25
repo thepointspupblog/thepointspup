@@ -932,34 +932,42 @@ article h2, article h3, article h4 {
 // ===========================================
 .section-title {
     font-size: 1.4rem;
-    color: #888;
+    color: $brand-primary;
     text-transform: uppercase;
     letter-spacing: 0.05em;
+    font-weight: 700;
 }
 
 .section-card {
     border-radius: $border-radius;
-    background: white;
-    padding: 2rem;
+    background: linear-gradient(135deg, $brand-primary 0%, darken($brand-primary, 8%) 100%);
+    color: white;
+    padding: 2rem 2.5rem;
     box-shadow: $box-shadow;
     margin-bottom: 1.5rem;
 
     .section-term {
-        font-size: 2.4rem;
-        color: $brand-primary;
+        font-size: 2.6rem;
+        color: white;
         font-weight: 700;
     }
 
     .section-count {
         font-size: 1.3rem;
-        color: #888;
+        color: rgba(255, 255, 255, 0.8);
         text-transform: uppercase;
+        font-weight: 600;
     }
 
     .section-description {
         font-size: 1.5rem;
-        color: #555;
+        color: rgba(255, 255, 255, 0.9);
         line-height: 1.6;
+    }
+
+    .section-image img {
+        border-radius: 50%;
+        border: 3px solid rgba(255, 255, 255, 0.3);
     }
 }
 
@@ -967,20 +975,41 @@ article h2, article h3, article h4 {
 .article-list--compact {
     border-radius: $border-radius;
     overflow: hidden;
+    box-shadow: $box-shadow;
 
     article {
-        a {
+        & > a {
             padding: 1.5rem 2rem;
+            transition: background 0.2s ease;
+
+            &:hover {
+                background: rgba($brand-primary, 0.03);
+            }
+        }
+
+        &:not(:last-of-type) {
+            border-bottom: 1px solid #e8e4df;
         }
 
         .article-title {
             font-size: 1.7rem;
             color: $brand-dark;
+            font-weight: 600;
+
+            a {
+                color: $brand-dark;
+                text-decoration: none;
+
+                &:hover {
+                    color: $brand-primary;
+                }
+            }
         }
 
         .article-time {
             time, a {
                 font-size: 1.3rem;
+                color: #888;
             }
         }
 
@@ -997,18 +1026,52 @@ article h2, article h3, article h4 {
     margin-bottom: 1.5rem;
 
     .article-list--tile article {
+        border-radius: $border-radius;
+
         .article-title {
             font-size: 1.6rem;
         }
     }
 }
 
-// Tag/category badges in articles
+// Tag/category badges in articles and sidebar
 .article-category a,
 .article-tags a {
     font-size: 1.3rem;
     padding: 0.6rem 1.2rem;
     border-radius: 6px;
+    background-color: $brand-primary;
+    color: white;
+
+    &:hover {
+        background-color: darken($brand-primary, 8%);
+    }
+}
+
+// Sidebar tag cloud and category widgets
+.widget.tagCloud {
+    .tagCloud-tags a {
+        font-size: 1.3rem;
+        padding: 0.5rem 1rem;
+        border-radius: 6px;
+        background: white;
+        border: 1.5px solid #e8e4df;
+        color: $brand-dark;
+        display: inline-block;
+        margin: 0.25rem;
+        transition: all 0.2s ease;
+
+        &:hover {
+            border-color: $brand-primary;
+            color: $brand-primary;
+            background: rgba($brand-primary, 0.04);
+        }
+    }
+
+    .widget-title {
+        font-size: 1.4rem;
+        color: $brand-dark;
+    }
 }
 
 // ===========================================
