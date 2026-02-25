@@ -12,92 +12,38 @@ tags:
 
 Not sure if your dog is welcome? Use this tool to quickly check pet policies for major hotel chains.
 
-<style>
-#pet-policy-finder { max-width: 700px; }
-#pet-policy-finder select, #pet-policy-finder input {
-  padding: 0.5rem; border: 1px solid #ccc; border-radius: 6px; font-size: 0.95rem;
-}
-#pet-policy-finder select { width: 100%; margin-top: 0.25rem; }
-#pet-policy-finder input { width: 80px; }
-.tool-tabs { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
-.tool-tabs button {
-  padding: 0.5rem 1rem; border: 2px solid #2d5a47; border-radius: 8px;
-  background: transparent; color: #2d5a47; font-weight: 600; cursor: pointer; font-size: 0.85rem;
-}
-.tool-tabs button.active { background: #2d5a47; color: white; }
-.tool-section { display: none; }
-.tool-section.active { display: block; }
-.policy-card {
-  margin-top: 1rem; padding: 1.25rem; background: #f9f6f1;
-  border-radius: 12px; border: 2px solid #2d5a47;
-}
-.policy-card h3 { margin-top: 0; color: #2d5a47; }
-.policy-card p { margin: 0.4rem 0; }
-.compare-grid { display: grid; gap: 1rem; margin-top: 1rem; }
-.filter-row { display: flex; gap: 1rem; flex-wrap: wrap; align-items: end; margin-bottom: 1rem; }
-.filter-row label { font-size: 0.85rem; font-weight: 600; }
-.filter-row > div { display: flex; flex-direction: column; gap: 0.25rem; }
-.btn {
-  padding: 0.5rem 1.25rem; background: #2d5a47; color: white;
-  border: none; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 0.85rem;
-}
-.btn:hover { background: #1e3d30; }
-.stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 1rem; margin-top: 1rem; }
-.stat-card {
-  padding: 1rem; background: #f9f6f1; border-radius: 10px;
-  border: 1px solid #ddd; text-align: center;
-}
-.stat-card .number { font-size: 1.75rem; font-weight: 700; color: #2d5a47; }
-.stat-card .label { font-size: 0.8rem; color: #666; margin-top: 0.25rem; }
-.compare-check { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.75rem 0; }
-.compare-check label {
-  padding: 0.35rem 0.75rem; border: 1px solid #ccc; border-radius: 6px;
-  font-size: 0.8rem; cursor: pointer; user-select: none;
-}
-.compare-check input:checked + span { color: #2d5a47; font-weight: 600; }
-.compare-check input { display: none; }
-.compare-check label:has(input:checked) { border-color: #2d5a47; background: #edf5f0; }
-#api-status { font-size: 0.75rem; margin-left: 0.5rem; }
-.rank-badge {
-  display: inline-block; width: 24px; height: 24px; border-radius: 50%;
-  background: #2d5a47; color: white; text-align: center; line-height: 24px;
-  font-size: 0.75rem; font-weight: 700; margin-right: 0.5rem;
-}
-</style>
-
 <div id="pet-policy-finder">
 
-<div class="tool-tabs">
-  <button class="active" onclick="switchTab('lookup')">Look Up</button>
-  <button onclick="switchTab('filter')">Filter</button>
-  <button onclick="switchTab('recommend')">Recommend</button>
-  <button onclick="switchTab('compare')">Compare</button>
-  <button onclick="switchTab('stats')">Stats</button>
+<div class="finder-tabs" id="finder-tabs">
+  <button class="finder-tab active" data-tab="lookup">Look Up</button>
+  <button class="finder-tab" data-tab="filter">Filter</button>
+  <button class="finder-tab" data-tab="recommend">Recommend</button>
+  <button class="finder-tab" data-tab="compare">Compare</button>
+  <button class="finder-tab" data-tab="stats">Stats</button>
 </div>
 
 <!-- LOOK UP -->
-<div id="tab-lookup" class="tool-section active">
-  <label for="hotel-select"><strong>Select a hotel chain:</strong></label>
-  <span id="api-status"></span>
+<div class="finder-panel active" id="panel-lookup">
   <select id="hotel-select">
-    <option value="">-- Choose a chain --</option>
+    <option value="">-- Choose a hotel chain --</option>
   </select>
   <div id="lookup-result"></div>
 </div>
 
 <!-- FILTER -->
-<div id="tab-filter" class="tool-section">
-  <div class="filter-row">
-    <div>
-      <label>Dog's weight (lbs)</label>
+<div class="finder-panel" id="panel-filter">
+  <p class="finder-desc">Find hotel chains that match your needs.</p>
+  <div class="finder-filters">
+    <div class="filter-field">
+      <label for="filter-weight">Dog's weight (lbs)</label>
       <input type="number" id="filter-weight" min="0" placeholder="e.g. 70">
     </div>
-    <div>
-      <label>Max fee ($)</label>
+    <div class="filter-field">
+      <label for="filter-fee">Max fee ($)</label>
       <input type="number" id="filter-fee" min="0" placeholder="e.g. 50">
     </div>
-    <div>
-      <label>Rating</label>
+    <div class="filter-field">
+      <label for="filter-rating">Rating</label>
       <select id="filter-rating">
         <option value="">Any</option>
         <option value="excellent">Excellent</option>
@@ -105,50 +51,109 @@ Not sure if your dog is welcome? Use this tool to quickly check pet policies for
         <option value="moderate">Moderate</option>
       </select>
     </div>
-    <div>
-      <label>Search</label>
-      <input type="text" id="filter-search" placeholder="e.g. suites" style="width: 120px;">
+    <div class="filter-field">
+      <label for="filter-search">Search</label>
+      <input type="text" id="filter-search" placeholder="e.g. suites">
     </div>
-    <button class="btn" onclick="runFilter()">Search</button>
   </div>
+  <button class="finder-btn" id="btn-filter">Search</button>
   <div id="filter-results"></div>
 </div>
 
 <!-- RECOMMEND -->
-<div id="tab-recommend" class="tool-section">
-  <p>Tell us about your dog and budget — we'll rank the best hotel chains for you.</p>
-  <div class="filter-row">
-    <div>
-      <label>Dog's weight (lbs)</label>
+<div class="finder-panel" id="panel-recommend">
+  <p class="finder-desc">Tell us about your dog and budget — we'll rank the best hotel chains for you.</p>
+  <div class="finder-filters">
+    <div class="filter-field">
+      <label for="rec-weight">Dog's weight (lbs)</label>
       <input type="number" id="rec-weight" min="0" placeholder="e.g. 70">
     </div>
-    <div>
-      <label>Max fee ($)</label>
+    <div class="filter-field">
+      <label for="rec-fee">Max fee ($)</label>
       <input type="number" id="rec-fee" min="0" placeholder="e.g. 50">
     </div>
-    <button class="btn" onclick="runRecommend()">Get Recommendations</button>
   </div>
+  <button class="finder-btn" id="btn-recommend">Get Recommendations</button>
   <div id="rec-results"></div>
 </div>
 
 <!-- COMPARE -->
-<div id="tab-compare" class="tool-section">
-  <p><strong>Select 2-5 chains to compare side by side:</strong></p>
-  <div id="compare-checkboxes" class="compare-check"></div>
-  <button class="btn" onclick="runCompare()">Compare</button>
+<div class="finder-panel" id="panel-compare">
+  <p class="finder-desc">Select 2–5 chains to compare side by side.</p>
+  <div class="finder-checkboxes" id="compare-checks"></div>
+  <button class="finder-btn" id="btn-compare">Compare Selected</button>
   <div id="compare-results"></div>
 </div>
 
 <!-- STATS -->
-<div id="tab-stats" class="tool-section">
-  <div id="stats-results"><p>Loading stats...</p></div>
+<div class="finder-panel" id="panel-stats">
+  <div id="stats-results"><p class="finder-desc">Loading stats...</p></div>
+</div>
+
+<!-- ADMIN (hidden by default) -->
+<div id="admin-gate" style="margin-top:2rem; padding-top:1rem; border-top:1px solid #e8e4df;">
+  <button class="finder-tab" id="btn-admin-toggle" style="font-size:0.8rem; opacity:0.5;">Admin</button>
+</div>
+
+<div class="finder-panel" id="panel-admin" style="display:none;">
+  <div class="admin-login" id="admin-login">
+    <label for="admin-key"><strong>API Key</strong></label>
+    <div style="display:flex;gap:0.5rem;">
+      <input type="password" id="admin-key" placeholder="Enter admin key" style="flex:1;">
+      <button class="finder-btn" id="btn-admin-auth">Unlock</button>
+    </div>
+    <p class="admin-msg" id="admin-msg"></p>
+  </div>
+  <div id="admin-tools" style="display:none;">
+    <div class="admin-section">
+      <h4>Update a Hotel Chain</h4>
+      <div class="finder-filters">
+        <div class="filter-field" style="flex:1 1 100%;">
+          <label for="admin-select">Chain to edit</label>
+          <select id="admin-select"><option value="">-- Select --</option></select>
+        </div>
+      </div>
+      <div id="admin-edit-fields" style="display:none;">
+        <div class="finder-filters">
+          <div class="filter-field"><label>Name</label><input type="text" id="edit-name"></div>
+          <div class="filter-field"><label>Weight Limit</label><input type="text" id="edit-weightLimit"></div>
+          <div class="filter-field"><label>Fee</label><input type="text" id="edit-fee"></div>
+          <div class="filter-field"><label>Max Weight (lbs)</label><input type="number" id="edit-maxWeightLbs"></div>
+          <div class="filter-field"><label>Rating</label>
+            <select id="edit-rating"><option value="excellent">Excellent</option><option value="good">Good</option><option value="moderate">Moderate</option></select>
+          </div>
+          <div class="filter-field"><label>Website URL</label><input type="text" id="edit-websiteUrl"></div>
+        </div>
+        <div class="filter-field" style="margin-top:0.5rem;"><label>Notes</label><textarea id="edit-notes" rows="3" style="width:100%;padding:0.5rem;border:2px solid #e8e4df;border-radius:8px;font-family:inherit;resize:vertical;"></textarea></div>
+        <div class="filter-field" style="margin-top:0.5rem;"><label>Tip</label><textarea id="edit-tip" rows="2" style="width:100%;padding:0.5rem;border:2px solid #e8e4df;border-radius:8px;font-family:inherit;resize:vertical;"></textarea></div>
+        <div class="filter-field" style="margin-top:0.5rem;"><label>Verdict</label><input type="text" id="edit-verdict" style="width:100%;"></div>
+        <div style="display:flex;gap:0.5rem;margin-top:1rem;">
+          <button class="finder-btn" id="btn-save">Save Changes</button>
+          <button class="finder-btn finder-btn-danger" id="btn-delete">Delete Chain</button>
+        </div>
+      </div>
+    </div>
+    <div class="admin-section" style="margin-top:1.5rem;">
+      <h4>Add New Hotel Chain</h4>
+      <div class="finder-filters">
+        <div class="filter-field"><label>ID (lowercase, no spaces)</label><input type="text" id="add-id" placeholder="e.g. newchain"></div>
+        <div class="filter-field"><label>Name</label><input type="text" id="add-name" placeholder="e.g. New Chain Hotels"></div>
+        <div class="filter-field"><label>Weight Limit</label><input type="text" id="add-weightLimit" placeholder="e.g. Up to 75 lbs"></div>
+        <div class="filter-field"><label>Fee</label><input type="text" id="add-fee" placeholder="e.g. $50 per stay"></div>
+        <div class="filter-field"><label>Rating</label>
+          <select id="add-rating"><option value="good">Good</option><option value="excellent">Excellent</option><option value="moderate">Moderate</option></select>
+        </div>
+      </div>
+      <button class="finder-btn" id="btn-add" style="margin-top:0.75rem;">Add Chain</button>
+    </div>
+    <p class="admin-msg" id="admin-result"></p>
+  </div>
 </div>
 
 </div>
 
 <script>
 const API = "https://pet-policy-api.onrender.com/api";
-
 const guideLinks = {
   hilton: "/posts/hilton-pet-policy-2026/",
   marriott: "/posts/marriott-pet-policy-2026/",
@@ -157,67 +162,73 @@ const guideLinks = {
   kimpton: "/posts/kimpton-pet-policy-2026/"
 };
 const ratingEmoji = { excellent: "🟢", good: "🟢", moderate: "🟡" };
+let adminKey = "";
 
-function policyCard(p, rank) {
+function card(p, rank) {
   const emoji = ratingEmoji[p.rating] || "🟡";
   const guide = guideLinks[p.id] ? ` <a href="${guideLinks[p.id]}">Full guide →</a>` : "";
-  const badge = rank ? `<span class="rank-badge">${rank}</span>` : "";
-  return `<div class="policy-card">
-    <h3>${badge}${p.name}</h3>
-    <p><strong>Weight Limit:</strong> ${p.weightLimit}</p>
-    <p><strong>Pet Fee:</strong> ${p.fee}</p>
-    <p><strong>Notes:</strong> ${p.notes}</p>
-    <p><strong>💡 Tip:</strong> ${p.tip}${guide}</p>
-    <p style="font-size: 1.05rem; font-weight: 600;">${emoji} ${p.verdict}</p>
+  const badge = rank ? `<span class="rank-num">${rank}</span>` : "";
+  const updated = p.lastUpdated ? `<span class="last-updated">Updated ${new Date(p.lastUpdated).toLocaleDateString()}</span>` : "";
+  return `<div class="result-card">
+    <div class="result-header">${badge}<strong>${p.name}</strong>${updated}</div>
+    <div class="result-body">
+      <div class="result-row"><span class="result-label">Weight Limit</span><span>${p.weightLimit || 'N/A'}</span></div>
+      <div class="result-row"><span class="result-label">Pet Fee</span><span>${p.fee || 'N/A'}</span></div>
+      <div class="result-row"><span class="result-label">Notes</span><span>${p.notes || ''}</span></div>
+      <div class="result-row"><span class="result-label">Tip</span><span>${p.tip || ''}${guide}</span></div>
+      <div class="result-verdict">${emoji} ${p.verdict || ''}</div>
+    </div>
   </div>`;
 }
 
-function switchTab(name) {
-  document.querySelectorAll('.tool-section').forEach(s => s.classList.remove('active'));
-  document.querySelectorAll('.tool-tabs button').forEach(b => b.classList.remove('active'));
-  document.getElementById('tab-' + name).classList.add('active');
-  event.target.classList.add('active');
-  if (name === 'stats') loadStats();
+function msg(el, text, isError) {
+  el.textContent = text;
+  el.style.color = isError ? "#c0392b" : "#2d5a47";
 }
 
-// --- LOOK UP ---
+// Tabs
+document.getElementById('finder-tabs').addEventListener('click', function(e) {
+  if (!e.target.classList.contains('finder-tab')) return;
+  document.querySelectorAll('.finder-tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.finder-panel').forEach(p => p.classList.remove('active'));
+  e.target.classList.add('active');
+  document.getElementById('panel-' + e.target.dataset.tab).classList.add('active');
+  if (e.target.dataset.tab === 'stats') loadStats();
+});
+
+// Load hotels
 async function loadHotels() {
-  const select = document.getElementById('hotel-select');
-  const status = document.getElementById('api-status');
   try {
-    const res = await fetch(API + "/hotels", { signal: AbortSignal.timeout(8000) });
+    const res = await fetch(API + "/hotels", { signal: AbortSignal.timeout(10000) });
     if (!res.ok) throw new Error();
     const hotels = await res.json();
     hotels.sort((a, b) => a.name.localeCompare(b.name));
+    const select = document.getElementById('hotel-select');
+    const adminSelect = document.getElementById('admin-select');
+    const checks = document.getElementById('compare-checks');
     hotels.forEach(h => {
-      const opt = document.createElement('option');
-      opt.value = h.id;
-      opt.textContent = h.name;
-      select.appendChild(opt);
+      select.innerHTML += `<option value="${h.id}">${h.name}</option>`;
+      adminSelect.innerHTML += `<option value="${h.id}">${h.name}</option>`;
+      checks.innerHTML += `<label class="check-label"><input type="checkbox" value="${h.id}"><span>${h.name}</span></label>`;
     });
-    populateCompareCheckboxes(hotels);
-    status.textContent = "✓ Live data";
-    status.style.color = "#2d5a47";
   } catch (e) {
-    status.textContent = "⏳ Connecting...";
     setTimeout(loadHotels, 5000);
   }
 }
 
+// Look Up
 document.getElementById('hotel-select').addEventListener('change', async function() {
   const div = document.getElementById('lookup-result');
   if (!this.value) { div.innerHTML = ''; return; }
   try {
-    const res = await fetch(API + "/hotels/" + this.value, { signal: AbortSignal.timeout(5000) });
+    const res = await fetch(API + "/hotels/" + this.value);
     if (!res.ok) throw new Error();
-    div.innerHTML = policyCard(await res.json());
-  } catch (e) {
-    div.innerHTML = '<div class="policy-card"><p>Unable to load. Please try again.</p></div>';
-  }
+    div.innerHTML = card(await res.json());
+  } catch (e) { div.innerHTML = '<p class="finder-error">Unable to load. Try again.</p>'; }
 });
 
-// --- FILTER ---
-async function runFilter() {
+// Filter
+document.getElementById('btn-filter').addEventListener('click', async function() {
   const params = new URLSearchParams();
   const w = document.getElementById('filter-weight').value;
   const f = document.getElementById('filter-fee').value;
@@ -227,89 +238,170 @@ async function runFilter() {
   if (f) params.set('maxFee', f);
   if (r) params.set('rating', r);
   if (s) params.set('search', s);
-
   const div = document.getElementById('filter-results');
   try {
-    const res = await fetch(API + "/hotels?" + params, { signal: AbortSignal.timeout(5000) });
-    if (!res.ok) throw new Error();
+    const res = await fetch(API + "/hotels?" + params);
     const hotels = await res.json();
-    if (hotels.length === 0) {
-      div.innerHTML = '<div class="policy-card"><p>No chains match your filters. Try broadening your search.</p></div>';
-    } else {
-      div.innerHTML = `<p style="margin-top:0.5rem;color:#666;font-size:0.85rem;">${hotels.length} chain${hotels.length > 1 ? 's' : ''} found</p>` + hotels.map(h => policyCard(h)).join('');
-    }
-  } catch (e) {
-    div.innerHTML = '<div class="policy-card"><p>Unable to load. Please try again.</p></div>';
-  }
-}
+    div.innerHTML = hotels.length === 0
+      ? '<p class="finder-error">No chains match your filters.</p>'
+      : `<p class="result-count">${hotels.length} chain${hotels.length !== 1 ? 's' : ''} found</p>` + hotels.map(h => card(h)).join('');
+  } catch (e) { div.innerHTML = '<p class="finder-error">Unable to load. Try again.</p>'; }
+});
 
-// --- RECOMMEND ---
-async function runRecommend() {
+// Recommend
+document.getElementById('btn-recommend').addEventListener('click', async function() {
   const params = new URLSearchParams();
   const w = document.getElementById('rec-weight').value;
   const f = document.getElementById('rec-fee').value;
   if (w) params.set('weight', w);
   if (f) params.set('maxFee', f);
-
   const div = document.getElementById('rec-results');
   try {
-    const res = await fetch(API + "/hotels/recommend?" + params, { signal: AbortSignal.timeout(5000) });
-    if (!res.ok) throw new Error();
+    const res = await fetch(API + "/hotels/recommend?" + params);
     const hotels = await res.json();
-    if (hotels.length === 0) {
-      div.innerHTML = '<div class="policy-card"><p>No chains match. Try adjusting your criteria.</p></div>';
-    } else {
-      div.innerHTML = hotels.map((h, i) => policyCard(h, i + 1)).join('');
-    }
-  } catch (e) {
-    div.innerHTML = '<div class="policy-card"><p>Unable to load. Please try again.</p></div>';
-  }
-}
+    div.innerHTML = hotels.length === 0
+      ? '<p class="finder-error">No chains match.</p>'
+      : hotels.map((h, i) => card(h, i + 1)).join('');
+  } catch (e) { div.innerHTML = '<p class="finder-error">Unable to load. Try again.</p>'; }
+});
 
-// --- COMPARE ---
-function populateCompareCheckboxes(hotels) {
-  const container = document.getElementById('compare-checkboxes');
-  hotels.sort((a, b) => a.name.localeCompare(b.name)).forEach(h => {
-    container.innerHTML += `<label><input type="checkbox" value="${h.id}"><span>${h.name}</span></label>`;
-  });
-}
-
-async function runCompare() {
-  const checked = [...document.querySelectorAll('#compare-checkboxes input:checked')].map(c => c.value);
+// Compare
+document.getElementById('btn-compare').addEventListener('click', async function() {
+  const ids = [...document.querySelectorAll('#compare-checks input:checked')].map(c => c.value);
   const div = document.getElementById('compare-results');
-  if (checked.length < 2 || checked.length > 5) {
-    div.innerHTML = '<div class="policy-card"><p>Please select 2-5 chains to compare.</p></div>';
+  if (ids.length < 2 || ids.length > 5) {
+    div.innerHTML = '<p class="finder-error">Select 2–5 chains to compare.</p>';
     return;
   }
   try {
-    const res = await fetch(API + "/hotels/compare?ids=" + checked.join(','), { signal: AbortSignal.timeout(5000) });
+    const res = await fetch(API + "/hotels/compare?ids=" + ids.join(','));
     if (!res.ok) throw new Error();
     const hotels = await res.json();
-    div.innerHTML = '<div class="compare-grid">' + hotels.map(h => policyCard(h)).join('') + '</div>';
-  } catch (e) {
-    div.innerHTML = '<div class="policy-card"><p>Unable to load. Please try again.</p></div>';
-  }
-}
+    div.innerHTML = '<div class="compare-grid">' + hotels.map(h => card(h)).join('') + '</div>';
+  } catch (e) { div.innerHTML = '<p class="finder-error">Unable to load. Try again.</p>'; }
+});
 
-// --- STATS ---
+// Stats
 async function loadStats() {
   const div = document.getElementById('stats-results');
   try {
-    const res = await fetch(API + "/stats", { signal: AbortSignal.timeout(5000) });
-    if (!res.ok) throw new Error();
+    const res = await fetch(API + "/stats");
     const s = await res.json();
     div.innerHTML = `<div class="stats-grid">
-      <div class="stat-card"><div class="number">${s.totalChains}</div><div class="label">Hotel Chains</div></div>
-      <div class="stat-card"><div class="number">${s.noFeeChains}</div><div class="label">No Pet Fee</div></div>
-      <div class="stat-card"><div class="number">${s.noWeightLimitChains}</div><div class="label">No Weight Limit</div></div>
-      <div class="stat-card"><div class="number">${s.ratingBreakdown.excellent}</div><div class="label">Excellent Rated</div></div>
-      <div class="stat-card"><div class="number">${s.ratingBreakdown.good}</div><div class="label">Good Rated</div></div>
-      <div class="stat-card"><div class="number">${s.ratingBreakdown.moderate}</div><div class="label">Moderate Rated</div></div>
+      <div class="stat-card"><div class="stat-num">${s.totalChains}</div><div class="stat-label">Hotel Chains</div></div>
+      <div class="stat-card"><div class="stat-num">${s.noFeeChains}</div><div class="stat-label">No Pet Fee</div></div>
+      <div class="stat-card"><div class="stat-num">${s.noWeightLimitChains}</div><div class="stat-label">No Weight Limit</div></div>
+      <div class="stat-card"><div class="stat-num">${s.ratingBreakdown.excellent}</div><div class="stat-label">Excellent</div></div>
+      <div class="stat-card"><div class="stat-num">${s.ratingBreakdown.good}</div><div class="stat-label">Good</div></div>
+      <div class="stat-card"><div class="stat-num">${s.ratingBreakdown.moderate}</div><div class="stat-label">Moderate</div></div>
     </div>`;
-  } catch (e) {
-    div.innerHTML = '<div class="policy-card"><p>Unable to load stats. Please try again.</p></div>';
-  }
+  } catch (e) { div.innerHTML = '<p class="finder-error">Unable to load stats.</p>'; }
 }
+
+// Admin toggle
+document.getElementById('btn-admin-toggle').addEventListener('click', function() {
+  const panel = document.getElementById('panel-admin');
+  panel.style.display = panel.style.display === 'none' ? 'block' : 'none';
+});
+
+// Admin auth
+document.getElementById('btn-admin-auth').addEventListener('click', async function() {
+  adminKey = document.getElementById('admin-key').value;
+  const msgEl = document.getElementById('admin-msg');
+  try {
+    const res = await fetch(API + "/hotels/kimpton", { method: 'PUT', headers: { 'X-API-Key': adminKey, 'Content-Type': 'application/json' },
+      body: '{"id":"kimpton","name":"Kimpton Hotels","weightLimit":"No weight limit","fee":"$0 (free!)","breedRestrictions":false,"maxWeightLbs":null,"notes":"The gold standard for dog travel. If your dog fits through the door, they\'re welcome. No breed restrictions. Every property has a Director of Pet Relations. Wine hour welcomes pups.","tip":"Book free with IHG points. Part of IHG One Rewards. The IHG Premier card\'s 4th night free benefit saves 25% on points stays.","verdict":"Best in class -- no limits, no fees","rating":"excellent","websiteUrl":"https://www.kimptonhotels.com"}'
+    });
+    if (res.status === 401) { msg(msgEl, "Invalid API key.", true); adminKey = ""; return; }
+    document.getElementById('admin-login').style.display = 'none';
+    document.getElementById('admin-tools').style.display = 'block';
+  } catch (e) { msg(msgEl, "Connection error.", true); }
+});
+
+// Admin: load chain for editing
+document.getElementById('admin-select').addEventListener('change', async function() {
+  const fields = document.getElementById('admin-edit-fields');
+  if (!this.value) { fields.style.display = 'none'; return; }
+  try {
+    const res = await fetch(API + "/hotels/" + this.value);
+    const h = await res.json();
+    document.getElementById('edit-name').value = h.name || '';
+    document.getElementById('edit-weightLimit').value = h.weightLimit || '';
+    document.getElementById('edit-fee').value = h.fee || '';
+    document.getElementById('edit-maxWeightLbs').value = h.maxWeightLbs || '';
+    document.getElementById('edit-rating').value = h.rating || 'good';
+    document.getElementById('edit-websiteUrl').value = h.websiteUrl || '';
+    document.getElementById('edit-notes').value = h.notes || '';
+    document.getElementById('edit-tip').value = h.tip || '';
+    document.getElementById('edit-verdict').value = h.verdict || '';
+    fields.style.display = 'block';
+  } catch (e) { fields.style.display = 'none'; }
+});
+
+// Admin: save
+document.getElementById('btn-save').addEventListener('click', async function() {
+  const id = document.getElementById('admin-select').value;
+  const msgEl = document.getElementById('admin-result');
+  if (!id) return;
+  const body = {
+    id: id,
+    name: document.getElementById('edit-name').value,
+    weightLimit: document.getElementById('edit-weightLimit').value,
+    fee: document.getElementById('edit-fee').value,
+    maxWeightLbs: document.getElementById('edit-maxWeightLbs').value ? parseInt(document.getElementById('edit-maxWeightLbs').value) : null,
+    breedRestrictions: false,
+    rating: document.getElementById('edit-rating').value,
+    websiteUrl: document.getElementById('edit-websiteUrl').value,
+    notes: document.getElementById('edit-notes').value,
+    tip: document.getElementById('edit-tip').value,
+    verdict: document.getElementById('edit-verdict').value
+  };
+  try {
+    const res = await fetch(API + "/hotels/" + id, {
+      method: 'PUT', headers: { 'X-API-Key': adminKey, 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    });
+    if (res.ok) msg(msgEl, "Saved successfully!", false);
+    else { const e = await res.json(); msg(msgEl, e.message || "Error saving.", true); }
+  } catch (e) { msg(msgEl, "Connection error.", true); }
+});
+
+// Admin: delete
+document.getElementById('btn-delete').addEventListener('click', async function() {
+  const id = document.getElementById('admin-select').value;
+  const msgEl = document.getElementById('admin-result');
+  if (!id || !confirm("Delete " + id + "? This cannot be undone.")) return;
+  try {
+    const res = await fetch(API + "/hotels/" + id, {
+      method: 'DELETE', headers: { 'X-API-Key': adminKey }
+    });
+    if (res.ok) { msg(msgEl, "Deleted.", false); document.getElementById('admin-edit-fields').style.display = 'none'; }
+    else msg(msgEl, "Error deleting.", true);
+  } catch (e) { msg(msgEl, "Connection error.", true); }
+});
+
+// Admin: add
+document.getElementById('btn-add').addEventListener('click', async function() {
+  const msgEl = document.getElementById('admin-result');
+  const body = {
+    id: document.getElementById('add-id').value,
+    name: document.getElementById('add-name').value,
+    weightLimit: document.getElementById('add-weightLimit').value,
+    fee: document.getElementById('add-fee').value,
+    breedRestrictions: false,
+    rating: document.getElementById('add-rating').value,
+    notes: "", tip: "", verdict: "", websiteUrl: "", maxWeightLbs: null
+  };
+  if (!body.id || !body.name) { msg(msgEl, "ID and Name are required.", true); return; }
+  try {
+    const res = await fetch(API + "/hotels", {
+      method: 'POST', headers: { 'X-API-Key': adminKey, 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    });
+    if (res.ok) msg(msgEl, "Added " + body.name + "!", false);
+    else { const e = await res.json(); msg(msgEl, e.message || "Error adding.", true); }
+  } catch (e) { msg(msgEl, "Connection error.", true); }
+});
 
 loadHotels();
 </script>
