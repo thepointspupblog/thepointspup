@@ -90,9 +90,9 @@ Not sure if your dog is welcome? Use this tool to quickly check pet policies for
   <div id="stats-results"><p class="finder-desc">Loading stats...</p></div>
 </div>
 
-<!-- ADMIN (hidden by default) -->
-<div id="admin-gate" style="margin-top:2rem; padding-top:1rem; border-top:1px solid #e8e4df;">
-  <button class="finder-tab" id="btn-admin-toggle" style="font-size:0.8rem; opacity:0.5;">Admin</button>
+<!-- ADMIN (only visible with ?admin=true URL parameter) -->
+<div id="admin-gate" style="display:none; margin-top:2rem; padding-top:1rem; border-top:1px solid #e8e4df;">
+  <button class="finder-tab" id="btn-admin-toggle" style="font-size:0.8rem;">Admin</button>
 </div>
 
 <div class="finder-panel" id="panel-admin" style="display:none;">
@@ -163,6 +163,8 @@ const guideLinks = {
 };
 const ratingEmoji = { excellent: "🟢", good: "🟢", moderate: "🟡" };
 let adminKey = "";
+const isAdmin = new URLSearchParams(window.location.search).get('admin') === 'true';
+if (isAdmin) document.getElementById('admin-gate').style.display = 'block';
 
 function card(p, rank) {
   const emoji = ratingEmoji[p.rating] || "🟡";
@@ -208,7 +210,7 @@ async function loadHotels() {
     const checks = document.getElementById('compare-checks');
     hotels.forEach(h => {
       select.innerHTML += `<option value="${h.id}">${h.name}</option>`;
-      adminSelect.innerHTML += `<option value="${h.id}">${h.name}</option>`;
+      if (isAdmin) adminSelect.innerHTML += `<option value="${h.id}">${h.name}</option>`;
       checks.innerHTML += `<label class="check-label"><input type="checkbox" value="${h.id}"><span>${h.name}</span></label>`;
     });
   } catch (e) {
