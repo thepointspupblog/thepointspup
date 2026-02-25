@@ -730,8 +730,18 @@ article h2, article h3, article h4 {
 // ===========================================
 // LATEST POSTS SECTION (Homepage)
 // ===========================================
+.section-label {
+    margin-bottom: 0.5rem;
+}
+
 .article-list {
-    margin-top: 1rem;
+    margin-top: 0;
+    gap: 12px !important;
+}
+
+.homepage-content + .article-list,
+.homepage-content ~ .article-list {
+    margin-top: 0;
 }
 
 // Page titles
