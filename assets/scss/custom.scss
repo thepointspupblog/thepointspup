@@ -12,13 +12,22 @@ $box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 
 // ===========================================
+// GLOBAL TYPOGRAPHY FIXES
+// Theme uses html { font-size: 62.5% } so 1rem = 10px
+// All rem values below are calibrated for that base.
+// ===========================================
+:root {
+    --section-separation: 25px;
+}
+
+// ===========================================
 // TABLES - Much cleaner styling
 // ===========================================
 .article-content table {
     width: 100%;
     border-collapse: collapse;
     margin: 1.5rem 0;
-    font-size: 0.95rem;
+    font-size: 1.5rem;
     border-radius: $border-radius;
     overflow: hidden;
     box-shadow: $box-shadow;
@@ -28,7 +37,7 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
         color: white;
 
         th {
-            padding: 0.875rem 1rem;
+            padding: 1rem 1.2rem;
             text-align: left;
             font-weight: 600;
             border: none;
@@ -50,7 +59,7 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
         }
 
         td {
-            padding: 0.75rem 1rem;
+            padding: 0.8rem 1.2rem;
             border: none;
             border-bottom: 1px solid #e8e4df;
 
@@ -69,37 +78,39 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 // HOMEPAGE STYLES
 // ===========================================
 .homepage-content {
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
 }
 
 // Intro section
 .homepage-intro {
     background: linear-gradient(135deg, $brand-primary 0%, darken($brand-primary, 8%) 100%);
     color: white;
-    padding: 2rem;
+    padding: 2.5rem;
     border-radius: $border-radius;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
 
     h2 {
         color: white;
         margin-top: 0;
-        font-size: 1.5rem;
+        font-size: 2.4rem;
     }
 
     p {
         margin-bottom: 1rem;
         opacity: 0.95;
-        line-height: 1.6;
+        font-size: 1.6rem;
+        line-height: 1.7;
     }
 
     .intro-link {
         display: inline-block;
         background: white;
         color: $brand-primary;
-        padding: 0.625rem 1.25rem;
+        padding: 0.8rem 1.6rem;
         border-radius: 8px;
         text-decoration: none;
         font-weight: 600;
+        font-size: 1.5rem;
         transition: all 0.2s ease;
 
         &:hover {
@@ -113,30 +124,33 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 .featured-section {
     background: $brand-light;
     border: 2px solid darken($brand-light, 8%);
-    padding: 1.5rem 2rem;
+    padding: 2rem 2.5rem;
     border-radius: $border-radius;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
     text-align: center;
 
     h3 {
         margin-top: 0;
         color: $brand-primary;
+        font-size: 2rem;
     }
 
     p {
         color: #555;
+        font-size: 1.5rem;
         margin-bottom: 1rem;
+        line-height: 1.6;
     }
 
     .quiz-button {
         display: inline-block;
         background: $brand-secondary;
         color: white;
-        padding: 0.75rem 1.5rem;
+        padding: 1rem 2rem;
         border-radius: 8px;
         text-decoration: none;
         font-weight: 600;
-        font-size: 1rem;
+        font-size: 1.6rem;
         transition: all 0.2s ease;
 
         &:hover {
@@ -149,12 +163,12 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 
 // Category bar
 .category-bar {
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
 
     h3 {
         color: $brand-dark;
         margin-bottom: 1rem;
-        font-size: 1.1rem;
+        font-size: 1.8rem;
     }
 }
 
@@ -162,21 +176,21 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 .category-pills {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    gap: 0.625rem;
+    gap: 0.8rem;
 
     .category-pill {
         display: flex;
         align-items: center;
         justify-content: center;
-        gap: 0.375rem;
+        gap: 0.5rem;
         background: white;
         border: 2px solid #e8e4df;
-        padding: 0.75rem 0.5rem;
+        padding: 1rem 0.75rem;
         border-radius: 8px;
         text-decoration: none;
         color: $brand-dark;
         font-weight: 500;
-        font-size: 0.85rem;
+        font-size: 1.4rem;
         transition: all 0.2s ease;
         white-space: nowrap;
 
@@ -192,7 +206,7 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 // Section labels
 .section-label {
     color: $brand-dark;
-    font-size: 1.1rem;
+    font-size: 1.8rem;
     margin-bottom: 1rem;
     padding-bottom: 0.5rem;
     border-bottom: 2px solid $brand-primary;
@@ -204,23 +218,23 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 // ===========================================
 #pet-policy-finder {
     background: white;
-    padding: 1.5rem;
+    padding: 2rem;
     border-radius: $border-radius;
     box-shadow: $box-shadow;
     margin: 1.5rem 0;
 
     label {
         display: block;
-        margin-bottom: 0.25rem;
+        margin-bottom: 0.4rem;
         font-weight: 600;
-        font-size: 0.85rem;
+        font-size: 1.4rem;
         color: $brand-dark;
     }
 
     select, input[type="text"], input[type="number"], input[type="password"] {
         width: 100%;
-        padding: 0.625rem 0.75rem;
-        font-size: 0.95rem;
+        padding: 0.8rem 1rem;
+        font-size: 1.5rem;
         border: 2px solid #e8e4df;
         border-radius: 8px;
         background: white;
@@ -238,19 +252,19 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 // Tabs
 .finder-tabs {
     display: flex;
-    gap: 0.375rem;
+    gap: 0.5rem;
     margin-bottom: 1.25rem;
     flex-wrap: wrap;
 }
 
 .finder-tab {
-    padding: 0.5rem 1rem;
+    padding: 0.7rem 1.4rem;
     border: 2px solid $brand-primary;
     border-radius: 8px;
     background: transparent;
     color: $brand-primary;
     font-weight: 600;
-    font-size: 0.85rem;
+    font-size: 1.4rem;
     cursor: pointer;
     transition: all 0.2s ease;
 
@@ -274,34 +288,35 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
 .finder-desc {
-    color: #666;
-    font-size: 0.9rem;
+    color: #555;
+    font-size: 1.5rem;
     margin: 0 0 1rem 0;
+    line-height: 1.6;
 }
 
 // Filter row
 .finder-filters {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 0.75rem;
-    margin-bottom: 0.75rem;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1rem;
 }
 
 .filter-field {
     display: flex;
     flex-direction: column;
-    gap: 0.25rem;
+    gap: 0.3rem;
 }
 
 // Buttons
 .finder-btn {
-    padding: 0.5rem 1.25rem;
+    padding: 0.7rem 1.6rem;
     background: $brand-primary;
     color: white;
     border: none;
     border-radius: 8px;
     font-weight: 600;
-    font-size: 0.85rem;
+    font-size: 1.4rem;
     cursor: pointer;
     transition: all 0.2s ease;
 
@@ -334,7 +349,7 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
 .result-header {
-    padding: 0.875rem 1.25rem;
+    padding: 1rem 1.25rem;
     background: rgba($brand-primary, 0.06);
     border-bottom: 1px solid darken($brand-light, 8%);
     display: flex;
@@ -344,7 +359,7 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 
     strong {
         color: $brand-primary;
-        font-size: 1.05rem;
+        font-size: 1.7rem;
     }
 }
 
@@ -352,24 +367,24 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 26px;
-    height: 26px;
+    width: 28px;
+    height: 28px;
     border-radius: 50%;
     background: $brand-primary;
     color: white;
-    font-size: 0.75rem;
+    font-size: 1.2rem;
     font-weight: 700;
     flex-shrink: 0;
 }
 
 .last-updated {
     margin-left: auto;
-    font-size: 0.75rem;
+    font-size: 1.2rem;
     color: #999;
 }
 
 .result-body {
-    padding: 1rem 1.25rem;
+    padding: 1.25rem;
 }
 
 .result-row {
@@ -377,8 +392,8 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
     gap: 0.75rem;
     padding: 0.5rem 0;
     border-bottom: 1px solid rgba(0,0,0,0.05);
-    font-size: 0.9rem;
-    line-height: 1.5;
+    font-size: 1.5rem;
+    line-height: 1.6;
 
     &:last-of-type {
         border-bottom: none;
@@ -388,29 +403,29 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 .result-label {
     font-weight: 600;
     color: $brand-dark;
-    min-width: 90px;
+    min-width: 100px;
     flex-shrink: 0;
-    font-size: 0.8rem;
+    font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: 0.02em;
-    padding-top: 0.1rem;
+    padding-top: 0.2rem;
 }
 
 .result-verdict {
     padding: 0.75rem 0 0.25rem;
     font-weight: 600;
-    font-size: 1rem;
+    font-size: 1.6rem;
 }
 
 .result-count {
-    color: #666;
-    font-size: 0.85rem;
+    color: #555;
+    font-size: 1.4rem;
     margin: 0.75rem 0 0;
 }
 
 .finder-error {
     color: #c0392b;
-    font-size: 0.9rem;
+    font-size: 1.5rem;
     margin-top: 1rem;
 }
 
@@ -425,11 +440,11 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 .check-label {
     display: flex;
     align-items: center;
-    gap: 0.35rem;
-    padding: 0.375rem 0.75rem;
+    gap: 0.4rem;
+    padding: 0.5rem 1rem;
     border: 2px solid #e8e4df;
     border-radius: 8px;
-    font-size: 0.8rem;
+    font-size: 1.3rem;
     cursor: pointer;
     user-select: none;
     transition: all 0.2s ease;
@@ -469,23 +484,23 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
 .stat-num {
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 700;
     color: $brand-primary;
     line-height: 1;
 }
 
 .stat-label {
-    font-size: 0.8rem;
-    color: #888;
-    margin-top: 0.375rem;
+    font-size: 1.3rem;
+    color: #777;
+    margin-top: 0.4rem;
 }
 
 // Admin
 .admin-section {
     h4 {
         color: $brand-primary !important;
-        font-size: 1rem !important;
+        font-size: 1.6rem !important;
         margin: 0 0 0.75rem 0 !important;
         padding: 0 !important;
         background: none !important;
@@ -494,20 +509,20 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
 .admin-msg {
-    font-size: 0.85rem;
+    font-size: 1.4rem;
     margin-top: 0.75rem;
     font-weight: 600;
 }
 
-// Mobile responsive
+// Mobile responsive for finder
 @media (max-width: 600px) {
     .finder-tabs {
-        gap: 0.25rem;
+        gap: 0.3rem;
     }
 
     .finder-tab {
-        padding: 0.4rem 0.7rem;
-        font-size: 0.78rem;
+        padding: 0.6rem 1rem;
+        font-size: 1.3rem;
     }
 
     .finder-filters {
@@ -516,7 +531,7 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 
     .result-row {
         flex-direction: column;
-        gap: 0.15rem;
+        gap: 0.2rem;
     }
 
     .result-label {
@@ -538,7 +553,7 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
     }
 
     #pet-policy-finder {
-        padding: 1rem;
+        padding: 1.25rem;
     }
 }
 
@@ -574,14 +589,21 @@ article h2, article h3, article h4 {
 // ARTICLE CONTENT - MAIN STYLING
 // ===========================================
 .article-content {
+    font-size: 1.6rem;
+    line-height: 1.8;
+
+    p {
+        margin-bottom: 1.25rem;
+    }
+
     // h2 - Main section header - HIGH CONTRAST CARD
     h2 {
         color: white !important;
-        font-size: 1.5rem !important;
+        font-size: 2.2rem !important;
         font-weight: 700 !important;
-        margin-top: 2rem !important;
-        margin-bottom: 1rem !important;
-        padding: 1rem 1.25rem !important;
+        margin-top: 2.5rem !important;
+        margin-bottom: 1.25rem !important;
+        padding: 1.2rem 1.5rem !important;
         background: $brand-primary !important;
         border-radius: 10px !important;
     }
@@ -589,11 +611,11 @@ article h2, article h3, article h4 {
     // h3 - Subsection header - CARD STYLE WITH CONTRAST
     h3 {
         color: $brand-primary !important;
-        font-size: 1.25rem !important;
+        font-size: 1.9rem !important;
         font-weight: 700 !important;
-        margin-top: 1.75rem !important;
-        margin-bottom: 0.75rem !important;
-        padding: 0.875rem 1rem !important;
+        margin-top: 2rem !important;
+        margin-bottom: 1rem !important;
+        padding: 1rem 1.25rem !important;
         background: #f5f5f5 !important;
         border-left: 4px solid $brand-primary !important;
         border-radius: 0 8px 8px 0 !important;
@@ -602,10 +624,10 @@ article h2, article h3, article h4 {
     // h4 - Minor header
     h4 {
         color: $brand-dark !important;
-        font-size: 1.1rem !important;
+        font-size: 1.7rem !important;
         font-weight: 700 !important;
-        margin-top: 1.5rem !important;
-        margin-bottom: 0.5rem !important;
+        margin-top: 1.75rem !important;
+        margin-bottom: 0.75rem !important;
         padding: 0 !important;
         background: transparent !important;
     }
@@ -623,9 +645,10 @@ article h2, article h3, article h4 {
         border: 0 none !important;
         border-left: 4px solid $brand-secondary !important;
         background: $brand-light !important;
-        padding: 1rem 1.5rem !important;
+        padding: 1.25rem 1.75rem !important;
         margin: 1.5rem 0 !important;
         border-radius: 0 8px 8px 0 !important;
+        font-size: 1.6rem;
 
         p {
             margin: 0;
@@ -635,12 +658,13 @@ article h2, article h3, article h4 {
     // Lists - clean spacing
     ul, ol {
         margin: 1rem 0;
-        padding-left: 1.5rem;
+        padding-left: 2rem;
 
         li {
-            margin-bottom: 0.625rem;
-            line-height: 1.65;
+            margin-bottom: 0.6rem;
+            line-height: 1.75;
             padding-left: 0.25rem;
+            font-size: 1.6rem;
         }
     }
 
@@ -649,7 +673,7 @@ article h2, article h3, article h4 {
         background: $brand-light;
         padding: 0.2rem 0.5rem;
         border-radius: 4px;
-        font-size: 0.88em;
+        font-size: 0.9em;
         color: $brand-primary;
         font-weight: 500;
     }
@@ -670,9 +694,9 @@ article h2, article h3, article h4 {
 
     // First paragraph - intro styling
     > p:first-of-type {
-        font-size: 1.1rem;
+        font-size: 1.7rem;
         color: #444;
-        line-height: 1.75;
+        line-height: 1.8;
         margin-bottom: 1.5rem;
     }
 
@@ -690,11 +714,12 @@ article h2, article h3, article h4 {
     background: #fff8e7;
     border: 1px solid #f0e6d0;
     border-left: 4px solid $brand-secondary;
-    padding: 1rem 1.25rem;
+    padding: 1.25rem 1.5rem;
     border-radius: 0 8px 8px 0;
     margin: 1.5rem 0;
-    font-size: 0.9rem;
-    color: #666;
+    font-size: 1.4rem;
+    color: #555;
+    line-height: 1.6;
 
     p {
         margin: 0;
@@ -718,7 +743,7 @@ article h2, article h3, article h4 {
 // ===========================================
 .article-content p:has(strong:first-child) {
     background: #f8f9fa;
-    padding: 0.875rem 1rem;
+    padding: 1rem 1.25rem;
     border-radius: 6px;
     border-left: 3px solid #dee2e6;
 }
@@ -742,7 +767,7 @@ article h2, article h3, article h4 {
     background: white;
     border: 1px solid #e8e4df;
     border-radius: $border-radius;
-    padding: 1.25rem 1.5rem;
+    padding: 1.5rem 1.75rem;
     box-shadow: $box-shadow;
     transition: all 0.2s ease;
 
@@ -753,7 +778,7 @@ article h2, article h3, article h4 {
 
     h3 {
         color: $brand-primary !important;
-        font-size: 1.1rem !important;
+        font-size: 1.8rem !important;
         font-weight: 600 !important;
         margin: 0 0 0.5rem 0 !important;
         padding: 0 !important;
@@ -763,20 +788,20 @@ article h2, article h3, article h4 {
     }
 
     .card-desc {
-        color: #666;
-        font-size: 0.9rem;
+        color: #555;
+        font-size: 1.5rem;
         margin-bottom: 0.75rem;
-        line-height: 1.5;
+        line-height: 1.6;
     }
 
     ul {
         margin: 0;
-        padding-left: 1.25rem;
+        padding-left: 1.5rem;
 
         li {
             margin-bottom: 0.5rem;
-            font-size: 0.9rem;
-            line-height: 1.4;
+            font-size: 1.5rem;
+            line-height: 1.5;
 
             a {
                 color: $brand-dark;
@@ -823,14 +848,92 @@ article h2, article h3, article h4 {
 // Page intro for category pages
 .page-intro {
     background: $brand-light;
-    padding: 1.25rem 1.5rem;
+    padding: 1.5rem 1.75rem;
     border-radius: $border-radius;
     margin-bottom: 1.5rem;
 
     p {
         margin: 0;
         color: #555;
+        font-size: 1.5rem;
+        line-height: 1.7;
+    }
+}
+
+// ===========================================
+// CATEGORY LANDING PAGE
+// ===========================================
+.category-landing {
+    .category-header {
+        margin-bottom: 1.5rem;
+
+        h1 {
+            font-size: 2.8rem;
+            color: $brand-dark;
+            margin-bottom: 0.5rem;
+        }
+
+        .category-description {
+            font-size: 1.6rem;
+            color: #555;
+            line-height: 1.7;
+        }
+    }
+}
+
+// ===========================================
+// 404 PAGE
+// ===========================================
+.error-page {
+    text-align: center;
+    padding: 3rem 1.5rem;
+
+    h1 {
+        font-size: 6rem;
+        color: $brand-primary;
+        margin-bottom: 1rem;
+    }
+
+    p {
+        font-size: 1.6rem;
+        color: #555;
         line-height: 1.6;
+    }
+
+    .error-links {
+        display: flex;
+        gap: 1rem;
+        justify-content: center;
+        margin-top: 2rem;
+        flex-wrap: wrap;
+
+        a {
+            display: inline-block;
+            padding: 0.8rem 1.6rem;
+            background: $brand-primary;
+            color: white;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 1.5rem;
+            font-weight: 600;
+            transition: all 0.2s ease;
+
+            &:hover {
+                background: darken($brand-primary, 8%);
+                transform: translateY(-2px);
+            }
+        }
+    }
+}
+
+// ===========================================
+// FOOTER
+// ===========================================
+.site-footer {
+    font-size: 1.4rem;
+
+    .footer-nav a {
+        font-size: 1.4rem;
     }
 }
 
@@ -845,15 +948,27 @@ article h2, article h3, article h4 {
 
 @media (max-width: 768px) {
     .homepage-intro {
-        padding: 1.5rem;
+        padding: 2rem;
 
         h2 {
-            font-size: 1.3rem;
+            font-size: 2.1rem;
+        }
+
+        p {
+            font-size: 1.5rem;
         }
     }
 
     .featured-section {
-        padding: 1.25rem;
+        padding: 1.5rem;
+
+        h3 {
+            font-size: 1.8rem;
+        }
+
+        p {
+            font-size: 1.4rem;
+        }
     }
 
     .category-pills {
@@ -861,8 +976,8 @@ article h2, article h3, article h4 {
         gap: 0.5rem;
 
         .category-pill {
-            padding: 0.625rem;
-            font-size: 0.8rem;
+            padding: 0.8rem;
+            font-size: 1.3rem;
         }
     }
 
@@ -875,27 +990,98 @@ article h2, article h3, article h4 {
     }
 
     .guide-card {
-        padding: 1rem 1.25rem;
+        padding: 1.25rem 1.5rem;
+    }
+
+    .article-content {
+        h2 {
+            font-size: 2rem !important;
+            padding: 1rem 1.25rem !important;
+        }
+
+        h3 {
+            font-size: 1.7rem !important;
+        }
+
+        h4 {
+            font-size: 1.6rem !important;
+        }
     }
 
     .article-content table {
-        font-size: 0.85rem;
+        font-size: 1.4rem;
         display: block;
         overflow-x: auto;
 
         thead th,
         tbody td {
-            padding: 0.625rem 0.75rem;
+            padding: 0.7rem 0.8rem;
         }
     }
 
     #pet-policy-finder {
-        padding: 1rem;
+        padding: 1.25rem;
+    }
+
+    .section-label {
+        font-size: 1.6rem;
+    }
+
+    .category-bar h3 {
+        font-size: 1.6rem;
+    }
+
+    .category-landing .category-header h1 {
+        font-size: 2.4rem;
     }
 }
 
 @media (max-width: 480px) {
     .category-pills {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .homepage-intro {
+        padding: 1.5rem;
+
+        h2 {
+            font-size: 1.9rem;
+        }
+    }
+
+    .article-content {
+        font-size: 1.5rem;
+
+        h2 {
+            font-size: 1.8rem !important;
+        }
+
+        h3 {
+            font-size: 1.6rem !important;
+        }
+
+        li {
+            font-size: 1.5rem;
+        }
+
+        > p:first-of-type {
+            font-size: 1.6rem;
+        }
+    }
+
+    .finder-desc {
+        font-size: 1.4rem;
+    }
+
+    .result-row {
+        font-size: 1.4rem;
+    }
+
+    .stats-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .error-page h1 {
+        font-size: 4.5rem;
     }
 }
