@@ -17,7 +17,7 @@ $box-shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.12);
 // All rem values below are calibrated for that base.
 // ===========================================
 :root {
-    --section-separation: 25px;
+    --section-separation: 15px;
 }
 
 // ===========================================
@@ -925,6 +925,90 @@ article h2, article h3, article h4 {
             }
         }
     }
+}
+
+// ===========================================
+// TAG & TAXONOMY LIST PAGES
+// ===========================================
+.section-title {
+    font-size: 1.4rem;
+    color: #888;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.section-card {
+    border-radius: $border-radius;
+    background: white;
+    padding: 2rem;
+    box-shadow: $box-shadow;
+    margin-bottom: 1.5rem;
+
+    .section-term {
+        font-size: 2.4rem;
+        color: $brand-primary;
+        font-weight: 700;
+    }
+
+    .section-count {
+        font-size: 1.3rem;
+        color: #888;
+        text-transform: uppercase;
+    }
+
+    .section-description {
+        font-size: 1.5rem;
+        color: #555;
+        line-height: 1.6;
+    }
+}
+
+// Compact article list (used on tag/taxonomy pages)
+.article-list--compact {
+    border-radius: $border-radius;
+    overflow: hidden;
+
+    article {
+        a {
+            padding: 1.5rem 2rem;
+        }
+
+        .article-title {
+            font-size: 1.7rem;
+            color: $brand-dark;
+        }
+
+        .article-time {
+            time, a {
+                font-size: 1.3rem;
+            }
+        }
+
+        .article-preview {
+            font-size: 1.4rem;
+            color: #555;
+            line-height: 1.6;
+        }
+    }
+}
+
+// Subsection tiles (tag/category overview pages)
+.subsection-list {
+    margin-bottom: 1.5rem;
+
+    .article-list--tile article {
+        .article-title {
+            font-size: 1.6rem;
+        }
+    }
+}
+
+// Tag/category badges in articles
+.article-category a,
+.article-tags a {
+    font-size: 1.3rem;
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
 }
 
 // ===========================================
