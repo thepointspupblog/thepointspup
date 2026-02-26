@@ -24,8 +24,11 @@ Not sure if your dog is welcome? Use this tool to quickly check pet policies for
 
 <!-- LOOK UP -->
 <div class="finder-panel active" id="panel-lookup">
-  <select id="hotel-select">
-    <option value="">-- Choose a hotel chain --</option>
+  <div id="loading-banner" class="loading-banner">
+    <span class="loading-spinner"></span> Loading hotel data — this may take a moment on first visit...
+  </div>
+  <select id="hotel-select" disabled>
+    <option value="">-- Loading hotel chains... --</option>
   </select>
   <div id="lookup-result"></div>
 </div>
@@ -200,20 +203,25 @@ document.getElementById('finder-tabs').addEventListener('click', function(e) {
 
 // Load hotels
 async function loadHotels() {
+  const banner = document.getElementById('loading-banner');
+  const select = document.getElementById('hotel-select');
   try {
-    const res = await fetch(API + "/hotels", { signal: AbortSignal.timeout(10000) });
+    const res = await fetch(API + "/hotels", { signal: AbortSignal.timeout(60000) });
     if (!res.ok) throw new Error();
     const hotels = await res.json();
     hotels.sort((a, b) => a.name.localeCompare(b.name));
-    const select = document.getElementById('hotel-select');
     const adminSelect = document.getElementById('admin-select');
     const checks = document.getElementById('compare-checks');
+    select.innerHTML = '<option value="">-- Choose a hotel chain --</option>';
     hotels.forEach(h => {
       select.innerHTML += `<option value="${h.id}">${h.name}</option>`;
       if (isAdmin) adminSelect.innerHTML += `<option value="${h.id}">${h.name}</option>`;
       checks.innerHTML += `<label class="check-label"><input type="checkbox" value="${h.id}"><span>${h.name}</span></label>`;
     });
+    select.disabled = false;
+    banner.style.display = 'none';
   } catch (e) {
+    banner.innerHTML = '<span class="loading-spinner"></span> Server is waking up — retrying...';
     setTimeout(loadHotels, 5000);
   }
 }
